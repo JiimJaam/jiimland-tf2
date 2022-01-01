@@ -1,8 +1,0 @@
-L 08/28/2020 - 02:42:50: SourceMod error session started
-L 08/28/2020 - 02:42:50: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200828.log")
-L 08/28/2020 - 02:42:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
-L 08/28/2020 - 02:42:50: [SM] Blaming: admincheats.smx
-L 08/28/2020 - 02:42:50: [SM] Call stack trace:
-L 08/28/2020 - 02:42:50: [SM]   [0] PrintToConsole
-L 08/28/2020 - 02:42:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
-L 08/28/2020 - 03:58:59: Error log file session closed.
