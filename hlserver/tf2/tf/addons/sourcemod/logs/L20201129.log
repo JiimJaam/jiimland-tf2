@@ -1,0 +1,214 @@
+L 11/29/2020 - 07:31:43: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20201129.log") (Version "1.10.0.6490")
+L 11/29/2020 - 07:31:43: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 11/29/2020 - 07:31:43: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 11/29/2020 - 07:31:43: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/29/2020 - 07:31:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/29/2020 - 07:31:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/29/2020 - 07:32:39: [basecommands.smx] "Meth and Phetamines<4><[U:1:109549249]><>" changed map to "koth_viaduct"
+L 11/29/2020 - 07:32:42: [SM] Changed map to "koth_viaduct"
+L 11/29/2020 - 07:32:44: -------- Mapchange to koth_viaduct --------
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/29/2020 - 07:32:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/29/2020 - 07:32:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/29/2020 - 07:33:51: [basecommands.smx] "Meth and Phetamines<4><[U:1:109549249]><>" console command (cmdline "tf_bot_add 24")
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Aperture Science Prototype XR7<8><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Humans Are Weak<9><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "AimBot<10><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "C++<11><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "GutsAndGlory!<12><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Nobody<13><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Saxton Hale<14><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "RageQuit<15><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Screamin' Eagles<16><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Ze Ubermensch<17><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Maggot<18><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "CRITRAWKETS<19><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Herr Doktor<20><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Gentlemanne of Leisure<21><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Companion Cube<22><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Target Practice<23><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "One-Man Cheeseburger Apocalypse<24><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Crowbar<25><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Delicious Cake<26><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "IvanTheSpaceBiker<27><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "I LIVE!<28><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Cannon Fodder<29><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "trigger_hurt<30><BOT><>"
+L 11/29/2020 - 07:34:10: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Nom Nom Nom<31><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Aperture Science Prototype XR7<8><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Humans Are Weak<9><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "AimBot<10><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "C++<11><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "GutsAndGlory!<12><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Nobody<13><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "RageQuit<15><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Maggot<18><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "CRITRAWKETS<19><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Companion Cube<22><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Delicious Cake<26><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "IvanTheSpaceBiker<27><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "I LIVE!<28><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Cannon Fodder<29><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "trigger_hurt<30><BOT><>"
+L 11/29/2020 - 07:34:52: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave weapon 7018 to "Nom Nom Nom<31><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "SourceTV<2><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Aar<3><[U:1:89189905]><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Meth and Phetamines<4><[U:1:109549249]><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "rwn<5><[U:1:52739223]><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "staryoshi06<6><[U:1:87379948]><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "GardenOfStone<7><[U:1:1109604806]><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Aperture Science Prototype XR7<8><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Humans Are Weak<9><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "AimBot<10><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "C++<11><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "GutsAndGlory!<12><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Nobody<13><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Saxton Hale<14><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "RageQuit<15><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Screamin' Eagles<16><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Ze Ubermensch<17><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Maggot<18><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "CRITRAWKETS<19><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Herr Doktor<20><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Gentlemanne of Leisure<21><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Companion Cube<22><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Target Practice<23><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "One-Man Cheeseburger Apocalypse<24><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Crowbar<25><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Delicious Cake<26><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "IvanTheSpaceBiker<27><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "I LIVE!<28><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Cannon Fodder<29><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "trigger_hurt<30><BOT><>"
+L 11/29/2020 - 07:35:08: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Nom Nom Nom<31><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Aperture Science Prototype XR7<8><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Humans Are Weak<9><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "AimBot<10><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "GutsAndGlory!<12><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Nobody<13><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Saxton Hale<14><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "RageQuit<15><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Screamin' Eagles<16><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Ze Ubermensch<17><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Maggot<18><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "CRITRAWKETS<19><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Herr Doktor<20><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Companion Cube<22><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Target Practice<23><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Crowbar<25><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Delicious Cake<26><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "I LIVE!<28><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Cannon Fodder<29><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "trigger_hurt<30><BOT><>"
+L 11/29/2020 - 07:35:16: [playercommands.smx] "Aar<3><[U:1:89189905]><>" slayed "Nom Nom Nom<31><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "SourceTV<2><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Aar<3><[U:1:89189905]><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Meth and Phetamines<4><[U:1:109549249]><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "rwn<5><[U:1:52739223]><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "staryoshi06<6><[U:1:87379948]><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "GardenOfStone<7><[U:1:1109604806]><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Aperture Science Prototype XR7<8><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Humans Are Weak<9><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "AimBot<10><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "C++<11><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "GutsAndGlory!<12><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Nobody<13><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Saxton Hale<14><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "RageQuit<15><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Screamin' Eagles<16><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Ze Ubermensch<17><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Maggot<18><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "CRITRAWKETS<19><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Herr Doktor<20><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Gentlemanne of Leisure<21><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Companion Cube<22><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Target Practice<23><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "One-Man Cheeseburger Apocalypse<24><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Crowbar<25><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Delicious Cake<26><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "IvanTheSpaceBiker<27><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "I LIVE!<28><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Cannon Fodder<29><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "trigger_hurt<30><BOT><>"
+L 11/29/2020 - 07:35:29: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Nom Nom Nom<31><BOT><>"
+L 11/29/2020 - 07:36:07: [basecommands.smx] "Meth and Phetamines<4><[U:1:109549249]><>" console command (cmdline "tf_bot_difficulty ")
+L 11/29/2020 - 07:36:11: [basecommands.smx] "Meth and Phetamines<4><[U:1:109549249]><>" console command (cmdline "tf_bot_difficulty 0")
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "SourceTV<2><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Aar<3><[U:1:89189905]><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Meth and Phetamines<4><[U:1:109549249]><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "rwn<5><[U:1:52739223]><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "staryoshi06<6><[U:1:87379948]><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Aperture Science Prototype XR7<8><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Humans Are Weak<9><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "AimBot<10><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "C++<11><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "GutsAndGlory!<12><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Nobody<13><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Saxton Hale<14><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "RageQuit<15><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Screamin' Eagles<16><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Ze Ubermensch<17><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Maggot<18><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "CRITRAWKETS<19><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Herr Doktor<20><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Gentlemanne of Leisure<21><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Companion Cube<22><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Target Practice<23><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "One-Man Cheeseburger Apocalypse<24><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Crowbar<25><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Delicious Cake<26><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "IvanTheSpaceBiker<27><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "I LIVE!<28><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Cannon Fodder<29><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "trigger_hurt<30><BOT><>"
+L 11/29/2020 - 07:36:48: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" gave a permanent weapon 35 to "Nom Nom Nom<31><BOT><>"
+L 11/29/2020 - 07:39:07: [basecommands.smx] "Meth and Phetamines<4><[U:1:109549249]><>" console command (cmdline "tf_bot_kick all")
+L 11/29/2020 - 07:39:43: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" reset permanent weapons for "SourceTV<2><BOT><>", 
+L 11/29/2020 - 07:39:43: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" reset permanent weapons for "Meth and Phetamines<4><[U:1:109549249]><>", 
+L 11/29/2020 - 07:39:43: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" reset permanent weapons for "rwn<5><[U:1:52739223]><>", 
+L 11/29/2020 - 07:39:43: [tf2items_giveweapon.smx] "Meth and Phetamines<4><[U:1:109549249]><>" reset permanent weapons for "staryoshi06<6><[U:1:87379948]><>", 
+L 11/29/2020 - 07:41:03: [basecommands.smx] "Meth and Phetamines<4><[U:1:109549249]><>" changed map to "workshop/koth_product_rcx.ugc454272353"
+L 11/29/2020 - 07:41:06: [SM] Changed map to "workshop/koth_product_rcx.ugc454272353"
+L 11/29/2020 - 07:41:09: -------- Mapchange to workshop/koth_product_rcx.ugc454272353 --------
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/29/2020 - 07:41:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/29/2020 - 07:41:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/29/2020 - 07:42:33: [basecommands.smx] "Meth and Phetamines<4><[U:1:109549249]><>" changed map to "pl_upward"
+L 11/29/2020 - 07:42:36: [SM] Changed map to "pl_upward"
+L 11/29/2020 - 07:42:38: -------- Mapchange to pl_upward --------
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/29/2020 - 07:42:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/29/2020 - 07:42:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")

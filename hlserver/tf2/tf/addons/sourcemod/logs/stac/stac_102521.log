@@ -1,0 +1,207 @@
+L 10/25/2021 - 04:01:29: [stac.smx] [Steamtools] Steam connected.
+L 10/25/2021 - 04:01:30: [stac.smx] [SteamWorks] Steam connected.
+L 10/25/2021 - 04:11:06: [stac.smx] [Steamtools] Steam connected.
+L 10/25/2021 - 04:11:06: [stac.smx] [SteamWorks] Steam connected.
+L 10/26/2021 - 02:45:29: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 356.28 117.69 0.00.
+Detections so far: 1
+L 10/26/2021 - 02:45:29: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:45:29: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 355.90 117.66 0.00.
+Detections so far: 2
+L 10/26/2021 - 02:45:29: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:45:33: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 357.57 80.77 0.00.
+Detections so far: 3
+L 10/26/2021 - 02:45:33: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:45:48: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 76 on betty.
+Detections so far: 1.
+L 10/26/2021 - 02:45:48: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:45:48: [stac.smx] 
+Network:
+ 151.59 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 192.39 kbps rate
+ 134.77 pps rate
+L 10/26/2021 - 02:45:48: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 10/26/2021 - 02:45:48: [stac.smx] 
+Previous cmdnums:
+0 2100
+1 2024
+2 2023
+3 2022
+4 2021
+5 2020
+L 10/26/2021 - 02:45:48: [stac.smx] 
+Previous tickcounts:
+0 5418869
+1 5418868
+2 5418867
+3 5418866
+4 5418865
+5 5418864
+L 10/26/2021 - 02:45:51: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 355.30 10.45 0.00.
+Detections so far: 4
+L 10/26/2021 - 02:45:51: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:46:14: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 304.09 103.81 0.00.
+Detections so far: 5
+L 10/26/2021 - 02:46:14: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:46:14: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 104 on betty.
+Detections so far: 2.
+L 10/26/2021 - 02:46:14: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:46:14: [stac.smx] 
+Network:
+ 151.11 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 183.93 kbps rate
+ 134.66 pps rate
+L 10/26/2021 - 02:46:14: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 10/26/2021 - 02:46:14: [stac.smx] 
+Previous cmdnums:
+0 3868
+1 3764
+2 3763
+3 3762
+4 3761
+5 3760
+L 10/26/2021 - 02:46:14: [stac.smx] 
+Previous tickcounts:
+0 5420609
+1 5420608
+2 5420607
+3 5420606
+4 5420605
+5 5420604
+L 10/26/2021 - 02:46:15: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 310.24 57.53 0.00.
+Detections so far: 6
+L 10/26/2021 - 02:46:15: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:46:16: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 330.43 39.68 0.00.
+Detections so far: 7
+L 10/26/2021 - 02:46:16: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:46:19: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 291.37 239.26 0.00.
+Detections so far: 8
+L 10/26/2021 - 02:46:19: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:46:21: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 337.61 236.65 0.00.
+Detections so far: 9
+L 10/26/2021 - 02:46:21: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:46:24: [stac.smx] 
+
+----------
+
+[StAC] Player betty has invalid eye angles!
+Current angles: 354.52 180.49 0.00.
+Detections so far: 10
+L 10/26/2021 - 02:46:24: [stac.smx] 
+ Player: betty<34><[U:1:881851727]><>
+ StAC cached SteamID: STEAM_0:1:440925863
+L 10/26/2021 - 02:46:24: [stac.smx] [StAC] No STV demo is being recorded, no demo name will be printed to the ban reason!
+L 10/26/2021 - 03:32:16: [stac.smx] 
+
+----------
+
+[StAC] Player Jwa1ky‏ bhopped!
+Consecutive detections so far: 5
+L 10/26/2021 - 03:32:16: [stac.smx] 
+ Player: Jwa1ky‏<41><[U:1:325701844]><>
+ StAC cached SteamID: STEAM_0:0:162850922
+L 10/26/2021 - 03:33:09: [stac.smx] 
+
+----------
+
+[StAC] Player Jwa1ky‏ bhopped!
+Consecutive detections so far: 5
+L 10/26/2021 - 03:33:09: [stac.smx] 
+ Player: Jwa1ky‏<41><[U:1:325701844]><>
+ StAC cached SteamID: STEAM_0:0:162850922

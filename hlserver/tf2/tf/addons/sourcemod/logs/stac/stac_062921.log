@@ -1,0 +1,1003 @@
+L 06/29/2021 - 04:01:49: [stac.smx] [Steamtools] Steam connected.
+L 06/29/2021 - 07:04:06: [stac.smx] [StAC] Player っ◔◡◔)っ ♥Gabbi♥ bhopped!
+Consecutive detections so far: 5
+L 06/29/2021 - 18:06:32: [stac.smx] [Steamtools] Steam disconnected.
+L 06/29/2021 - 18:06:50: [stac.smx] [Steamtools] Steam connected.
+L 06/29/2021 - 18:28:18: [stac.smx] [Steamtools] Steam disconnected.
+L 06/29/2021 - 18:28:24: [stac.smx] [Steamtools] Steam connected.
+L 06/29/2021 - 19:37:42: [stac.smx] [StAC] SilentAim detection of 22.48° on NINTENDO.21.
+Detections so far: 1. fuzzy = no norecoil = no
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Network:
+ 173.86 ms ping
+ 0.00 loss
+ 1.54 inchoke
+ 0.00 outchoke
+ 1.54 totalchoke
+ 117.33 kbps rate
+ 134.07 pps rate
+L 06/29/2021 - 19:37:42: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈66 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Angles:
+ angles0: x 14.810238 y -86.870010
+ angles1: x 10.516767 y -64.797004
+ angles2: x 14.810238 y -86.870010
+ angles3: x 10.380765 y -66.877014
+ angles4: x 14.810238 y -86.870010
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Previous cmdnums:
+0 20368
+1 20367
+2 20366
+3 20365
+4 20364
+5 20363
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Previous tickcounts:
+0 3743582
+1 3743581
+2 3743580
+3 3743579
+4 3743578
+5 3743577
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.400000
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 9
+1 9
+2 1
+3 1
+4 1
+5 1
+L 06/29/2021 - 19:37:42: [stac.smx] [StAC] SilentAim detection of 26.16° on NINTENDO.21.
+Detections so far: 2. fuzzy = no norecoil = no
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Network:
+ 173.86 ms ping
+ 0.00 loss
+ 1.54 inchoke
+ 0.00 outchoke
+ 1.54 totalchoke
+ 117.33 kbps rate
+ 134.07 pps rate
+L 06/29/2021 - 19:37:42: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈66 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Angles:
+ angles0: x 14.810238 y -86.870010
+ angles1: x 10.359950 y -61.084403
+ angles2: x 14.810238 y -86.870010
+ angles3: x 10.516767 y -64.797004
+ angles4: x 14.810238 y -86.870010
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Previous cmdnums:
+0 20370
+1 20369
+2 20368
+3 20367
+4 20366
+5 20365
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Previous tickcounts:
+0 3743584
+1 3743583
+2 3743582
+3 3743581
+4 3743580
+5 3743579
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.400000
+L 06/29/2021 - 19:37:42: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 9
+1 9
+2 9
+3 9
+4 1
+5 1
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 234 on NINTENDO.21.
+Detections so far: 1.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.15 ms ping
+ 0.00 loss
+ 2.79 inchoke
+ 0.00 outchoke
+ 2.79 totalchoke
+ 130.88 kbps rate
+ 133.21 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 31310
+1 31076
+2 31075
+3 31074
+4 31073
+5 31072
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754292
+1 3754291
+2 3754290
+3 3754289
+4 3754288
+5 3754287
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 514 on NINTENDO.21.
+Detections so far: 2.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.15 ms ping
+ 0.00 loss
+ 2.79 inchoke
+ 0.00 outchoke
+ 2.79 totalchoke
+ 130.88 kbps rate
+ 133.21 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 31824
+1 31310
+2 31076
+3 31075
+4 31074
+5 31073
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754293
+1 3754292
+2 3754291
+3 3754290
+4 3754289
+5 3754288
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 394 on NINTENDO.21.
+Detections so far: 3.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.42 ms ping
+ 0.00 loss
+ 2.84 inchoke
+ 0.00 outchoke
+ 2.84 totalchoke
+ 130.86 kbps rate
+ 133.38 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 32223
+1 31829
+2 31828
+3 31827
+4 31826
+5 31825
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754299
+1 3754298
+2 3754297
+3 3754296
+4 3754295
+5 3754294
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 194 on NINTENDO.21.
+Detections so far: 4.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.42 ms ping
+ 0.00 loss
+ 2.84 inchoke
+ 0.00 outchoke
+ 2.84 totalchoke
+ 130.86 kbps rate
+ 133.38 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 32417
+1 32223
+2 31829
+3 31828
+4 31827
+5 31826
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754300
+1 3754299
+2 3754298
+3 3754297
+4 3754296
+5 3754295
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 305 on NINTENDO.21.
+Detections so far: 5.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.42 ms ping
+ 0.00 loss
+ 2.84 inchoke
+ 0.00 outchoke
+ 2.84 totalchoke
+ 130.86 kbps rate
+ 133.38 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 32727
+1 32422
+2 32421
+3 32420
+4 32419
+5 32418
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754306
+1 3754305
+2 3754304
+3 3754303
+4 3754302
+5 3754301
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 296 on NINTENDO.21.
+Detections so far: 6.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.42 ms ping
+ 0.00 loss
+ 2.84 inchoke
+ 0.00 outchoke
+ 2.84 totalchoke
+ 130.86 kbps rate
+ 133.38 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 33023
+1 32727
+2 32422
+3 32421
+4 32420
+5 32419
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754307
+1 3754306
+2 3754305
+3 3754304
+4 3754303
+5 3754302
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 955 on NINTENDO.21.
+Detections so far: 7.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.42 ms ping
+ 0.00 loss
+ 2.84 inchoke
+ 0.00 outchoke
+ 2.84 totalchoke
+ 130.86 kbps rate
+ 133.38 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 33991
+1 33036
+2 33028
+3 33027
+4 33026
+5 33025
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754314
+1 3754313
+2 3754312
+3 3754311
+4 3754310
+5 3754309
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 76 on NINTENDO.21.
+Detections so far: 8.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.42 ms ping
+ 0.00 loss
+ 2.84 inchoke
+ 0.00 outchoke
+ 2.84 totalchoke
+ 130.86 kbps rate
+ 133.38 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 34072
+1 33996
+2 33995
+3 33994
+4 33993
+5 33992
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754320
+1 3754319
+2 3754318
+3 3754317
+4 3754316
+5 3754315
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 367 on NINTENDO.21.
+Detections so far: 9.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.42 ms ping
+ 0.00 loss
+ 2.84 inchoke
+ 0.00 outchoke
+ 2.84 totalchoke
+ 130.86 kbps rate
+ 133.38 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 34439
+1 34072
+2 33996
+3 33995
+4 33994
+5 33993
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754321
+1 3754320
+2 3754319
+3 3754318
+4 3754317
+5 3754316
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 166 on NINTENDO.21.
+Detections so far: 10.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.42 ms ping
+ 0.00 loss
+ 2.84 inchoke
+ 0.00 outchoke
+ 2.84 totalchoke
+ 130.86 kbps rate
+ 133.38 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 34610
+1 34444
+2 34443
+3 34442
+4 34441
+5 34440
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754327
+1 3754326
+2 3754325
+3 3754324
+4 3754323
+5 3754322
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 120 on NINTENDO.21.
+Detections so far: 11.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.65 ms ping
+ 0.00 loss
+ 4.52 inchoke
+ 0.00 outchoke
+ 4.52 totalchoke
+ 132.47 kbps rate
+ 131.80 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 34738
+1 34618
+2 34617
+3 34616
+4 34615
+5 34614
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754334
+1 3754333
+2 3754332
+3 3754331
+4 3754330
+5 3754329
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 259 on NINTENDO.21.
+Detections so far: 12.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.65 ms ping
+ 0.00 loss
+ 4.52 inchoke
+ 0.00 outchoke
+ 4.52 totalchoke
+ 132.47 kbps rate
+ 131.80 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 34997
+1 34738
+2 34618
+3 34617
+4 34616
+5 34615
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754335
+1 3754334
+2 3754333
+3 3754332
+4 3754331
+5 3754330
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 80 on NINTENDO.21.
+Detections so far: 13.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.65 ms ping
+ 0.00 loss
+ 4.52 inchoke
+ 0.00 outchoke
+ 4.52 totalchoke
+ 132.47 kbps rate
+ 131.80 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 35106
+1 35026
+2 35002
+3 35001
+4 35000
+5 34999
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754342
+1 3754341
+2 3754340
+3 3754339
+4 3754338
+5 3754337
+L 06/29/2021 - 19:40:23: [stac.smx] [StAC] Cmdnum SPIKE of 1344 on NINTENDO.21.
+Detections so far: 14.
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Network:
+ 63.65 ms ping
+ 0.00 loss
+ 4.52 inchoke
+ 0.00 outchoke
+ 4.52 totalchoke
+ 132.47 kbps rate
+ 131.80 pps rate
+L 06/29/2021 - 19:40:23: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous cmdnums:
+0 36495
+1 35151
+2 35111
+3 35110
+4 35109
+5 35108
+L 06/29/2021 - 19:40:23: [stac.smx] 
+Previous tickcounts:
+0 3754349
+1 3754348
+2 3754347
+3 3754346
+4 3754345
+5 3754344
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 481 on NINTENDO.21.
+Detections so far: 15.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.65 ms ping
+ 0.00 loss
+ 4.52 inchoke
+ 0.00 outchoke
+ 4.52 totalchoke
+ 132.47 kbps rate
+ 131.80 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 36981
+1 36500
+2 36499
+3 36498
+4 36497
+5 36496
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754355
+1 3754354
+2 3754353
+3 3754352
+4 3754351
+5 3754350
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 333 on NINTENDO.21.
+Detections so far: 16.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.65 ms ping
+ 0.00 loss
+ 4.52 inchoke
+ 0.00 outchoke
+ 4.52 totalchoke
+ 132.47 kbps rate
+ 131.80 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 37314
+1 36981
+2 36500
+3 36499
+4 36498
+5 36497
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754356
+1 3754355
+2 3754354
+3 3754353
+4 3754352
+5 3754351
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 374 on NINTENDO.21.
+Detections so far: 17.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.65 ms ping
+ 0.00 loss
+ 4.52 inchoke
+ 0.00 outchoke
+ 4.52 totalchoke
+ 132.47 kbps rate
+ 131.80 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 37693
+1 37319
+2 37318
+3 37317
+4 37316
+5 37315
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754362
+1 3754361
+2 3754360
+3 3754359
+4 3754358
+5 3754357
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 141 on NINTENDO.21.
+Detections so far: 18.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.65 ms ping
+ 0.00 loss
+ 4.52 inchoke
+ 0.00 outchoke
+ 4.52 totalchoke
+ 132.47 kbps rate
+ 131.80 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 37834
+1 37693
+2 37319
+3 37318
+4 37317
+5 37316
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754363
+1 3754362
+2 3754361
+3 3754360
+4 3754359
+5 3754358
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 422 on NINTENDO.21.
+Detections so far: 19.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.68 ms ping
+ 0.00 loss
+ 11.62 inchoke
+ 0.00 outchoke
+ 11.62 totalchoke
+ 133.23 kbps rate
+ 127.31 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 38307
+1 37885
+2 37839
+3 37838
+4 37837
+5 37836
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754370
+1 3754369
+2 3754368
+3 3754367
+4 3754366
+5 3754365
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 206 on NINTENDO.21.
+Detections so far: 20.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.68 ms ping
+ 0.00 loss
+ 11.62 inchoke
+ 0.00 outchoke
+ 11.62 totalchoke
+ 133.23 kbps rate
+ 127.31 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 38518
+1 38312
+2 38311
+3 38310
+4 38309
+5 38308
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754376
+1 3754375
+2 3754374
+3 3754373
+4 3754372
+5 3754371
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 209 on NINTENDO.21.
+Detections so far: 21.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.68 ms ping
+ 0.00 loss
+ 11.62 inchoke
+ 0.00 outchoke
+ 11.62 totalchoke
+ 133.23 kbps rate
+ 127.31 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 38727
+1 38518
+2 38312
+3 38311
+4 38310
+5 38309
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754377
+1 3754376
+2 3754375
+3 3754374
+4 3754373
+5 3754372
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 397 on NINTENDO.21.
+Detections so far: 22.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.68 ms ping
+ 0.00 loss
+ 11.62 inchoke
+ 0.00 outchoke
+ 11.62 totalchoke
+ 133.23 kbps rate
+ 127.31 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 39190
+1 38793
+2 38792
+3 38791
+4 38790
+5 38789
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754390
+1 3754389
+2 3754388
+3 3754387
+4 3754386
+5 3754385
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 1496 on NINTENDO.21.
+Detections so far: 23.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.68 ms ping
+ 0.00 loss
+ 11.62 inchoke
+ 0.00 outchoke
+ 11.62 totalchoke
+ 133.23 kbps rate
+ 127.31 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 40686
+1 39190
+2 38793
+3 38792
+4 38791
+5 38790
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754391
+1 3754390
+2 3754389
+3 3754388
+4 3754387
+5 3754386
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 145 on NINTENDO.21.
+Detections so far: 24.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.23 ms ping
+ 0.00 loss
+ 13.18 inchoke
+ 0.00 outchoke
+ 13.18 totalchoke
+ 133.92 kbps rate
+ 125.87 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 40836
+1 40691
+2 40690
+3 40689
+4 40688
+5 40687
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754397
+1 3754396
+2 3754395
+3 3754394
+4 3754393
+5 3754392
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] Cmdnum SPIKE of 92 on NINTENDO.21.
+Detections so far: 25.
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Network:
+ 63.23 ms ping
+ 0.00 loss
+ 13.18 inchoke
+ 0.00 outchoke
+ 13.18 totalchoke
+ 133.92 kbps rate
+ 125.87 pps rate
+L 06/29/2021 - 19:40:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous cmdnums:
+0 40928
+1 40836
+2 40691
+3 40690
+4 40689
+5 40688
+L 06/29/2021 - 19:40:24: [stac.smx] 
+Previous tickcounts:
+0 3754398
+1 3754397
+2 3754396
+3 3754395
+4 3754394
+5 3754393
+L 06/29/2021 - 19:40:24: [stac.smx] [StAC] No STV demo is being recorded, no demo name will be printed to the ban reason!
+L 06/30/2021 - 03:26:27: [stac.smx] [StAC] Player 9V battery licker bhopped!
+Consecutive detections so far: 5

@@ -1,0 +1,39 @@
+L 03/09/2021 - 08:36:33: SourceMod error session started
+L 03/09/2021 - 08:36:33: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210309.log")
+L 03/09/2021 - 08:36:33: [SM] Exception reported: Database failure: Could not find Database conf "sourcebans"
+L 03/09/2021 - 08:36:33: [SM] Blaming: sbpp_main.smx
+L 03/09/2021 - 08:36:33: [SM] Call stack trace:
+L 03/09/2021 - 08:36:33: [SM]   [0] SetFailState
+L 03/09/2021 - 08:36:33: [SM]   [1] Line 216, .\sbpp_main.sp::OnPluginStart
+L 03/09/2021 - 08:36:33: [SM] Unable to load plugin "sbpp_main.smx": Error detected in plugin startup (see error logs)
+L 03/09/2021 - 08:36:33: [SM] Unable to load plugin "sbpp_report.smx": Could not find required plugin "sourcebans++"
+L 03/09/2021 - 08:36:33: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/09/2021 - 08:36:33: [SM] Exception reported: Database failure: could not find database config: sourcebans
+L 03/09/2021 - 08:36:33: [SM] Blaming: sbpp_comms.smx
+L 03/09/2021 - 08:36:33: [SM] Call stack trace:
+L 03/09/2021 - 08:36:33: [SM]   [0] SetFailState
+L 03/09/2021 - 08:36:33: [SM]   [1] Line 219, .\sbpp_comms.sp::OnPluginStart
+L 03/09/2021 - 08:36:33: [SM] Unable to load plugin "sbpp_comms.smx": Error detected in plugin startup (see error logs)
+L 03/09/2021 - 08:36:42: [sbpp_sleuth.smx] SourceSleuth: Database connection error: Could not find database config "sourcebans"
+L 03/09/2021 - 08:36:42: [SM] Exception reported: Failed to connect to SourceBans DB, Could not find database config "sourcebans"
+L 03/09/2021 - 08:36:42: [SM] Blaming: sbpp_checker.smx
+L 03/09/2021 - 08:36:42: [SM] Call stack trace:
+L 03/09/2021 - 08:36:42: [SM]   [0] SetFailState
+L 03/09/2021 - 08:36:42: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 03/09/2021 - 12:49:41: Error log file session closed.
+L 03/09/2021 - 12:50:19: SourceMod error session started
+L 03/09/2021 - 12:50:19: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210309.log")
+L 03/09/2021 - 12:50:19: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/09/2021 - 12:50:28: [sbpp_comms.smx] You must set valid `ServerID` value in sourcebans.cfg!
+L 03/09/2021 - 12:50:28: [sbpp_sleuth.smx] SourceSleuth: Database connection error: [3159]: Connections using insecure transport are prohibited while --require_secure_transport=ON.
+L 03/09/2021 - 12:50:28: [sbpp_comms.smx] Connecting to database failed: [3159]: Connections using insecure transport are prohibited while --require_secure_transport=ON.
+L 03/09/2021 - 12:50:28: [SM] Exception reported: Failed to connect to SourceBans DB, [3159]: Connections using insecure transport are prohibited while --require_secure_transport=ON.
+L 03/09/2021 - 12:50:28: [SM] Blaming: sbpp_checker.smx
+L 03/09/2021 - 12:50:28: [SM] Call stack trace:
+L 03/09/2021 - 12:50:28: [SM]   [0] SetFailState
+L 03/09/2021 - 12:50:28: [SM]   [1] Line 75, .\sbpp_checker.sp::OnDatabaseConnected
+L 03/09/2021 - 12:52:35: Error log file session closed.
+L 03/09/2021 - 12:53:14: SourceMod error session started
+L 03/09/2021 - 12:53:14: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210309.log")
+L 03/09/2021 - 12:53:14: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 03/10/2021 - 04:00:23: Error log file session closed.

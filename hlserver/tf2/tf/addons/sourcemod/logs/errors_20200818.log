@@ -1,0 +1,29 @@
+L 08/18/2020 - 00:55:08: SourceMod error session started
+L 08/18/2020 - 00:55:08: Info (map "cp_croissant_final") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200818.log")
+L 08/18/2020 - 00:55:08: [SM] Fatal error encountered parsing translation file "spraytracenomenu.phrases.txt"
+L 08/18/2020 - 00:55:08: [SM] Error (line 0, column 0): Stream failed to open
+L 08/18/2020 - 17:16:22: Error log file session closed.
+L 08/18/2020 - 17:16:22: SourceMod error session started
+L 08/18/2020 - 17:16:22: Info (map "workshop/pl_rumble_rc1.ugc887223759") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200818.log")
+L 08/18/2020 - 17:16:22: [SM] Fatal error encountered parsing translation file "spraytracenomenu.phrases.txt"
+L 08/18/2020 - 17:16:22: [SM] Error (line 0, column 0): Stream failed to open
+L 08/18/2020 - 18:15:46: Error log file session closed.
+L 08/18/2020 - 18:15:46: SourceMod error session started
+L 08/18/2020 - 18:15:46: Info (map "workshop/koth_namicott_rc4.ugc455626091") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200818.log")
+L 08/18/2020 - 18:15:46: [SM] Fatal error encountered parsing translation file "spraytracenomenu.phrases.txt"
+L 08/18/2020 - 18:15:46: [SM] Error (line 0, column 0): Stream failed to open
+L 08/18/2020 - 22:42:57: Error log file session closed.
+L 08/18/2020 - 22:42:57: SourceMod error session started
+L 08/18/2020 - 22:42:57: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200818.log")
+L 08/18/2020 - 22:42:57: [SM] Fatal error encountered parsing translation file "spraytracenomenu.phrases.txt"
+L 08/18/2020 - 22:42:57: [SM] Error (line 0, column 0): Stream failed to open
+L 08/18/2020 - 22:50:49: SourceMod error session started
+L 08/18/2020 - 22:50:49: Info (map "pl_upward") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200818.log")
+L 08/18/2020 - 22:50:49: [SM] Fatal error encountered parsing translation file "spraytracenomenu.phrases.txt"
+L 08/18/2020 - 22:50:49: [SM] Error (line 0, column 0): Stream failed to open
+L 08/18/2020 - 22:53:20: Error log file session closed.
+L 08/18/2020 - 22:53:20: SourceMod error session started
+L 08/18/2020 - 22:53:20: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200818.log")
+L 08/18/2020 - 22:53:20: [SM] Fatal error encountered parsing translation file "spraytracenomenu.phrases.txt"
+L 08/18/2020 - 22:53:20: [SM] Error (line 0, column 0): Stream failed to open
+L 08/19/2020 - 02:17:58: Error log file session closed.

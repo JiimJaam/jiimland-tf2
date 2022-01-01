@@ -1,0 +1,431 @@
+L 08/27/2020 - 20:53:34: SourceMod error session started
+L 08/27/2020 - 20:53:34: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200827.log")
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:34: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:34: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:34: [SM] Call stack trace:
+L 08/27/2020 - 20:53:34: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:34: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:35: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:35: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:35: [SM] Call stack trace:
+L 08/27/2020 - 20:53:35: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:35: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:36: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:36: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:36: [SM] Call stack trace:
+L 08/27/2020 - 20:53:36: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:36: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:49: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:49: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:49: [SM] Call stack trace:
+L 08/27/2020 - 20:53:49: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:49: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:49: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:49: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:49: [SM] Call stack trace:
+L 08/27/2020 - 20:53:49: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:49: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:50: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:50: [SM] Call stack trace:
+L 08/27/2020 - 20:53:50: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:50: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:50: [SM] Call stack trace:
+L 08/27/2020 - 20:53:50: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:50: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:50: [SM] Call stack trace:
+L 08/27/2020 - 20:53:50: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:50: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:50: [SM] Call stack trace:
+L 08/27/2020 - 20:53:50: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:50: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:50: [SM] Call stack trace:
+L 08/27/2020 - 20:53:50: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:50: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:50: [SM] Call stack trace:
+L 08/27/2020 - 20:53:50: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:50: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:50: [SM] Call stack trace:
+L 08/27/2020 - 20:53:50: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 20:53:50: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 20:53:50: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 20:53:50: [SM] Call stack trace:
+L 08/27/2020 - 20:53:50: [SM]   [0] PrintToConsole
+L 08/27/2020 - 20:53:50: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:05:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:05:45: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:05:45: [SM] Call stack trace:
+L 08/27/2020 - 21:05:45: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:05:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/27/2020 - 21:14:17: Error log file session closed.
+L 08/27/2020 - 21:19:13: SourceMod error session started
+L 08/27/2020 - 21:19:13: Info (map "workshop/cp_doublecross_rc1.ugc2209793078") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200827.log")
+L 08/27/2020 - 21:19:13: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 08/27/2020 - 21:19:13: [SM] Blaming: admincheats.smx
+L 08/27/2020 - 21:19:13: [SM] Call stack trace:
+L 08/27/2020 - 21:19:13: [SM]   [0] PrintToConsole
+L 08/27/2020 - 21:19:13: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 08/28/2020 - 01:21:06: Error log file session closed.

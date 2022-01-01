@@ -1,0 +1,31 @@
+L 11/20/2021 - 04:00:18: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20211120.log") (Version "1.10.0.6512")
+L 11/20/2021 - 04:00:18: [ScheduledShutdown.smx] Server shutdown warning.
+L 11/20/2021 - 04:00:28: [ScheduledShutdown.smx] Server shutdown.
+L 11/20/2021 - 04:00:29: Log file closed.
+L 11/20/2021 - 04:01:41: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20211120.log") (Version "1.10.0.6512")
+L 11/20/2021 - 04:01:41: [TF2ITEMS] "GiveNamedItem" offset = 488
+L 11/20/2021 - 04:01:41: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 11/20/2021 - 04:01:41: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 11/20/2021 - 04:01:41: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 11/20/2021 - 04:01:41: [stac.smx] [StAC] File handle invalid!
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/20/2021 - 04:01:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/20/2021 - 04:01:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/20/2021 - 04:01:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 11/20/2021 - 15:29:28: [admincheats.smx] <Fps><STEAM_0:0:58692880><114.74.64.186> was prevented from running cheat command 'noclip'
+L 11/20/2021 - 15:29:28: [admincheats.smx] <Fps><STEAM_0:0:58692880><114.74.64.186> was prevented from running cheat command 'noclip'
+L 11/20/2021 - 15:29:28: [admincheats.smx] <Fps><STEAM_0:0:58692880><114.74.64.186> was prevented from running cheat command 'noclip'
+L 11/20/2021 - 15:29:29: [admincheats.smx] <Fps><STEAM_0:0:58692880><114.74.64.186> was prevented from running cheat command 'noclip'
+L 11/20/2021 - 15:29:29: [admincheats.smx] <Fps><STEAM_0:0:58692880><114.74.64.186> was prevented from running cheat command 'noclip'
+L 11/20/2021 - 15:29:29: [admincheats.smx] <Fps><STEAM_0:0:58692880><114.74.64.186> was prevented from running cheat command 'noclip'
+L 11/20/2021 - 15:29:31: [admincheats.smx] <Fps><STEAM_0:0:58692880><114.74.64.186> was prevented from running cheat command 'noclip'
+L 11/20/2021 - 15:29:32: [admincheats.smx] <Fps><STEAM_0:0:58692880><114.74.64.186> was prevented from running cheat command 'noclip'
+L 11/21/2021 - 04:00:53: Log file closed.

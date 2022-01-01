@@ -1,0 +1,12 @@
+L 12/03/2021 - 04:01:17: SourceMod error session started
+L 12/03/2021 - 04:01:17: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211203.log")
+L 12/03/2021 - 04:01:17: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/03/2021 - 04:01:17: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 12/03/2021 - 04:01:17: [SM] Blaming: stac.smx
+L 12/03/2021 - 04:01:17: [SM] Call stack trace:
+L 12/03/2021 - 04:01:17: [SM]   [0] GetConVarBool
+L 12/03/2021 - 04:01:17: [SM]   [1] Line 477, ./scripting/stac/stac_cvars.sp::setStacVars
+L 12/03/2021 - 04:01:17: [SM]   [2] Line 392, ./scripting/stac/stac_cvars.sp::initCvars
+L 12/03/2021 - 04:01:17: [SM]   [3] Line 134, ./scripting/stac.sp::OnPluginStart
+L 12/03/2021 - 04:01:17: [SM] Unable to load plugin "stac.smx": Error detected in plugin startup (see error logs)
+L 12/04/2021 - 01:59:59: Error log file session closed.

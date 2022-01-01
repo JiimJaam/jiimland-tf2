@@ -1,0 +1,17 @@
+L 09/09/2021 - 00:12:45: SourceMod error session started
+L 09/09/2021 - 00:12:45: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 00:12:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 09/09/2021 - 00:12:45: [SM] Blaming: admincheats.smx
+L 09/09/2021 - 00:12:45: [SM] Call stack trace:
+L 09/09/2021 - 00:12:45: [SM]   [0] PrintToConsole
+L 09/09/2021 - 00:12:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 09/09/2021 - 00:12:53: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 09/09/2021 - 00:12:53: [SM] Blaming: admincheats.smx
+L 09/09/2021 - 00:12:53: [SM] Call stack trace:
+L 09/09/2021 - 00:12:53: [SM]   [0] PrintToConsole
+L 09/09/2021 - 00:12:53: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 09/09/2021 - 04:00:18: Error log file session closed.
+L 09/09/2021 - 04:00:57: SourceMod error session started
+L 09/09/2021 - 04:00:57: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210909.log")
+L 09/09/2021 - 04:00:57: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 09/10/2021 - 04:00:08: Error log file session closed.

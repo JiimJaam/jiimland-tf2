@@ -1,0 +1,62 @@
+L 12/09/2021 - 00:00:50: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20211209.log") (Version "1.10.0.6512")
+L 12/09/2021 - 00:00:50: [admincheats.smx] <Squash><STEAM_0:0:565606944><161.0.236.225> was prevented from running cheat command 'noclip'
+L 12/09/2021 - 01:27:30: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_remove_all'
+L 12/09/2021 - 01:27:59: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "ent_remove_all obj_sentry_gun")
+L 12/09/2021 - 01:27:59: [admincheats.smx] CONSOLE ran cheat command 'ent_remove_all'
+L 12/09/2021 - 01:29:05: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "ent_remove_all obj_sentrygun")
+L 12/09/2021 - 01:29:05: [admincheats.smx] CONSOLE ran cheat command 'ent_remove_all'
+L 12/09/2021 - 01:35:20: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:35:26: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:35:30: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:35:33: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:35:56: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:36:00: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:40:07: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:40:07: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:40:13: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:40:14: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:48:17: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "sm_show_activity 28")
+L 12/09/2021 - 01:48:24: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "sm_show_activity 28")
+L 12/09/2021 - 01:48:32: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "sm_immunity_mode 2")
+L 12/09/2021 - 01:50:03: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "maxplayers")
+L 12/09/2021 - 01:51:09: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "exec cfg/sourcemod")
+L 12/09/2021 - 01:51:19: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "exec cfg/sourcemod/sourcemod")
+L 12/09/2021 - 01:51:22: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "exec cfg/sourcemod/sourcemod.cfg")
+L 12/09/2021 - 01:51:27: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "exec sourcemod/sourcemod.cfg")
+L 12/09/2021 - 01:51:31: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "exec sourcemod/sourcemod")
+L 12/09/2021 - 01:52:19: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 12/09/2021 - 01:52:25: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_remove_all'
+L 12/09/2021 - 01:52:29: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "exec sourcemod/sourcemod")
+L 12/09/2021 - 01:52:34: [admincheats.smx] <Bananaphone><STEAM_0:1:44593574><107.199.22.172> was prevented from running cheat command 'noclip'
+L 12/09/2021 - 01:53:24: [basecommands.smx] "jiim jaam<15><[U:1:109549249]><>" console command (cmdline "exec sourcemod/sourcemod")
+L 12/09/2021 - 01:55:49: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:55:49: [funcommands.smx] "jiim jaam<15><[U:1:109549249]><>" toggled noclip on "jiim jaam<15><[U:1:109549249]><>"
+L 12/09/2021 - 01:57:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 12/09/2021 - 01:57:23: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 12/09/2021 - 01:58:23: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 12/09/2021 - 01:58:23: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 12/09/2021 - 01:58:28: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 12/09/2021 - 02:03:10: [admincheats.smx] <bat><STEAM_0:1:417998338><209.143.23.85> was prevented from running cheat command 'prop_physics_create'
+L 12/09/2021 - 04:00:44: [ScheduledShutdown.smx] Server shutdown warning.
+L 12/09/2021 - 04:00:54: [ScheduledShutdown.smx] Server shutdown.
+L 12/09/2021 - 04:00:55: Log file closed.
+L 12/09/2021 - 04:01:44: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20211209.log") (Version "1.10.0.6512")
+L 12/09/2021 - 04:01:44: [TF2ITEMS] "GiveNamedItem" offset = 488
+L 12/09/2021 - 04:01:44: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 12/09/2021 - 04:01:44: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 12/09/2021 - 04:01:44: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 12/09/2021 - 04:01:44: [stac.smx] [StAC] File handle invalid!
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 12/09/2021 - 04:01:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 12/09/2021 - 04:01:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 12/09/2021 - 04:01:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 12/09/2021 - 22:28:38: [admincheats.smx] <my problem is ur existence><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 12/10/2021 - 03:27:19: Log file closed.

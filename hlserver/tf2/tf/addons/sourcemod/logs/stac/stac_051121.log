@@ -1,0 +1,282 @@
+L 05/11/2021 - 04:01:24: [stac.smx] [StAC] Plugin vers. ---- 4.1.17b ---- loaded
+L 05/11/2021 - 04:01:33: [stac.smx] [Steamtools] Steam connected.
+L 05/11/2021 - 16:50:35: [stac.smx] 
+==========
+[StAC] SilentAim detection of 1.189833° on 
+Erwin Rommel<4><[U:1:1135324915]><>.
+Detections so far: 1.
+fuzzy = 0
+L 05/11/2021 - 16:50:35: [stac.smx] 
+Network:
+ 0.000000 loss
+ 69.084228 choke
+ 77.277854 ms ping
+Angles:
+ angles0: x 38.081996 y 119.562866
+ angles1: x 38.477996 y 120.684867
+ angles2: x 38.081996 y 119.562866
+
+L 05/11/2021 - 16:50:35: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.117187
+2 0.000000
+3 0.000000
+4 0.000000
+5 0.058593
+==========
+L 05/11/2021 - 17:20:42: [stac.smx] 
+==========
+[StAC] SilentAim detection of 31.141956° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 1.
+fuzzy = 0
+L 05/11/2021 - 17:20:42: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 71.520324 ms ping
+Angles:
+ angles0: x 26.842092 y -69.570304
+ angles1: x 23.042493 y -38.661010
+ angles2: x 26.842092 y -69.570304
+
+L 05/11/2021 - 17:20:42: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.015625
+3 0.000000
+4 0.027343
+5 0.000000
+==========
+L 05/11/2021 - 17:20:42: [stac.smx] 
+==========
+[StAC] SilentAim detection of 41.628974° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 2.
+fuzzy = 1
+L 05/11/2021 - 17:20:42: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 71.785667 ms ping
+Angles:
+ angles0: x 27.103891 y -68.600006
+ angles1: x 38.280628 y -28.499481
+ angles2: x 27.103891 y -68.584602
+
+L 05/11/2021 - 17:20:42: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.000000
+2 0.031250
+3 0.000000
+4 0.031250
+5 0.000000
+==========
+L 05/11/2021 - 17:20:43: [stac.smx] 
+==========
+[StAC] SilentAim detection of 27.759595° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 3.
+fuzzy = 0
+L 05/11/2021 - 17:20:43: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 71.380439 ms ping
+Angles:
+ angles0: x 23.900699 y 26.402595
+ angles1: x 16.447750 y 53.142990
+ angles2: x 23.900699 y 26.402595
+
+L 05/11/2021 - 17:20:43: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.015625
+3 0.015625
+4 0.011718
+5 0.015625
+==========
+L 05/11/2021 - 17:20:46: [stac.smx] 
+==========
+[StAC] SilentAim detection of 6.431001° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 4.
+fuzzy = 1
+L 05/11/2021 - 17:20:46: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 70.741035 ms ping
+Angles:
+ angles0: x 5.990528 y 59.266181
+ angles1: x -0.343627 y 60.378044
+ angles2: x 5.990528 y 59.250782
+
+L 05/11/2021 - 17:20:46: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.015625
+3 0.015625
+4 0.011718
+5 0.015625
+==========
+L 05/11/2021 - 17:20:48: [stac.smx] 
+==========
+[StAC] SilentAim detection of 3.103412° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 5.
+fuzzy = 1
+L 05/11/2021 - 17:20:48: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 69.274024 ms ping
+Angles:
+ angles0: x 7.653721 y 57.525974
+ angles1: x 4.760288 y 56.403827
+ angles2: x 7.653721 y 57.541374
+
+L 05/11/2021 - 17:20:48: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.011718
+3 0.015625
+4 0.015625
+5 0.015625
+==========
+L 05/11/2021 - 17:20:48: [stac.smx] 
+==========
+[StAC] SilentAim detection of 3.564278° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 6.
+fuzzy = 0
+L 05/11/2021 - 17:20:48: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 69.276817 ms ping
+Angles:
+ angles0: x 7.638321 y 57.525974
+ angles1: x 4.283476 y 56.322193
+ angles2: x 7.638321 y 57.525974
+
+L 05/11/2021 - 17:20:48: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.015625
+3 0.015625
+4 0.015625
+5 0.015625
+==========
+L 05/11/2021 - 17:20:56: [stac.smx] 
+[StAC] Player LiNeDante bhopped! Consecutive detections so far: 5
+L 05/11/2021 - 17:20:56: [stac.smx] 
+[StAC] Player LiNeDante bhopped! Consecutive detections so far: 6
+L 05/11/2021 - 17:20:56: [stac.smx] 
+[StAC] Player LiNeDante bhopped! Consecutive detections so far: 7
+L 05/11/2021 - 17:20:56: [stac.smx] 
+[StAC] Player LiNeDante bhopped! Consecutive detections so far: 8
+L 05/11/2021 - 17:21:01: [stac.smx] 
+==========
+[StAC] SilentAim detection of 34.783016° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 7.
+fuzzy = 0
+L 05/11/2021 - 17:21:01: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 67.063850 ms ping
+Angles:
+ angles0: x 26.749692 y 89.659477
+ angles1: x -7.590667 y 95.190994
+ angles2: x 26.749692 y 89.659477
+
+L 05/11/2021 - 17:21:01: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.015625
+3 0.015625
+4 0.000000
+5 0.031250
+==========
+L 05/11/2021 - 17:21:01: [stac.smx] 
+==========
+[StAC] SilentAim detection of 35.165306° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 8.
+fuzzy = 1
+L 05/11/2021 - 17:21:01: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 67.053016 ms ping
+Angles:
+ angles0: x 26.657293 y 89.582458
+ angles1: x -7.969146 y 95.715003
+ angles2: x 26.703493 y 89.628669
+
+L 05/11/2021 - 17:21:01: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.031250
+2 0.015625
+3 0.000000
+4 0.027343
+5 0.015625
+==========
+L 05/11/2021 - 17:21:01: [stac.smx] 
+==========
+[StAC] SilentAim detection of 36.712703° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 9.
+fuzzy = 0
+L 05/11/2021 - 17:21:01: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 67.093421 ms ping
+Angles:
+ angles0: x 26.857492 y 89.767265
+ angles1: x -9.320983 y 96.007507
+ angles2: x 26.857492 y 89.767265
+
+L 05/11/2021 - 17:21:01: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.027343
+3 0.000000
+4 0.000000
+5 0.015625
+==========
+L 05/11/2021 - 17:21:01: [stac.smx] 
+[StAC] Player LiNeDante bhopped! Consecutive detections so far: 5
+L 05/11/2021 - 17:21:01: [stac.smx] 
+==========
+[StAC] SilentAim detection of 38.875560° on 
+LiNeDante<8><[U:1:485667449]><>.
+Detections so far: 10.
+fuzzy = 0
+L 05/11/2021 - 17:21:01: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 67.275619 ms ping
+Angles:
+ angles0: x 26.857492 y 89.767265
+ angles1: x -11.471130 y 96.265434
+ angles2: x 26.857492 y 89.767265
+
+L 05/11/2021 - 17:21:01: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.000000
+3 0.015625
+4 0.015625
+5 0.027343
+==========
+L 05/11/2021 - 17:21:01: [stac.smx] [StAC] No STV demo is being recorded, no demo name will be printed to the ban reason!
+L 05/11/2021 - 17:21:01: [stac.smx] [StAC] Player LiNeDante was using pSilentAim or NoRecoil. Total dete
+L 05/11/2021 - 23:16:54: [stac.smx] [Steamtools] Steam disconnected.
+L 05/11/2021 - 23:18:01: [stac.smx] [Steamtools] Steam connected.
+L 05/11/2021 - 23:18:23: [stac.smx] [Steamtools] Steam disconnected.
+L 05/11/2021 - 23:19:35: [stac.smx] [Steamtools] Steam connected.

@@ -1,0 +1,31 @@
+L 11/11/2020 - 03:56:40: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20201111.log") (Version "1.10.0.6490")
+L 11/11/2020 - 03:56:40: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 03:59:16: [basecommands.smx] "User<19><[U:1:109549249]><>" console command (cmdline "mp_autoteambalance 0")
+L 11/11/2020 - 03:59:16: [basecommands.smx] "User<19><[U:1:109549249]><>" console command (cmdline "mp_teams_unbalance_limit 999")
+L 11/11/2020 - 03:59:16: [basecommands.smx] "User<19><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 11/11/2020 - 03:59:31: [basecommands.smx] "User<19><[U:1:109549249]><>" console command (cmdline "exec server")
+L 11/11/2020 - 03:59:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/11/2020 - 03:59:55: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 03:59:59: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:00:00: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:00:02: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:00:08: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:00:09: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:00:12: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:00:13: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:01:42: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:01:42: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:01:46: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:01:46: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:01:51: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:01:51: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:01:54: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:01:55: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:02:01: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:02:02: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:02:04: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:02:15: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:07:11: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:07:16: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/11/2020 - 04:11:48: [funcommands.smx] "User<19><[U:1:109549249]><>" toggled noclip on "User<19><[U:1:109549249]><>"
+L 11/13/2020 - 12:30:26: Log file closed.

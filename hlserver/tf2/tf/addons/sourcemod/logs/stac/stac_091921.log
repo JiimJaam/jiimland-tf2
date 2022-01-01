@@ -1,0 +1,5 @@
+L 09/19/2021 - 04:01:11: [stac.smx] [Steamtools] Steam connected.
+L 09/19/2021 - 04:01:12: [stac.smx] [SteamWorks] Steam connected.
+L 09/19/2021 - 12:19:26: [stac.smx] [StAC] GetEngineTime() - steamLastOnlineTime = 29894.785156 >? 300.0
+L 09/19/2021 - 12:19:26: [stac.smx] steam stable!
+L 09/19/2021 - 12:19:26: [stac.smx] [StAC] Kicking schmed the second for not being authorized with Steam.

@@ -1,0 +1,34 @@
+L 02/05/2021 - 06:00:03: SourceMod error session started
+L 02/05/2021 - 06:00:03: Info (map "workshop/cp_tidal_v4.ugc570869131") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210205.log")
+L 02/05/2021 - 06:00:03: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 02/05/2021 - 06:00:03: [SM] Blaming: admincheats.smx
+L 02/05/2021 - 06:00:03: [SM] Call stack trace:
+L 02/05/2021 - 06:00:03: [SM]   [0] PrintToConsole
+L 02/05/2021 - 06:00:03: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 02/05/2021 - 06:00:08: Error log file session closed.
+L 02/05/2021 - 06:12:00: SourceMod error session started
+L 02/05/2021 - 06:12:00: Info (map "itemtest") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210205.log")
+L 02/05/2021 - 06:12:00: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 02/05/2021 - 06:12:00: [SM] Blaming: admincheats.smx
+L 02/05/2021 - 06:12:00: [SM] Call stack trace:
+L 02/05/2021 - 06:12:00: [SM]   [0] PrintToConsole
+L 02/05/2021 - 06:12:00: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 02/05/2021 - 06:12:08: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 02/05/2021 - 06:12:08: [SM] Blaming: admincheats.smx
+L 02/05/2021 - 06:12:08: [SM] Call stack trace:
+L 02/05/2021 - 06:12:08: [SM]   [0] PrintToConsole
+L 02/05/2021 - 06:12:08: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 02/05/2021 - 06:15:49: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 02/05/2021 - 06:15:49: [SM] Blaming: admincheats.smx
+L 02/05/2021 - 06:15:49: [SM] Call stack trace:
+L 02/05/2021 - 06:15:49: [SM]   [0] PrintToConsole
+L 02/05/2021 - 06:15:49: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 02/05/2021 - 06:21:24: Error log file session closed.
+L 02/05/2021 - 06:27:14: SourceMod error session started
+L 02/05/2021 - 06:27:14: Info (map "workshop/trade_winzone.ugc1369968437") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210205.log")
+L 02/05/2021 - 06:27:14: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 02/05/2021 - 06:27:14: [SM] Blaming: admincheats.smx
+L 02/05/2021 - 06:27:14: [SM] Call stack trace:
+L 02/05/2021 - 06:27:14: [SM]   [0] PrintToConsole
+L 02/05/2021 - 06:27:14: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 02/05/2021 - 06:30:10: Error log file session closed.

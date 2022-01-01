@@ -1,0 +1,9 @@
+L 08/11/2021 - 04:01:54: [stac.smx] [Steamtools] Steam connected.
+L 08/11/2021 - 04:01:54: [stac.smx] [SteamWorks] Steam connected.
+L 08/12/2021 - 00:27:48: [stac.smx] [StAC] GetEngineTime() - steamLastOnlineTime = 73553.578125 >? 300.0
+L 08/12/2021 - 00:27:48: [stac.smx] steam stable!
+L 08/12/2021 - 00:27:48: [stac.smx] [StAC] Kicking TNORTHSG for not being authorized with Steam.
+L 08/12/2021 - 01:13:24: [stac.smx] [Steamtools] Steam disconnected.
+L 08/12/2021 - 01:13:24: [stac.smx] [SteamWorks] Steam disconnected.
+L 08/12/2021 - 01:17:30: [stac.smx] [Steamtools] Steam connected.
+L 08/12/2021 - 01:17:30: [stac.smx] [SteamWorks] Steam connected.

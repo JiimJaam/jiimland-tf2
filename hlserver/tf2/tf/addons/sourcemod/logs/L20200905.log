@@ -1,0 +1,57 @@
+L 09/05/2020 - 05:34:48: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200905.log") (Version "1.10.0.6490")
+L 09/05/2020 - 05:34:48: [basecommands.smx] "video game<42><[U:1:109549249]><>" changed map to "workshop/cp_doublecross_rc4.ugc2209793078"
+L 09/05/2020 - 05:34:51: [SM] Changed map to "workshop/cp_doublecross_rc4.ugc2209793078"
+L 09/05/2020 - 05:34:54: -------- Mapchange to workshop/cp_doublecross_rc4.ugc2209793078 --------
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 09/05/2020 - 05:34:59: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 09/05/2020 - 05:35:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 09/05/2020 - 06:33:25: [mapchooser.smx] Voting for next map has started.
+L 09/05/2020 - 20:52:48: [SM] Changed map to "cp_snakewater_final1"
+L 09/05/2020 - 20:52:49: -------- Mapchange to cp_snakewater_final1 --------
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 09/05/2020 - 20:52:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 09/05/2020 - 20:52:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 09/05/2020 - 21:50:52: [mapchooser.smx] Voting for next map has started.
+L 09/05/2020 - 22:09:39: [SM] Changed map to "workshop/pl_rumble_rc1.ugc887223759"
+L 09/05/2020 - 22:09:42: -------- Mapchange to workshop/pl_rumble_rc1.ugc887223759 --------
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 09/05/2020 - 22:09:47: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 09/05/2020 - 22:09:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 09/05/2020 - 23:07:11: [SM] Changed map to "rd_asteroid"
+L 09/05/2020 - 23:07:12: -------- Mapchange to rd_asteroid --------
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 09/05/2020 - 23:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 09/05/2020 - 23:07:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 09/06/2020 - 00:04:17: Log file closed.

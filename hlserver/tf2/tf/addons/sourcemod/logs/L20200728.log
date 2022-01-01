@@ -1,0 +1,611 @@
+L 07/28/2020 - 18:08:36: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200728.log") (Version "1.10.0.6490")
+L 07/28/2020 - 18:08:36: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:09:35: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:09:35: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:36:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:36:16: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 13 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:36:21: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" reset permanent weapons for "jiim jaam<8><[U:1:109549249]><>", 
+L 07/28/2020 - 18:36:26: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:38:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:38:23: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:38:23: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:39:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:39:42: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:39:42: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:43:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:43:20: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:43:20: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:43:20: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:44:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:44:16: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:44:16: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:44:16: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:45:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:45:23: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:45:23: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:45:23: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 18:46:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:46:50: [basecommands.smx] "jiim jaam<8><[U:1:109549249]><>" changed map to "plr_hightower"
+L 07/28/2020 - 18:46:53: [SM] Changed map to "plr_hightower"
+L 07/28/2020 - 18:46:54: -------- Mapchange to plr_hightower --------
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:47:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/28/2020 - 18:48:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:07: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:07: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:07: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:07: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:07: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:07: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:07: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:37: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:37: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:37: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:37: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:40: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:40: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:40: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:40: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:40: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:40: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:41: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:41: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:41: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:41: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:41: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:42: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:42: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:42: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:42: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:42: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:42: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:42: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:45: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:47: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:47: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:47: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:47: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:47: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:48: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:48: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:48: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:49: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:51: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:51: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:51: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:55: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:55: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:55: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:55: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:55: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:55: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:57: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:57: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:57: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:57: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:57: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:57: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:48:57: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:00: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:00: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:00: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:00: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:00: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:00: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:01: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:01: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:01: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:01: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:01: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:01: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:01: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:06: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:07: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:08: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:09: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:10: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:13: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:13: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:13: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:13: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:13: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:13: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:14: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:15: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:16: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:17: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:27: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:28: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:49:36: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:50:44: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 28 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:50:44: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 28 to "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:50:44: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 28 to "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 18:50:44: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 28 to "Captain K'nuckles<11><[U:1:307537022]><>"
+L 07/28/2020 - 18:52:55: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:53:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:53:45: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 18:54:36: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 18:54:39: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" gave a permanent weapon 31 to "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:55:45: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" reset permanent weapons for "jiim jaam<8><[U:1:109549249]><>", 
+L 07/28/2020 - 18:55:45: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" reset permanent weapons for "Sanio<9><[U:1:104568609]><>", 
+L 07/28/2020 - 18:55:45: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" reset permanent weapons for "Pryankster<10><[U:1:4319954]><>", 
+L 07/28/2020 - 18:55:45: [tf2items_giveweapon.smx] "jiim jaam<8><[U:1:109549249]><>" reset permanent weapons for "Meat Man<11><[U:1:307537022]><>", 
+L 07/28/2020 - 18:55:56: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 07/28/2020 - 18:56:32: [basecommands.smx] "jiim jaam<8><[U:1:109549249]><>" console command (cmdline "mp_disable_respawntimes 1")
+L 07/28/2020 - 18:56:41: [basecommands.smx] "jiim jaam<8><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 07/28/2020 - 18:57:39: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:57:46: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 18:58:05: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 07/28/2020 - 18:59:25: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:59:25: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:59:25: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 18:59:48: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:59:48: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:59:48: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 18:59:48: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Meat Man<11><[U:1:307537022]><>"
+L 07/28/2020 - 18:59:53: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:59:53: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:59:53: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 18:59:53: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Meat Man<11><[U:1:307537022]><>"
+L 07/28/2020 - 18:59:56: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 18:59:56: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 18:59:56: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 18:59:56: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Meat Man<11><[U:1:307537022]><>"
+L 07/28/2020 - 19:00:01: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 19:00:01: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 19:00:01: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 19:00:01: [funcommands.smx] "jiim jaam<8><[U:1:109549249]><>" toggled noclip on "Meat Man<11><[U:1:307537022]><>"
+L 07/28/2020 - 19:10:05: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "jiim jaam<8><[U:1:109549249]><>"
+L 07/28/2020 - 19:10:05: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "Sanio<9><[U:1:104568609]><>"
+L 07/28/2020 - 19:10:05: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 19:10:05: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "Marsh<11><[U:1:307537022]><>"
+L 07/28/2020 - 19:10:05: [playercommands.smx] "jiim jaam<8><[U:1:109549249]><>" slayed "GardenOfStone<12><[U:1:1109604806]><>"
+L 07/28/2020 - 19:30:01: [funcommands.smx] "jiim jaam<14><[U:1:109549249]><>" toggled noclip on "jiim jaam<14><[U:1:109549249]><>"
+L 07/28/2020 - 19:30:08: [funcommands.smx] "jiim jaam<14><[U:1:109549249]><>" toggled noclip on "jiim jaam<14><[U:1:109549249]><>"
+L 07/28/2020 - 19:37:41: [funcommands.smx] "jiim jaam<14><[U:1:109549249]><>" set a beacon on "Pryankster<10><[U:1:4319954]><>"
+L 07/28/2020 - 19:38:25: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:25: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:25: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:25: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:25: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:26: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:26: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:26: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:26: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:26: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:26: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:27: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:27: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:27: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:27: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:27: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:28: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:28: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:28: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:28: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:28: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:29: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:29: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:29: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:29: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:29: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:30: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:30: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:30: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:30: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:30: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:31: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:31: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:31: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:31: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:32: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:33: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:33: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:33: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:33: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:34: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:34: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:34: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:34: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:34: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:35: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:35: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:35: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:35: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:36: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:36: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:36: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:36: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:37: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:37: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:37: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:37: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:37: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:38: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:38: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:38: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:38: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:39: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:39: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:38:40: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slapped "Pryankster<10><[U:1:4319954]><>" (damage "0")
+L 07/28/2020 - 19:40:36: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" changed map to "ctf_doublecross"
+L 07/28/2020 - 19:40:39: [SM] Changed map to "ctf_doublecross"
+L 07/28/2020 - 19:40:40: -------- Mapchange to ctf_doublecross --------
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/28/2020 - 19:40:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/28/2020 - 19:40:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/28/2020 - 19:43:36: [admincheats.smx] <Meat Man><STEAM_0:0:153768511><74.128.74.134> was prevented from running cheat command 'noclip'
+L 07/28/2020 - 19:49:22: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 0")
+L 07/28/2020 - 19:49:29: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 07/28/2020 - 19:53:37: [playercommands.smx] "jiim jaam<14><[U:1:109549249]><>" slayed "Meat Man<11><[U:1:307537022]><>"
+L 07/28/2020 - 20:06:05: [funcommands.smx] "jiim jaam<14><[U:1:109549249]><>" toggled noclip on "jiim jaam<14><[U:1:109549249]><>"
+L 07/28/2020 - 20:06:21: [admincheats.smx] <Meat Man><STEAM_0:0:153768511><74.128.74.134> was prevented from running cheat command 'noclip'
+L 07/28/2020 - 20:07:13: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" changed cvar (cvar "host_timescale") (value "0.1")
+L 07/28/2020 - 20:07:23: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" changed cvar (cvar "host_timescale") (value "1")
+L 07/28/2020 - 20:07:29: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" console command (cmdline "host_timescale 0.5")
+L 07/28/2020 - 20:07:37: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" console command (cmdline "host_timescale 1")
+L 07/28/2020 - 20:07:48: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" console command (cmdline "host_timescale 3")
+L 07/28/2020 - 20:08:25: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:08:34: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ENT_REMOVE_ALL'
+L 07/28/2020 - 20:08:38: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:08:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:08:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:08:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:08:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:08:39: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:08:50: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 07/28/2020 - 20:09:43: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:09:53: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:10:00: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:10:03: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:10:14: [basecommands.smx] "jiim jaam<14><[U:1:109549249]><>" console command (cmdline "host_timescale 1")
+L 07/28/2020 - 20:10:44: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:10:57: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 07/28/2020 - 20:11:04: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 07/28/2020 - 20:11:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:11:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:11:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:11:11: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:11:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:11:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:11:12: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/28/2020 - 20:11:41: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 07/28/2020 - 20:11:47: [admincheats.smx] <jiim jaam><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 07/28/2020 - 21:07:40: [mapchooser.smx] Voting for next map has started.
+L 07/29/2020 - 01:03:18: Log file closed.

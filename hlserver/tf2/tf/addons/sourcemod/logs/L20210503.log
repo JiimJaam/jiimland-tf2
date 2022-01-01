@@ -1,0 +1,176 @@
+L 05/03/2021 - 04:00:34: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20210503.log") (Version "1.10.0.6490")
+L 05/03/2021 - 04:00:34: [ScheduledShutdown.smx] Server shutdown warning.
+L 05/03/2021 - 04:00:44: [ScheduledShutdown.smx] Server shutdown.
+L 05/03/2021 - 04:00:44: [stac.smx] [StAC] File handle invalid!
+L 05/03/2021 - 04:00:44: [stac.smx] [StAC] Plugin vers. ---- 4.1.17b ---- unloaded
+L 05/03/2021 - 04:00:44: Log file closed.
+L 05/03/2021 - 04:01:24: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20210503.log") (Version "1.10.0.6490")
+L 05/03/2021 - 04:01:24: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 05/03/2021 - 04:01:25: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 05/03/2021 - 04:01:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 05/03/2021 - 04:01:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 05/03/2021 - 04:01:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 05/03/2021 - 04:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 05/03/2021 - 04:10:54: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20210503.log") (Version "1.10.0.6490")
+L 05/03/2021 - 04:10:54: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 05/03/2021 - 04:10:54: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 05/03/2021 - 04:10:54: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 05/03/2021 - 04:10:54: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 05/03/2021 - 04:11:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 05/03/2021 - 04:11:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 05/03/2021 - 11:33:43: [admincheats.smx] <Temmrie><STEAM_0:0:501263072><73.98.21.47> was prevented from running cheat command 'noclip'
+L 05/03/2021 - 17:16:27: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:16:29: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:16:39: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:16:41: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:16:42: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:16:44: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:16:44: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:16:47: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:16:51: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:17:08: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:18:12: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:18:13: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:18:19: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:18:23: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:18:51: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:18:55: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:19:00: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:19:04: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:19:07: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:14: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:18: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:21: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:25: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:26: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:29: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:49: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:54: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:20:55: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:21:06: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:21:08: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:21:19: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:21:37: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:21:39: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:21:43: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:22:06: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:22:37: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:22:39: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:22:40: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:22:41: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:22:48: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:22:54: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:22:56: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:23:35: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:23:46: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:23:58: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:02: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:03: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:05: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:06: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:09: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:14: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:29: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:32: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:38: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:24:58: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:25:03: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:25:46: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:25:55: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:25:56: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:25:58: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:26:00: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:26:08: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:26:19: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:26:26: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:26:38: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:27:02: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:27:06: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:27:39: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:27:44: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:27:51: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:27:56: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:28:28: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:28:42: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:28:47: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:28:57: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:29:11: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:29:48: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:29:50: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:30:01: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:30:04: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:30:06: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:30:47: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:30:48: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:31:20: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:31:39: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:31:53: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:32:21: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:32:25: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:32:27: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:32:29: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:32:31: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:33:03: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:33:08: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:33:18: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:33:23: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:34:02: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:34:16: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:34:53: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:34:58: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:35:04: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:35:13: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:35:35: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:35:41: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:35:48: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:35:49: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:35:50: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:35:55: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:36:18: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:36:22: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:36:28: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:36:46: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:37:12: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:37:15: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:37:19: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:37:52: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:38:18: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:38:29: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:38:32: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:38:33: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:38:43: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:38:48: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:38:53: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:38:56: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:39:21: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:39:26: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:39:28: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:39:30: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:39:48: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:39:54: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:39:55: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:40:04: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:40:18: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:40:24: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:40:30: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:40:33: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/03/2021 - 17:40:36: [admincheats.smx] <Toasty><STEAM_0:0:580394483><156.57.235.58> was prevented from running cheat command 'mp_showrespawntimes'
+L 05/04/2021 - 04:00:03: Log file closed.

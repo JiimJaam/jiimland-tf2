@@ -1,0 +1,512 @@
+L 06/13/2021 - 04:01:31: [stac.smx] [Steamtools] Steam connected.
+L 06/13/2021 - 17:52:00: [stac.smx] [StAC] SilentAim detection of 33.65° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 1. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:00: [stac.smx] 
+Network:
+ 182.76 ms ping
+ 0.75 loss
+ 3.90 inchoke
+ 0.00 outchoke
+ 3.90 totalchoke
+ 159.18 kbps rate
+ 131.88 pps rate
+L 06/13/2021 - 17:52:00: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? no
+L 06/13/2021 - 17:52:00: [stac.smx] 
+Angles:
+ angles0: x -5.913581 y -178.930572
+ angles1: x -18.220855 y -147.609954
+ angles2: x -5.913581 y -178.930572
+ angles3: x -5.913581 y -178.930572
+ angles4: x -5.913581 y -178.930572
+L 06/13/2021 - 17:52:00: [stac.smx] 
+Previous cmdnums:
+0 2704
+1 2703
+2 2702
+3 2701
+4 2700
+5 2699
+L 06/13/2021 - 17:52:00: [stac.smx] 
+Previous tickcounts:
+0 3321970
+1 3321969
+2 3321969
+3 3321968
+4 3321966
+5 3321965
+L 06/13/2021 - 17:52:00: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:52:01: [stac.smx] [StAC] SilentAim detection of 24.70° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 2. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:01: [stac.smx] 
+Network:
+ 186.79 ms ping
+ 0.07 loss
+ 0.39 inchoke
+ 0.00 outchoke
+ 0.39 totalchoke
+ 140.10 kbps rate
+ 133.99 pps rate
+L 06/13/2021 - 17:52:01: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/13/2021 - 17:52:01: [stac.smx] 
+Angles:
+ angles0: x -28.089580 y -110.677772
+ angles1: x -52.081726 y -116.576873
+ angles2: x -28.089580 y -110.677772
+ angles3: x -28.089580 y -110.677772
+ angles4: x -28.089580 y -110.677772
+L 06/13/2021 - 17:52:01: [stac.smx] 
+Previous cmdnums:
+0 2823
+1 2822
+2 2821
+3 2820
+4 2819
+5 2818
+L 06/13/2021 - 17:52:01: [stac.smx] 
+Previous tickcounts:
+0 3322090
+1 3322089
+2 3322088
+3 3322087
+4 3322086
+5 3322085
+L 06/13/2021 - 17:52:01: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:52:06: [stac.smx] [StAC] SilentAim detection of 9.89° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 3. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:06: [stac.smx] 
+Network:
+ 181.56 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 137.72 kbps rate
+ 134.34 pps rate
+L 06/13/2021 - 17:52:06: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? no
+L 06/13/2021 - 17:52:06: [stac.smx] 
+Angles:
+ angles0: x 36.960014 y -56.469776
+ angles1: x 43.960014 y -49.469776
+ angles2: x 36.960014 y -56.469776
+ angles3: x 36.960014 y -55.730575
+ angles4: x 36.836814 y -55.237773
+L 06/13/2021 - 17:52:06: [stac.smx] 
+Previous cmdnums:
+0 3134
+1 3133
+2 3132
+3 3131
+4 3130
+5 3129
+L 06/13/2021 - 17:52:06: [stac.smx] 
+Previous tickcounts:
+0 3322401
+1 3322400
+2 3322400
+3 3322399
+4 3322398
+5 3322396
+L 06/13/2021 - 17:52:06: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:52:11: [stac.smx] [StAC] SilentAim detection of 3.45° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 4. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Network:
+ 182.21 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 154.89 kbps rate
+ 134.34 pps rate
+L 06/13/2021 - 17:52:11: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Angles:
+ angles0: x -3.942388 y -172.031280
+ angles1: x -6.199462 y -174.641845
+ angles2: x -3.942388 y -172.031280
+ angles3: x -3.942388 y -172.031280
+ angles4: x -3.326388 y -171.784881
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Previous cmdnums:
+0 3438
+1 3437
+2 3436
+3 3435
+4 3434
+5 3433
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Previous tickcounts:
+0 3322705
+1 3322704
+2 3322703
+3 3322702
+4 3322701
+5 3322700
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:52:11: [stac.smx] [StAC] SilentAim detection of 11.31° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 5. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Network:
+ 182.21 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 154.89 kbps rate
+ 134.34 pps rate
+L 06/13/2021 - 17:52:11: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? no
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Angles:
+ angles0: x -3.942388 y -172.031280
+ angles1: x 4.057611 y -164.031280
+ angles2: x -3.942388 y -172.031280
+ angles3: x -6.199462 y -174.641845
+ angles4: x -3.942388 y -172.031280
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Previous cmdnums:
+0 3440
+1 3439
+2 3438
+3 3437
+4 3436
+5 3435
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Previous tickcounts:
+0 3322706
+1 3322706
+2 3322705
+3 3322704
+4 3322703
+5 3322702
+L 06/13/2021 - 17:52:11: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:52:12: [stac.smx] [StAC] SilentAim detection of 22.12° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 6. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:12: [stac.smx] 
+Network:
+ 182.13 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 151.98 kbps rate
+ 134.81 pps rate
+L 06/13/2021 - 17:52:12: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? no
+L 06/13/2021 - 17:52:12: [stac.smx] 
+Angles:
+ angles0: x 13.798412 y -92.444168
+ angles1: x -5.949676 y -82.460662
+ angles2: x 13.798412 y -92.444168
+ angles3: x 13.798412 y -92.444168
+ angles4: x 13.921612 y -92.444168
+L 06/13/2021 - 17:52:12: [stac.smx] 
+Previous cmdnums:
+0 3533
+1 3532
+2 3531
+3 3530
+4 3529
+5 3528
+L 06/13/2021 - 17:52:12: [stac.smx] 
+Previous tickcounts:
+0 3322797
+1 3322796
+2 3322796
+3 3322795
+4 3322793
+5 3322792
+L 06/13/2021 - 17:52:12: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:52:32: [stac.smx] [StAC] SilentAim detection of 27.40° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 7. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:32: [stac.smx] 
+Network:
+ 182.60 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 123.37 kbps rate
+ 135.28 pps rate
+L 06/13/2021 - 17:52:32: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈66 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/13/2021 - 17:52:32: [stac.smx] 
+Angles:
+ angles0: x 9.363221 y 158.144653
+ angles1: x -17.905487 y 155.409622
+ angles2: x 9.363221 y 158.144653
+ angles3: x 9.363221 y 158.144653
+ angles4: x 9.363221 y 158.144653
+L 06/13/2021 - 17:52:32: [stac.smx] 
+Previous cmdnums:
+0 4900
+1 4899
+2 4898
+3 4897
+4 4896
+5 4895
+L 06/13/2021 - 17:52:32: [stac.smx] 
+Previous tickcounts:
+0 3324168
+1 3324166
+2 3324165
+3 3324164
+4 3324163
+5 3324162
+L 06/13/2021 - 17:52:32: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:52:35: [stac.smx] [StAC] SilentAim detection of 8.34° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 8. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Network:
+ 183.58 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 141.96 kbps rate
+ 135.37 pps rate
+L 06/13/2021 - 17:52:35: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Angles:
+ angles0: x 35.235225 y -174.751403
+ angles1: x 31.662904 y -167.213058
+ angles2: x 35.235225 y -174.751403
+ angles3: x 35.235225 y -174.751403
+ angles4: x 35.235225 y -174.751403
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Previous cmdnums:
+0 5065
+1 5064
+2 5063
+3 5062
+4 5061
+5 5060
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Previous tickcounts:
+0 3324332
+1 3324331
+2 3324330
+3 3324329
+4 3324328
+5 3324327
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:52:35: [stac.smx] [StAC] SilentAim detection of 14.52° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 9. fuzzy = no norecoil = no
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Network:
+ 183.58 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 141.96 kbps rate
+ 135.37 pps rate
+L 06/13/2021 - 17:52:35: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? no
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Angles:
+ angles0: x 35.235225 y -174.751403
+ angles1: x 33.480621 y -160.333786
+ angles2: x 35.235225 y -174.751403
+ angles3: x 35.235225 y -174.751403
+ angles4: x 35.235225 y -174.751403
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Previous cmdnums:
+0 5070
+1 5069
+2 5068
+3 5067
+4 5066
+5 5065
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Previous tickcounts:
+0 3324335
+1 3324334
+2 3324334
+3 3324334
+4 3324334
+5 3324332
+L 06/13/2021 - 17:52:35: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:54:33: [stac.smx] [StAC] SilentAim detection of 21.66° on ᴛʀᴏʟʟɢᴇ ꜰ2ᴘ.
+Detections so far: 10. fuzzy = no norecoil = no
+L 06/13/2021 - 17:54:33: [stac.smx] 
+Network:
+ 181.91 ms ping
+ 0.00 loss
+ 0.00 inchoke
+ 0.00 outchoke
+ 0.00 totalchoke
+ 154.54 kbps rate
+ 134.66 pps rate
+L 06/13/2021 - 17:54:33: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/13/2021 - 17:54:33: [stac.smx] 
+Angles:
+ angles0: x 0.000024 y 172.948028
+ angles1: x -14.999976 y -165.051971
+ angles2: x 0.000024 y 172.948028
+ angles3: x 0.000024 y 172.948028
+ angles4: x 0.000024 y 172.948028
+L 06/13/2021 - 17:54:33: [stac.smx] 
+Previous cmdnums:
+0 12910
+1 12909
+2 12908
+3 12907
+4 12906
+5 12905
+L 06/13/2021 - 17:54:33: [stac.smx] 
+Previous tickcounts:
+0 3332178
+1 3332176
+2 3332175
+3 3332174
+4 3332173
+5 3332172
+L 06/13/2021 - 17:54:33: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 3.000000
+L 06/13/2021 - 17:54:33: [stac.smx] [StAC] No STV demo is being recorded, no demo name will be printed to the ban reason!

@@ -1,0 +1,50 @@
+L 05/05/2021 - 04:01:27: [stac.smx] [StAC] Plugin vers. ---- 4.1.17b ---- loaded
+L 05/05/2021 - 04:01:37: [stac.smx] [Steamtools] Steam connected.
+L 05/06/2021 - 00:05:03: [stac.smx] 
+==========
+[StAC] SilentAim detection of 1.951369° on 
+LiNeDante<44><[U:1:485667449]><>.
+Detections so far: 1.
+fuzzy = 0
+L 05/06/2021 - 00:05:03: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 75.736618 ms ping
+Angles:
+ angles0: x -7.130229 y 74.458175
+ angles1: x -5.337280 y 75.228355
+ angles2: x -7.130229 y 74.458175
+
+L 05/06/2021 - 00:05:03: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.015625
+3 0.015625
+4 0.015625
+5 0.015625
+==========
+L 05/06/2021 - 00:05:14: [stac.smx] 
+==========
+[StAC] SilentAim detection of 6.150887° on 
+LiNeDante<44><[U:1:485667449]><>.
+Detections so far: 2.
+fuzzy = 1
+L 05/06/2021 - 00:05:14: [stac.smx] 
+Network:
+ 0.000000 loss
+ 0.000000 choke
+ 76.642921 ms ping
+Angles:
+ angles0: x -13.182422 y 104.627052
+ angles1: x -8.861022 y 100.249961
+ angles2: x -13.213222 y 104.611648
+
+L 05/06/2021 - 00:05:14: [stac.smx] 
+Time between last 5 client ticks (most recent first):
+1 0.015625
+2 0.015625
+3 0.015625
+4 0.015625
+5 0.015625
+==========

@@ -1,0 +1,33 @@
+L 07/27/2021 - 04:01:58: [stac.smx] [Steamtools] Steam connected.
+L 07/27/2021 - 04:01:58: [stac.smx] [SteamWorks] Steam connected.
+L 07/27/2021 - 23:10:20: [stac.smx] [Steamtools] Steam disconnected.
+L 07/27/2021 - 23:10:20: [stac.smx] [SteamWorks] Steam disconnected.
+L 07/27/2021 - 23:17:51: [stac.smx] [Steamtools] Steam connected.
+L 07/27/2021 - 23:17:51: [stac.smx] [SteamWorks] Steam connected.
+L 07/27/2021 - 23:21:12: [stac.smx] 
+
+----------
+
+[StAC] [Detection] Player ak4pussy is cheating - OOB cvar/netvar value 9 on var cl_cmdrate!
+L 07/27/2021 - 23:21:12: [stac.smx] 
+ Player: ak4pussy<22><[U:1:911458205]><>
+ StAC cached SteamID: STEAM_0:1:455729102
+L 07/27/2021 - 23:21:13: [stac.smx] [StAC] No STV demo is being recorded, no demo name will be printed to the ban reason!
+L 07/28/2021 - 00:17:34: [stac.smx] 
+
+----------
+
+[StAC] Player Bananaphone bhopped!
+Consecutive detections so far: 5
+L 07/28/2021 - 00:17:34: [stac.smx] 
+ Player: Bananaphone<25><[U:1:89187149]><>
+ StAC cached SteamID: STEAM_0:1:44593574
+L 07/28/2021 - 00:17:34: [stac.smx] 
+
+----------
+
+[StAC] Player Bananaphone bhopped!
+Consecutive detections so far: 6
+L 07/28/2021 - 00:17:34: [stac.smx] 
+ Player: Bananaphone<25><[U:1:89187149]><>
+ StAC cached SteamID: STEAM_0:1:44593574

@@ -1,0 +1,64 @@
+L 11/15/2021 - 00:32:58: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20211115.log") (Version "1.10.0.6512")
+L 11/15/2021 - 00:32:58: [admincheats.smx] <richard gomez 3341><STEAM_0:1:417998338><209.143.23.85> was prevented from running cheat command 'prop_physics_create'
+L 11/15/2021 - 01:22:10: [admincheats.smx] <Turtle Lord><STEAM_0:0:498230109><68.42.182.151> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 01:55:59: [admincheats.smx] <Kaki><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 01:56:57: [admincheats.smx] <Kaki><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 01:57:24: [admincheats.smx] <Kaki><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 02:07:52: [admincheats.smx] <Kaki><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 04:00:30: [ScheduledShutdown.smx] Server shutdown warning.
+L 11/15/2021 - 04:00:40: [ScheduledShutdown.smx] Server shutdown.
+L 11/15/2021 - 04:00:41: Log file closed.
+L 11/15/2021 - 04:01:23: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20211115.log") (Version "1.10.0.6512")
+L 11/15/2021 - 04:01:23: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 11/15/2021 - 04:01:23: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 11/15/2021 - 04:01:23: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 11/15/2021 - 04:01:23: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 11/15/2021 - 04:01:23: [stac.smx] [StAC] File handle invalid!
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/15/2021 - 04:01:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/15/2021 - 04:01:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/15/2021 - 04:01:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 11/15/2021 - 04:10:55: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20211115.log") (Version "1.10.0.6512")
+L 11/15/2021 - 04:10:55: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 11/15/2021 - 04:10:55: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 11/15/2021 - 04:10:56: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 11/15/2021 - 04:10:56: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 11/15/2021 - 04:10:56: [stac.smx] [StAC] File handle invalid!
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/15/2021 - 04:11:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/15/2021 - 04:11:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/15/2021 - 04:11:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 11/15/2021 - 07:03:36: [admincheats.smx] <tomboy loli><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 07:05:25: [admincheats.smx] <tomboy loli><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 07:05:37: [admincheats.smx] <tomboy loli><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 07:06:12: [admincheats.smx] <tomboy loli><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 07:06:13: [admincheats.smx] <tomboy loli><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 07:10:46: [admincheats.smx] <tomboy loli><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 21:21:32: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 21:24:35: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 21:24:36: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 21:24:48: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 21:26:16: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 21:29:37: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 22:49:14: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 22:53:21: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 22:53:28: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 23:03:17: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 23:03:24: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'
+L 11/15/2021 - 23:03:57: [admincheats.smx] <czech horse toucher><STEAM_0:1:125057930><47.18.62.197> was prevented from running cheat command 'noclip'

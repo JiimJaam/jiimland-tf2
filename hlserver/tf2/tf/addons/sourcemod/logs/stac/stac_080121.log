@@ -1,0 +1,1053 @@
+L 08/01/2021 - 04:01:42: [stac.smx] [Steamtools] Steam connected.
+L 08/01/2021 - 04:01:43: [stac.smx] [SteamWorks] Steam connected.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 287 on d3m0man.
+Detections so far: 1.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 22651
+1 22364
+2 22339
+3 22097
+4 21906
+5 21675
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668303
+1 1668302
+2 1668301
+3 1668300
+4 1668299
+5 1668298
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 307 on d3m0man.
+Detections so far: 2.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 22984
+1 22677
+2 22651
+3 22364
+4 22339
+5 22097
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668305
+1 1668304
+2 1668303
+3 1668302
+4 1668301
+5 1668300
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 81 on d3m0man.
+Detections so far: 3.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 23065
+1 22984
+2 22677
+3 22651
+4 22364
+5 22339
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668306
+1 1668305
+2 1668304
+3 1668303
+4 1668302
+5 1668301
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 556 on d3m0man.
+Detections so far: 4.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 23621
+1 23065
+2 22984
+3 22677
+4 22651
+5 22364
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668307
+1 1668306
+2 1668305
+3 1668304
+4 1668303
+5 1668302
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 198 on d3m0man.
+Detections so far: 5.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 23819
+1 23621
+2 23065
+3 22984
+4 22677
+5 22651
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668308
+1 1668307
+2 1668306
+3 1668305
+4 1668304
+5 1668303
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 242 on d3m0man.
+Detections so far: 6.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 24061
+1 23819
+2 23621
+3 23065
+4 22984
+5 22677
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668309
+1 1668308
+2 1668307
+3 1668306
+4 1668305
+5 1668304
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 294 on d3m0man.
+Detections so far: 7.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 24416
+1 24122
+2 24061
+3 23819
+4 23621
+5 23065
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668311
+1 1668310
+2 1668309
+3 1668308
+4 1668307
+5 1668306
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 182 on d3m0man.
+Detections so far: 8.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 24648
+1 24466
+2 24416
+3 24122
+4 24061
+5 23819
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668313
+1 1668312
+2 1668311
+3 1668310
+4 1668309
+5 1668308
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 426 on d3m0man.
+Detections so far: 9.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 25074
+1 24648
+2 24466
+3 24416
+4 24122
+5 24061
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668314
+1 1668313
+2 1668312
+3 1668311
+4 1668310
+5 1668309
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 557 on d3m0man.
+Detections so far: 10.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 25631
+1 25074
+2 24648
+3 24466
+4 24416
+5 24122
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668315
+1 1668314
+2 1668313
+3 1668312
+4 1668311
+5 1668310
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 682 on d3m0man.
+Detections so far: 11.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 26313
+1 25631
+2 25074
+3 24648
+4 24466
+5 24416
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668316
+1 1668315
+2 1668314
+3 1668313
+4 1668312
+5 1668311
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 165 on d3m0man.
+Detections so far: 12.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 26528
+1 26363
+2 26335
+3 26313
+4 25631
+5 25074
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668319
+1 1668318
+2 1668317
+3 1668316
+4 1668315
+5 1668314
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 1024 on d3m0man.
+Detections so far: 13.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 27552
+1 26528
+2 26363
+3 26335
+4 26313
+5 25631
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668320
+1 1668319
+2 1668318
+3 1668317
+4 1668316
+5 1668315
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 433 on d3m0man.
+Detections so far: 14.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 27985
+1 27552
+2 26528
+3 26363
+4 26335
+5 26313
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668321
+1 1668320
+2 1668319
+3 1668318
+4 1668317
+5 1668316
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 81 on d3m0man.
+Detections so far: 15.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 28122
+1 28041
+2 27985
+3 27552
+4 26528
+5 26363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668323
+1 1668322
+2 1668321
+3 1668320
+4 1668319
+5 1668318
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 73 on d3m0man.
+Detections so far: 16.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 28195
+1 28122
+2 28041
+3 27985
+4 27552
+5 26528
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668324
+1 1668323
+2 1668322
+3 1668321
+4 1668320
+5 1668319
+L 08/01/2021 - 10:58:46: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 172 on d3m0man.
+Detections so far: 17.
+L 08/01/2021 - 10:58:46: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:46: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous cmdnums:
+0 28367
+1 28195
+2 28122
+3 28041
+4 27985
+5 27552
+L 08/01/2021 - 10:58:46: [stac.smx] 
+Previous tickcounts:
+0 1668325
+1 1668324
+2 1668323
+3 1668322
+4 1668321
+5 1668320
+L 08/01/2021 - 10:58:47: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 84 on d3m0man.
+Detections so far: 18.
+L 08/01/2021 - 10:58:47: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:47: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous cmdnums:
+0 28451
+1 28367
+2 28195
+3 28122
+4 28041
+5 27985
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous tickcounts:
+0 1668326
+1 1668325
+2 1668324
+3 1668323
+4 1668322
+5 1668321
+L 08/01/2021 - 10:58:47: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 456 on d3m0man.
+Detections so far: 19.
+L 08/01/2021 - 10:58:47: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:47: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous cmdnums:
+0 28907
+1 28451
+2 28367
+3 28195
+4 28122
+5 28041
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous tickcounts:
+0 1668327
+1 1668326
+2 1668325
+3 1668324
+4 1668323
+5 1668322
+L 08/01/2021 - 10:58:47: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 68 on d3m0man.
+Detections so far: 20.
+L 08/01/2021 - 10:58:47: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:47: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous cmdnums:
+0 28975
+1 28907
+2 28451
+3 28367
+4 28195
+5 28122
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous tickcounts:
+0 1668328
+1 1668327
+2 1668326
+3 1668325
+4 1668324
+5 1668323
+L 08/01/2021 - 10:58:47: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 175 on d3m0man.
+Detections so far: 21.
+L 08/01/2021 - 10:58:47: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:47: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous cmdnums:
+0 29150
+1 28975
+2 28907
+3 28451
+4 28367
+5 28195
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous tickcounts:
+0 1668329
+1 1668328
+2 1668327
+3 1668326
+4 1668325
+5 1668324
+L 08/01/2021 - 10:58:47: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 121 on d3m0man.
+Detections so far: 22.
+L 08/01/2021 - 10:58:47: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Network:
+ 44.63 ms ping
+ 0.00 loss
+ 3.92 inchoke
+ 3.20 outchoke
+ 7.13 totalchoke
+ 145.40 kbps rate
+ 130.33 pps rate
+L 08/01/2021 - 10:58:47: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous cmdnums:
+0 29271
+1 29150
+2 28975
+3 28907
+4 28451
+5 28367
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous tickcounts:
+0 1668330
+1 1668329
+2 1668328
+3 1668327
+4 1668326
+5 1668325
+L 08/01/2021 - 10:58:47: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 103 on d3m0man.
+Detections so far: 23.
+L 08/01/2021 - 10:58:47: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Network:
+ 44.79 ms ping
+ 0.00 loss
+ 3.18 inchoke
+ 1.80 outchoke
+ 4.98 totalchoke
+ 130.98 kbps rate
+ 131.72 pps rate
+L 08/01/2021 - 10:58:47: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous cmdnums:
+0 29374
+1 29271
+2 29150
+3 28975
+4 28907
+5 28451
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous tickcounts:
+0 1668331
+1 1668330
+2 1668329
+3 1668328
+4 1668327
+5 1668326
+L 08/01/2021 - 10:58:47: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 485 on d3m0man.
+Detections so far: 24.
+L 08/01/2021 - 10:58:47: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Network:
+ 44.79 ms ping
+ 0.00 loss
+ 3.18 inchoke
+ 1.80 outchoke
+ 4.98 totalchoke
+ 130.98 kbps rate
+ 131.72 pps rate
+L 08/01/2021 - 10:58:47: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous cmdnums:
+0 29859
+1 29374
+2 29271
+3 29150
+4 28975
+5 28907
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous tickcounts:
+0 1668332
+1 1668331
+2 1668330
+3 1668329
+4 1668328
+5 1668327
+L 08/01/2021 - 10:58:47: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 85 on d3m0man.
+Detections so far: 25.
+L 08/01/2021 - 10:58:47: [stac.smx] 
+ Player: d3m0man<11><[U:1:1061818727]><>
+ StAC cached SteamID: STEAM_0:1:530909363
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Network:
+ 44.79 ms ping
+ 0.00 loss
+ 3.18 inchoke
+ 1.80 outchoke
+ 4.98 totalchoke
+ 130.98 kbps rate
+ 131.72 pps rate
+L 08/01/2021 - 10:58:47: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous cmdnums:
+0 29944
+1 29859
+2 29374
+3 29271
+4 29150
+5 28975
+L 08/01/2021 - 10:58:47: [stac.smx] 
+Previous tickcounts:
+0 1668333
+1 1668332
+2 1668331
+3 1668330
+4 1668329
+5 1668328
+L 08/01/2021 - 10:58:47: [stac.smx] [StAC] No STV demo is being recorded, no demo name will be printed to the ban reason!

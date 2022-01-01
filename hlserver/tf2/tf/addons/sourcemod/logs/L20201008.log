@@ -1,0 +1,48 @@
+L 10/08/2020 - 01:46:09: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20201008.log") (Version "1.10.0.6490")
+L 10/08/2020 - 01:46:09: [SM] Changed map to "plr_hightower_event"
+L 10/08/2020 - 01:46:11: -------- Mapchange to plr_hightower_event --------
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 10/08/2020 - 01:46:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 10/08/2020 - 01:46:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 10/08/2020 - 02:14:24: [mapchooser.smx] Voting for next map has started.
+L 10/08/2020 - 02:14:45: [mapchooser.smx] Voting for next map has finished. Nextmap: pd_cursed_cove_event.
+L 10/08/2020 - 02:15:46: [SM] Changed map to "pd_cursed_cove_event"
+L 10/08/2020 - 02:15:49: -------- Mapchange to pd_cursed_cove_event --------
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 10/08/2020 - 02:15:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 10/08/2020 - 02:15:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 10/08/2020 - 02:58:01: [mapchooser.smx] Voting for next map has started.
+L 10/08/2020 - 22:09:13: Log file closed.
+L 10/08/2020 - 22:09:56: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20201008.log") (Version "1.10.0.6490")
+L 10/08/2020 - 22:09:56: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 10/08/2020 - 22:09:56: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 10/08/2020 - 22:09:56: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 10/08/2020 - 22:10:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 10/08/2020 - 22:10:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 10/08/2020 - 22:37:03: [mapchooser.smx] Voting for next map has started.
+L 10/09/2020 - 01:36:58: Log file closed.
