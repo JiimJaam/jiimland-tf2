@@ -1,4 +1,4 @@
 # jiimland
-Files for my TF2 server(s?)
+Files for my TF2 servers
 
-MORE DETAILED DESCRIPTION TO COME
+MORE DETAILED DESCRIPTION SOON
