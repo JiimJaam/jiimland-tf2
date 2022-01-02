@@ -10,6 +10,6 @@ sudo ufw enable
 wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz
 tar zxf steamcmd_linux.tar.gz
 rm -rf steamcmd_linux.tar.gz
-chmod +x tf.sh
+chmod +x tf2.sh
 chmod +x steamcmd.sh update.sh
 ./update.sh +runscript tf2_ds.txt
