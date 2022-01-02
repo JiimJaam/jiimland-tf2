@@ -56,6 +56,7 @@ pl_swiftwater_final1
 pl_thundermountain
 pl_upward
 plr_bananabay
+plr_hightower
 plr_nightfall_final
 plr_pipeline
 sd_doomsday
@@ -87,7 +88,6 @@ workshop/cp_reckoner.ugc674719999
 workshop/cp_rooftop.ugc454119773
 workshop/cp_snowbase.ugc2081770490
 workshop/cp_tidal.ugc570869131
-workshop/dm_hightower.ugc2458531657
 workshop/koth_bagel.ugc791213600
 workshop/koth_chasm.ugc454131968
 workshop/koth_databank.ugc2112251255
