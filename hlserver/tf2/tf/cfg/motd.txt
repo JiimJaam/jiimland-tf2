@@ -1,5 +1,5 @@
 Welcome to the server! Enjoy your stay!
-Servers restart every day at 4:00 AM.
+Servers automatically restart when there is a Steam or TF2 update.
 
 === RULES ===
 1. No bigotry, such as homophobia, transphobia, racism, sexism, ableism, etc.
