@@ -38,5 +38,8 @@ hlserver/tf2/tf/addons/sourcemod/logs/**
 # Allow server config
 !hlserver/tf2/tf/cfg/server.cfg
 
+# Allow MOTD
+!hlserver/tf2/tf/cfg/motd.txt
+
 # Allow SourceMod CFGs
 !hlserver/tf2/tf/cfg/sourcemod/**
