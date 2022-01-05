@@ -1,5 +1,5 @@
 Welcome to the server! Enjoy your stay!
-Servers automatically restart when there is a Steam or TF2 update.
+Servers automatically restart when there is a Steam, TF2, or Linux update.
 
 === RULES ===
 1. No bigotry, such as homophobia, transphobia, racism, sexism, ableism, etc.
