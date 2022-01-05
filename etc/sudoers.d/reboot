@@ -1,2 +1,0 @@
-## User is allowed to execute reboot
-tf2server ALL=NOPASSWD: /sbin/reboot
