@@ -10,6 +10,7 @@ arena_sawmill
 arena_watchtower
 arena_well
 cp_5gorge
+cp_altitude
 cp_badlands
 cp_dustbowl
 cp_egypt_final
@@ -35,6 +36,7 @@ cp_well
 cp_yukon_final
 koth_badlands
 koth_brazil
+koth_cascade
 koth_harvest_final
 koth_highpass
 koth_king
@@ -47,6 +49,8 @@ koth_suijin
 pd_watergate
 pl_borneo
 pl_cactuscanyon
+pl_chilly
+pl_coal_event
 pl_enclosure_final
 pl_frontier_final
 pl_goldrush
