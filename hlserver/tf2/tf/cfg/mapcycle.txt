@@ -67,27 +67,27 @@ sd_doomsday
 
 // Custom Maps //
 cp_cardinal_rc1a
-cp_croissant_final
-cp_indulge
-cp_powerhouse_fix
-cp_scourge_b4
+cp_scourge_b5
 cp_warmfront
 koth_flake_a11
 koth_forge_b4
 pl_badwater_pro_v12
 pl_highwood_b19
-pl_jinn_b4b
-pl_midwest_b12
-pl_operandi_a13
+pl_jinn_b5
+pl_midwest_b51
+pl_operandi_a14
 pl_sludgepit_final4
 pl_waste_v2
 workshop/arena_yanqing.ugc1364041671
 workshop/cp_alloy.ugc592805587
 workshop/cp_conifer.ugc1419048064
+workshop/cp_croissant.ugc458840209
 workshop/cp_doublecross.ugc2209793078
 workshop/cp_fulgur.ugc2068252300
+workshop/cp_indulge.ugc528106646
 workshop/cp_kalinka.ugc1272700588
 workshop/cp_overgrown.ugc503939302
+workshop/cp_powerhouse_fix.ugc475699770
 workshop/cp_reckoner.ugc674719999
 workshop/cp_rooftop.ugc454119773
 workshop/cp_snowbase.ugc2081770490
