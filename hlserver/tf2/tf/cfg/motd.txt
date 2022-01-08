@@ -11,6 +11,12 @@ Servers automatically restart when there is a Steam, TF2, or Linux update.
 
 Breaking any of these rules will result in a kick/ban as admins see fit.
 
-=== OTHER INFO ===
-Join my official Discord at jiimjaam.site/discord
-Donations to support the server are not at all necessary but very appreciated! To donate go to jiimjaam.site/donate
+=== STEAM GROUP ===
+You can join our official Steam group at:
+https://steamcommunity.com/groups/jiimland
+
+=== DONATIONS ===
+Donations are not at all necessary, but are much appreciated. You can donate at:
+https://jiimjaam.site/donate/
+
+Note: Donators do not get any special perks or chat roles, to prevent people from feeling left out.
