@@ -31,15 +31,8 @@ hlserver/tf2/tf/addons/sourcemod/logs/**
 
 # Custom #
 
-# Allow mapcycle
-!hlserver/tf2/tf/cfg/mapcycle.txt
-!hlserver/tf2/tf/cfg/maplist.cfg
+# Allow CFGs
+!hlserver/tf2/tf/cfg/**
 
-# Allow server config
-!hlserver/tf2/tf/cfg/server.cfg
-
-# Allow MOTD
-!hlserver/tf2/tf/cfg/motd.txt
-
-# Allow SourceMod CFGs
-!hlserver/tf2/tf/cfg/sourcemod/**
+# Allow maps
+!hlserver/tf2/tf/maps/*.bsp
