@@ -1,8 +1,0 @@
-L 05/28/2021 - 00:11:49: SourceMod error session started
-L 05/28/2021 - 00:11:49: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210528.log")
-L 05/28/2021 - 00:11:49: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
-L 05/28/2021 - 04:00:16: Error log file session closed.
-L 05/28/2021 - 04:01:22: SourceMod error session started
-L 05/28/2021 - 04:01:22: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210528.log")
-L 05/28/2021 - 04:01:22: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
-L 05/29/2021 - 04:00:38: Error log file session closed.

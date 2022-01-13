@@ -1,9 +1,0 @@
-L 10/08/2021 - 04:01:21: [stac.smx] [Steamtools] Steam connected.
-L 10/08/2021 - 04:01:21: [stac.smx] [SteamWorks] Steam connected.
-L 10/08/2021 - 08:27:36: [stac.smx] [Steamtools] Steam disconnected.
-L 10/08/2021 - 08:27:36: [stac.smx] [SteamWorks] Steam disconnected.
-L 10/08/2021 - 08:27:51: [stac.smx] [Steamtools] Steam connected.
-L 10/08/2021 - 08:27:51: [stac.smx] [SteamWorks] Steam connected.
-L 10/08/2021 - 21:46:29: [stac.smx] [StAC] GetEngineTime() - steamLastOnlineTime = 47917.902343 >? 300.0
-L 10/08/2021 - 21:46:29: [stac.smx] steam stable!
-L 10/08/2021 - 21:46:29: [stac.smx] [StAC] Kicking bread for not being authorized with Steam.

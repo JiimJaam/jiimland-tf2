@@ -1,3 +1,0 @@
-L 01/09/2022 - 23:47:06: SourceMod error session started
-L 01/09/2022 - 23:47:06: Info (map "workshop/koth_offblast_rc4.ugc2125714706") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20220109.log")
-L 01/09/2022 - 23:47:06: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).

@@ -1,8 +1,0 @@
-L 09/30/2020 - 04:33:46: SourceMod error session started
-L 09/30/2020 - 04:33:46: Info (map "koth_lakeside_final") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200930.log")
-L 09/30/2020 - 04:33:46: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
-L 09/30/2020 - 04:33:46: [SM] Blaming: admincheats.smx
-L 09/30/2020 - 04:33:46: [SM] Call stack trace:
-L 09/30/2020 - 04:33:46: [SM]   [0] PrintToConsole
-L 09/30/2020 - 04:33:46: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
-L 09/30/2020 - 04:37:08: Error log file session closed.
