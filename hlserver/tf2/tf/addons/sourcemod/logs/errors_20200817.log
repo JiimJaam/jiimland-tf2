@@ -1,0 +1,5 @@
+L 08/17/2020 - 23:58:10: SourceMod error session started
+L 08/17/2020 - 23:58:10: Info (map "pl_hoodoo_final") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20200817.log")
+L 08/17/2020 - 23:58:10: [SM] Fatal error encountered parsing translation file "spraytracenomenu.phrases.txt"
+L 08/17/2020 - 23:58:10: [SM] Error (line 0, column 0): Stream failed to open
+L 08/18/2020 - 00:55:05: Error log file session closed.

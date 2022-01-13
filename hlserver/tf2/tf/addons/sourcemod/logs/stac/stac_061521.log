@@ -1,0 +1,6 @@
+L 06/15/2021 - 04:01:46: [stac.smx] [Steamtools] Steam connected.
+L 06/15/2021 - 16:22:15: [stac.smx] [StAC] GetEngineTime() - steamLastOnlineTime = 44428.832031 >? 300.0
+L 06/15/2021 - 16:22:15: [stac.smx] steam stable!
+L 06/15/2021 - 16:22:15: [stac.smx] [StAC] Kicking Toad for not being authorized with Steam.
+L 06/15/2021 - 23:28:37: [stac.smx] [Steamtools] Steam disconnected.
+L 06/15/2021 - 23:36:15: [stac.smx] [Steamtools] Steam connected.

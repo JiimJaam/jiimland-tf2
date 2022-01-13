@@ -1,0 +1,20 @@
+L 01/03/2022 - 00:26:12: SourceMod error session started
+L 01/03/2022 - 00:26:12: Info (map "koth_lazarus") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20220103.log")
+L 01/03/2022 - 00:26:12: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 01/03/2022 - 00:31:34: Error log file session closed.
+L 01/03/2022 - 00:31:34: SourceMod error session started
+L 01/03/2022 - 00:31:34: Info (map "arena_badlands") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20220103.log")
+L 01/03/2022 - 00:31:34: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 01/03/2022 - 04:00:34: Error log file session closed.
+L 01/03/2022 - 04:00:34: SourceMod error session started
+L 01/03/2022 - 04:00:34: Info (map "cp_badlands") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20220103.log")
+L 01/03/2022 - 04:00:34: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 01/03/2022 - 11:31:09: SourceMod error session started
+L 01/03/2022 - 11:31:09: Info (map "plr_bananabay") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20220103.log")
+L 01/03/2022 - 11:31:09: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 01/03/2022 - 11:31:09: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/03/2022 - 11:31:10: SourceMod error session started
+L 01/03/2022 - 11:31:10: Info (map "workshop/pl_halfacre.ugc454137930") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20220103.log")
+L 01/03/2022 - 11:31:10: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 01/03/2022 - 11:31:10: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 01/04/2022 - 00:04:10: Error log file session closed.

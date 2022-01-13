@@ -1,0 +1,236 @@
+L 11/09/2020 - 00:01:59: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20201109.log") (Version "1.10.0.6490")
+L 11/09/2020 - 00:01:59: [mapchooser.smx] Voting for next map has started.
+L 11/09/2020 - 00:37:01: [SM] Changed map to "koth_forge_b4"
+L 11/09/2020 - 00:37:03: -------- Mapchange to koth_forge_b4 --------
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/09/2020 - 00:37:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/09/2020 - 00:37:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/09/2020 - 01:04:07: [mapchooser.smx] Voting for next map has started.
+L 11/09/2020 - 07:45:58: [basecommands.smx] "User<47><[U:1:109549249]><>" changed map to "plr_hightower"
+L 11/09/2020 - 07:46:01: [SM] Changed map to "plr_hightower"
+L 11/09/2020 - 07:46:02: -------- Mapchange to plr_hightower --------
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/09/2020 - 07:46:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/09/2020 - 07:46:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/09/2020 - 07:48:16: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "User<50><[U:1:109549249]><>"'s head to 5.0.
+L 11/09/2020 - 07:48:16: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "GardenOfStone<48><[U:1:1109604806]><>"'s head to 5.0.
+L 11/09/2020 - 07:48:16: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "staryoshi06<49><[U:1:87379948]><>"'s head to 5.0.
+L 11/09/2020 - 07:48:16: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "necrolavigne<51><[U:1:52739223]><>"'s head to 5.0.
+L 11/09/2020 - 07:48:43: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "User<50><[U:1:109549249]><>"'s head to 1.0.
+L 11/09/2020 - 07:48:43: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "GardenOfStone<48><[U:1:1109604806]><>"'s head to 1.0.
+L 11/09/2020 - 07:48:43: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "staryoshi06<49><[U:1:87379948]><>"'s head to 1.0.
+L 11/09/2020 - 07:48:43: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "necrolavigne<51><[U:1:52739223]><>"'s head to 1.0.
+L 11/09/2020 - 07:48:48: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "User<50><[U:1:109549249]><>"'s torso to 0.5.
+L 11/09/2020 - 07:48:48: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "GardenOfStone<48><[U:1:1109604806]><>"'s torso to 0.5.
+L 11/09/2020 - 07:48:48: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "staryoshi06<49><[U:1:87379948]><>"'s torso to 0.5.
+L 11/09/2020 - 07:48:48: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "necrolavigne<51><[U:1:52739223]><>"'s torso to 0.5.
+L 11/09/2020 - 07:49:33: [admincheats.smx] <User><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 11/09/2020 - 07:50:04: [admincheats.smx] <User><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 11/09/2020 - 07:50:33: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "User<50><[U:1:109549249]><>"'s torso to 2.0.
+L 11/09/2020 - 07:50:33: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "GardenOfStone<48><[U:1:1109604806]><>"'s torso to 2.0.
+L 11/09/2020 - 07:50:33: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "staryoshi06<49><[U:1:87379948]><>"'s torso to 2.0.
+L 11/09/2020 - 07:50:33: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "necrolavigne<51><[U:1:52739223]><>"'s torso to 2.0.
+L 11/09/2020 - 07:52:07: [admincheats.smx] <User><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove'
+L 11/09/2020 - 07:52:13: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "User<50><[U:1:109549249]><>"'s torso to 5.0.
+L 11/09/2020 - 07:52:13: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "GardenOfStone<48><[U:1:1109604806]><>"'s torso to 5.0.
+L 11/09/2020 - 07:52:13: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "staryoshi06<49><[U:1:87379948]><>"'s torso to 5.0.
+L 11/09/2020 - 07:52:13: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "necrolavigne<51><[U:1:52739223]><>"'s torso to 5.0.
+L 11/09/2020 - 07:53:52: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "User<50><[U:1:109549249]><>"'s torso to 0.5.
+L 11/09/2020 - 07:53:52: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "GardenOfStone<48><[U:1:1109604806]><>"'s torso to 0.5.
+L 11/09/2020 - 07:53:52: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "staryoshi06<49><[U:1:87379948]><>"'s torso to 0.5.
+L 11/09/2020 - 07:53:52: [resizeplayers.smx] "User<50><[U:1:109549249]><>" resized "necrolavigne<52><[U:1:52739223]><>"'s torso to 0.5.
+L 11/09/2020 - 07:54:13: [basecommands.smx] "User<50><[U:1:109549249]><>" changed map to "plr_hightower"
+L 11/09/2020 - 07:54:16: [SM] Changed map to "plr_hightower"
+L 11/09/2020 - 07:54:17: -------- Mapchange to plr_hightower --------
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/09/2020 - 07:54:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/09/2020 - 07:54:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/09/2020 - 07:56:06: [admincheats.smx] <User><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 11/09/2020 - 07:56:20: [admincheats.smx] <User><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 11/09/2020 - 07:56:21: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "mp_autoteambalance 0")
+L 11/09/2020 - 07:56:21: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "mp_teams_unbalance_limit 999")
+L 11/09/2020 - 07:56:21: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 11/09/2020 - 07:56:38: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "mp_autoteambalance 0")
+L 11/09/2020 - 07:56:38: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "mp_teams_unbalance_limit 999")
+L 11/09/2020 - 07:56:38: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 11/09/2020 - 07:56:39: [funcommands.smx] "User<50><[U:1:109549249]><>" toggled noclip on "User<50><[U:1:109549249]><>"
+L 11/09/2020 - 07:56:41: [funcommands.smx] "User<50><[U:1:109549249]><>" toggled noclip on "User<50><[U:1:109549249]><>"
+L 11/09/2020 - 07:56:41: [funcommands.smx] "User<50><[U:1:109549249]><>" toggled noclip on "User<50><[U:1:109549249]><>"
+L 11/09/2020 - 07:56:42: [funcommands.smx] "User<50><[U:1:109549249]><>" toggled noclip on "User<50><[U:1:109549249]><>"
+L 11/09/2020 - 07:56:43: [funcommands.smx] "User<50><[U:1:109549249]><>" toggled noclip on "User<50><[U:1:109549249]><>"
+L 11/09/2020 - 07:57:54: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "say poopass")
+L 11/09/2020 - 07:58:10: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "say :flushed:")
+L 11/09/2020 - 07:58:34: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:39: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:41: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:41: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:41: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:41: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:41: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:41: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:42: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:42: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:42: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:42: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:42: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:43: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:43: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:43: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:43: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:44: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:44: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:58:44: [funcommands.smx] "User<50><[U:1:109549249]><>" ignited "necrolavigne<53><[U:1:52739223]><>" (seconds "20.000000")
+L 11/09/2020 - 07:59:13: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "sv_gravity -800")
+L 11/09/2020 - 07:59:19: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "sv_gravity 800")
+L 11/09/2020 - 07:59:29: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "sv_gravity 0")
+L 11/09/2020 - 07:59:44: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "sv_gravity 1")
+L 11/09/2020 - 08:00:43: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "sv_gravity 80000000")
+L 11/09/2020 - 08:01:06: [funcommands.smx] "User<50><[U:1:109549249]><>" toggled noclip on "User<50><[U:1:109549249]><>"
+L 11/09/2020 - 08:01:23: [funcommands.smx] "User<50><[U:1:109549249]><>" toggled noclip on "User<50><[U:1:109549249]><>"
+L 11/09/2020 - 08:01:49: [basecommands.smx] "User<50><[U:1:109549249]><>" console command (cmdline "sv_gravity 800")
+L 11/09/2020 - 08:02:49: [playercommands.smx] "User<50><[U:1:109549249]><>" renamed "necrolavigne<53><[U:1:52739223]><>" (to "nlorogclrire")
+L 11/09/2020 - 08:02:51: [playercommands.smx] "User<50><[U:1:109549249]><>" renamed "staryoshi06<49><[U:1:87379948]><>" (to "ysssassssat")
+L 11/09/2020 - 08:02:52: [playercommands.smx] "User<50><[U:1:109549249]><>" renamed "GardenOfStone<48><[U:1:1109604806]><>" (to "nOenfOOenSGOn")
+L 11/09/2020 - 08:02:54: [playercommands.smx] "User<50><[U:1:109549249]><>" renamed "User<50><[U:1:109549249]><>" (to "ssrr")
+L 11/09/2020 - 08:04:10: [playercommands.smx] "ssrr<50><[U:1:109549249]><>" renamed "ysssassssat<49><[U:1:87379948]><>" (to "ssssssssssa")
+L 11/09/2020 - 08:04:11: [playercommands.smx] "ssrr<50><[U:1:109549249]><>" renamed "ssssssssssa<49><[U:1:87379948]><>" (to "sssssssssss")
+L 11/09/2020 - 08:04:11: [playercommands.smx] "ssrr<50><[U:1:109549249]><>" renamed "sssssssssss<49><[U:1:87379948]><>" (to "sssssssssss")
+L 11/09/2020 - 08:04:11: [playercommands.smx] "ssrr<50><[U:1:109549249]><>" renamed "sssssssssss<49><[U:1:87379948]><>" (to "sssssssssss")
+L 11/09/2020 - 08:04:11: [playercommands.smx] "ssrr<50><[U:1:109549249]><>" renamed "sssssssssss<49><[U:1:87379948]><>" (to "sssssssssss")
+L 11/09/2020 - 08:04:13: [playercommands.smx] "ssrr<50><[U:1:109549249]><>" renamed "ssrr<50><[U:1:109549249]><>" (to "rsrs")
+L 11/09/2020 - 08:04:14: [playercommands.smx] "rsrs<50><[U:1:109549249]><>" renamed "rsrs<50><[U:1:109549249]><>" (to "sssr")
+L 11/09/2020 - 08:04:14: [playercommands.smx] "sssr<50><[U:1:109549249]><>" renamed "sssr<50><[U:1:109549249]><>" (to "ssrr")
+L 11/09/2020 - 08:04:14: [playercommands.smx] "ssrr<50><[U:1:109549249]><>" renamed "ssrr<50><[U:1:109549249]><>" (to "rrrr")
+L 11/09/2020 - 08:04:14: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "rrrr<50><[U:1:109549249]><>" (to "rrrr")
+L 11/09/2020 - 08:04:15: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "rrrr<50><[U:1:109549249]><>" (to "rrrr")
+L 11/09/2020 - 08:04:15: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "nOenfOOenSGOn<48><[U:1:1109604806]><>" (to "enGfnOSGOGfOn")
+L 11/09/2020 - 08:04:15: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "enGfnOSGOGfOn<48><[U:1:1109604806]><>" (to "fOnSOffOfSOfe")
+L 11/09/2020 - 08:04:16: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "fOnSOffOfSOfe<48><[U:1:1109604806]><>" (to "eOOnffOSSfOOn")
+L 11/09/2020 - 08:04:16: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "eOOnffOSSfOOn<48><[U:1:1109604806]><>" (to "OffSOOSSnSOOO")
+L 11/09/2020 - 08:04:16: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OffSOOSSnSOOO<48><[U:1:1109604806]><>" (to "fOOSOSOOSOSfO")
+L 11/09/2020 - 08:04:16: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "fOOSOSOOSOSfO<48><[U:1:1109604806]><>" (to "fSOOSOOOOfOSO")
+L 11/09/2020 - 08:04:16: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "fSOOSOOOOfOSO<48><[U:1:1109604806]><>" (to "SOOfOOOOOSSSO")
+L 11/09/2020 - 08:04:17: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "SOOfOOOOOSSSO<48><[U:1:1109604806]><>" (to "OOOSOOSOOOOOO")
+L 11/09/2020 - 08:04:17: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOOSOOSOOOOOO<48><[U:1:1109604806]><>" (to "OOSOOOOSOOOOO")
+L 11/09/2020 - 08:04:17: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOSOOOOSOOOOO<48><[U:1:1109604806]><>" (to "OOOOOOOOOOOSO")
+L 11/09/2020 - 08:04:17: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOOOOOOOOOOSO<48><[U:1:1109604806]><>" (to "SOOOOOOOOOOOO")
+L 11/09/2020 - 08:04:18: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "SOOOOOOOOOOOO<48><[U:1:1109604806]><>" (to "OOOOOOOOOOOOS")
+L 11/09/2020 - 08:04:18: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOOOOOOOOOOOS<48><[U:1:1109604806]><>" (to "OOOOOOSOOOOOO")
+L 11/09/2020 - 08:04:19: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOOOOOSOOOOOO<48><[U:1:1109604806]><>" (to "OOOOOOOOOOOOO")
+L 11/09/2020 - 08:04:19: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOOOOOOOOOOOO<48><[U:1:1109604806]><>" (to "OOOOOOOOOOOOO")
+L 11/09/2020 - 08:04:19: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOOOOOOOOOOOO<48><[U:1:1109604806]><>" (to "OOOOOOOOOOOOO")
+L 11/09/2020 - 08:04:20: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOOOOOOOOOOOO<48><[U:1:1109604806]><>" (to "OOOOOOOOOOOOO")
+L 11/09/2020 - 08:04:20: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "OOOOOOOOOOOOO<48><[U:1:1109604806]><>" (to "OOOOOOOOOOOOO")
+L 11/09/2020 - 08:04:21: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "nlorogclrire<53><[U:1:52739223]><>" (to "gorrenrogrne")
+L 11/09/2020 - 08:04:21: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "gorrenrogrne<53><[U:1:52739223]><>" (to "nrgogrgogneo")
+L 11/09/2020 - 08:04:22: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "nrgogrgogneo<53><[U:1:52739223]><>" (to "ognorgognnog")
+L 11/09/2020 - 08:04:22: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "ognorgognnog<53><[U:1:52739223]><>" (to "grorgnnoggno")
+L 11/09/2020 - 08:04:22: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "grorgnnoggno<53><[U:1:52739223]><>" (to "grgrrnoggngo")
+L 11/09/2020 - 08:04:22: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "grgrrnoggngo<53><[U:1:52739223]><>" (to "grgrrgngrgog")
+L 11/09/2020 - 08:04:22: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "grgrrgngrgog<53><[U:1:52739223]><>" (to "gggggrrogggg")
+L 11/09/2020 - 08:04:22: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "gggggrrogggg<53><[U:1:52739223]><>" (to "rgggggggggrg")
+L 11/09/2020 - 08:04:23: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "rgggggggggrg<53><[U:1:52739223]><>" (to "rgggrggggggg")
+L 11/09/2020 - 08:04:23: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "rgggrggggggg<53><[U:1:52739223]><>" (to "grgggggggggr")
+L 11/09/2020 - 08:04:23: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "grgggggggggr<53><[U:1:52739223]><>" (to "gggrrggggggg")
+L 11/09/2020 - 08:04:23: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "gggrrggggggg<53><[U:1:52739223]><>" (to "gggggrggrggg")
+L 11/09/2020 - 08:04:24: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "gggggrggrggg<53><[U:1:52739223]><>" (to "rggggrgrrggg")
+L 11/09/2020 - 08:04:24: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "rggggrgrrggg<53><[U:1:52739223]><>" (to "rggggrgrgggg")
+L 11/09/2020 - 08:04:24: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "rggggrgrgggg<53><[U:1:52739223]><>" (to "rggggggggggg")
+L 11/09/2020 - 08:04:24: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "rggggggggggg<53><[U:1:52739223]><>" (to "gggggggggggg")
+L 11/09/2020 - 08:04:24: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "gggggggggggg<53><[U:1:52739223]><>" (to "gggggggggggg")
+L 11/09/2020 - 08:04:25: [playercommands.smx] "rrrr<50><[U:1:109549249]><>" renamed "gggggggggggg<53><[U:1:52739223]><>" (to "gggggggggggg")
+L 11/09/2020 - 08:05:51: [basecommands.smx] "rrrr<50><[U:1:109549249]><>" console command (cmdline "mp_autoteambalance 0")
+L 11/09/2020 - 08:05:51: [basecommands.smx] "rrrr<50><[U:1:109549249]><>" console command (cmdline "mp_teams_unbalance_limit 999")
+L 11/09/2020 - 08:05:51: [basecommands.smx] "rrrr<50><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 11/09/2020 - 08:05:52: [funcommands.smx] "rrrr<50><[U:1:109549249]><>" toggled noclip on "rrrr<50><[U:1:109549249]><>"
+L 11/09/2020 - 08:05:53: [basecommands.smx] "rrrr<50><[U:1:109549249]><>" console command (cmdline "mp_autoteambalance 0")
+L 11/09/2020 - 08:05:53: [basecommands.smx] "rrrr<50><[U:1:109549249]><>" console command (cmdline "mp_teams_unbalance_limit 999")
+L 11/09/2020 - 08:05:53: [basecommands.smx] "rrrr<50><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 11/09/2020 - 08:05:54: [funcommands.smx] "rrrr<50><[U:1:109549249]><>" toggled noclip on "rrrr<50><[U:1:109549249]><>"
+L 11/09/2020 - 08:06:46: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "rrrr<50><[U:1:109549249]><>"'s hands to 2.0.
+L 11/09/2020 - 08:06:46: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "OOOOOOOOOOOOO<48><[U:1:1109604806]><>"'s hands to 2.0.
+L 11/09/2020 - 08:06:46: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "sssssssssss<49><[U:1:87379948]><>"'s hands to 2.0.
+L 11/09/2020 - 08:06:46: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "gggggggggggg<53><[U:1:52739223]><>"'s hands to 2.0.
+L 11/09/2020 - 08:07:34: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "rrrr<50><[U:1:109549249]><>" to 1.0.
+L 11/09/2020 - 08:07:34: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "OOOOOOOOOOOOO<48><[U:1:1109604806]><>" to 1.0.
+L 11/09/2020 - 08:07:34: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "sssssssssss<49><[U:1:87379948]><>" to 1.0.
+L 11/09/2020 - 08:07:34: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "gggggggggggg<53><[U:1:52739223]><>" to 1.0.
+L 11/09/2020 - 08:07:39: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "rrrr<50><[U:1:109549249]><>"'s hands to 1.0.
+L 11/09/2020 - 08:07:39: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "OOOOOOOOOOOOO<48><[U:1:1109604806]><>"'s hands to 1.0.
+L 11/09/2020 - 08:07:39: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "sssssssssss<49><[U:1:87379948]><>"'s hands to 1.0.
+L 11/09/2020 - 08:07:39: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "gggggggggggg<53><[U:1:52739223]><>"'s hands to 1.0.
+L 11/09/2020 - 08:07:52: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "rrrr<50><[U:1:109549249]><>" to 0.1.
+L 11/09/2020 - 08:09:43: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "rrrr<50><[U:1:109549249]><>" to 1.0.
+L 11/09/2020 - 08:09:43: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "OOOOOOOOOOOOO<48><[U:1:1109604806]><>" to 1.0.
+L 11/09/2020 - 08:09:43: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "sssssssssss<49><[U:1:87379948]><>" to 1.0.
+L 11/09/2020 - 08:09:43: [resizeplayers.smx] "rrrr<50><[U:1:109549249]><>" resized "gggggggggggg<53><[U:1:52739223]><>" to 1.0.
+L 11/09/2020 - 08:10:46: Log file closed.
+L 11/09/2020 - 08:11:00: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20201109.log") (Version "1.10.0.6490")
+L 11/09/2020 - 08:11:00: [TF2ITEMS] "GiveNamedItem" offset = 484
+L 11/09/2020 - 08:11:00: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 11/09/2020 - 08:11:00: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 11/09/2020 - 08:11:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 11/09/2020 - 08:11:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 11/09/2020 - 18:10:36: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:10:37: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:10:38: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:10:41: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:10:44: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:10:46: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:10:50: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:11:16: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:11:19: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:11:22: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:11:29: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:11:30: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:11:58: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:14: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:15: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:17: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:19: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:26: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:27: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:29: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:39: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:12:56: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:13:33: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:14:04: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:14:08: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:14:10: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:14:16: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:14:17: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/09/2020 - 18:14:18: [admincheats.smx] <johnvaquero | tf2cross.com><STEAM_0:1:16997436><142.68.170.36> was prevented from running cheat command 'mp_showrespawntimes'
+L 11/11/2020 - 03:56:40: Log file closed.

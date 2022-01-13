@@ -1,0 +1,141 @@
+L 12/10/2021 - 03:38:43: SourceMod error session started
+L 12/10/2021 - 03:38:43: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211210.log")
+L 12/10/2021 - 03:38:43: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:38:43: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:38:43: [SM] Call stack trace:
+L 12/10/2021 - 03:38:43: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:38:43: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:38:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:38:45: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:38:45: [SM] Call stack trace:
+L 12/10/2021 - 03:38:45: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:38:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:38:45: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:38:45: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:38:45: [SM] Call stack trace:
+L 12/10/2021 - 03:38:45: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:38:45: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:38:46: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:38:46: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:38:46: [SM] Call stack trace:
+L 12/10/2021 - 03:38:46: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:38:46: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:38:46: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:38:46: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:38:46: [SM] Call stack trace:
+L 12/10/2021 - 03:38:46: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:38:46: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:38:46: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:38:46: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:38:46: [SM] Call stack trace:
+L 12/10/2021 - 03:38:46: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:38:46: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:38:47: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:38:47: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:38:47: [SM] Call stack trace:
+L 12/10/2021 - 03:38:47: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:38:47: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:38:48: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:38:48: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:38:48: [SM] Call stack trace:
+L 12/10/2021 - 03:38:48: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:38:48: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:11: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:11: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:11: [SM] Call stack trace:
+L 12/10/2021 - 03:39:11: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:11: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:11: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:11: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:11: [SM] Call stack trace:
+L 12/10/2021 - 03:39:11: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:11: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:11: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:11: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:11: [SM] Call stack trace:
+L 12/10/2021 - 03:39:11: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:11: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:11: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:11: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:11: [SM] Call stack trace:
+L 12/10/2021 - 03:39:11: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:11: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:12: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:12: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:12: [SM] Call stack trace:
+L 12/10/2021 - 03:39:12: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:12: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:12: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:12: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:12: [SM] Call stack trace:
+L 12/10/2021 - 03:39:12: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:12: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:12: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:12: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:12: [SM] Call stack trace:
+L 12/10/2021 - 03:39:12: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:12: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:12: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:12: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:12: [SM] Call stack trace:
+L 12/10/2021 - 03:39:12: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:12: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 03:39:13: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 12/10/2021 - 03:39:13: [SM] Blaming: admincheats.smx
+L 12/10/2021 - 03:39:13: [SM] Call stack trace:
+L 12/10/2021 - 03:39:13: [SM]   [0] PrintToConsole
+L 12/10/2021 - 03:39:13: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 12/10/2021 - 04:01:06: Error log file session closed.
+L 12/10/2021 - 04:01:44: SourceMod error session started
+L 12/10/2021 - 04:01:44: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211210.log")
+L 12/10/2021 - 04:01:44: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2021 - 04:01:44: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 12/10/2021 - 04:01:44: [SM] Blaming: stac.smx
+L 12/10/2021 - 04:01:44: [SM] Call stack trace:
+L 12/10/2021 - 04:01:44: [SM]   [0] GetConVarBool
+L 12/10/2021 - 04:01:44: [SM]   [1] Line 477, ./scripting/stac/stac_cvars.sp::setStacVars
+L 12/10/2021 - 04:01:44: [SM]   [2] Line 392, ./scripting/stac/stac_cvars.sp::initCvars
+L 12/10/2021 - 04:01:44: [SM]   [3] Line 134, ./scripting/stac.sp::OnPluginStart
+L 12/10/2021 - 04:01:44: [SM] Unable to load plugin "stac.smx": Error detected in plugin startup (see error logs)
+L 12/10/2021 - 16:10:17: Error log file session closed.
+L 12/10/2021 - 16:12:56: SourceMod error session started
+L 12/10/2021 - 16:12:56: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211210.log")
+L 12/10/2021 - 16:12:56: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2021 - 16:12:56: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 12/10/2021 - 16:12:56: [SM] Blaming: stac.smx
+L 12/10/2021 - 16:12:56: [SM] Call stack trace:
+L 12/10/2021 - 16:12:56: [SM]   [0] GetConVarBool
+L 12/10/2021 - 16:12:56: [SM]   [1] Line 477, ./scripting/stac/stac_cvars.sp::setStacVars
+L 12/10/2021 - 16:12:56: [SM]   [2] Line 392, ./scripting/stac/stac_cvars.sp::initCvars
+L 12/10/2021 - 16:12:56: [SM]   [3] Line 134, ./scripting/stac.sp::OnPluginStart
+L 12/10/2021 - 16:12:56: [SM] Unable to load plugin "stac.smx": Error detected in plugin startup (see error logs)
+L 12/10/2021 - 16:13:08: [SM] Exception reported: Call was aborted
+L 12/10/2021 - 18:27:01: SourceMod error session started
+L 12/10/2021 - 18:27:01: Info (map "plr_hightower") (file "/home/tfds/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211210.log")
+L 12/10/2021 - 18:27:01: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 12/10/2021 - 18:27:01: [SM] Exception reported: Invalid convar handle 0 (error 4)
+L 12/10/2021 - 18:27:01: [SM] Blaming: stac.smx
+L 12/10/2021 - 18:27:01: [SM] Call stack trace:
+L 12/10/2021 - 18:27:01: [SM]   [0] GetConVarBool
+L 12/10/2021 - 18:27:01: [SM]   [1] Line 477, ./scripting/stac/stac_cvars.sp::setStacVars
+L 12/10/2021 - 18:27:01: [SM]   [2] Line 392, ./scripting/stac/stac_cvars.sp::initCvars
+L 12/10/2021 - 18:27:01: [SM]   [3] Line 134, ./scripting/stac.sp::OnPluginStart
+L 12/10/2021 - 18:27:01: [SM] Unable to load plugin "stac.smx": Error detected in plugin startup (see error logs)
+L 12/10/2021 - 18:27:01: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2021 - 18:34:52: SourceMod error session started
+L 12/10/2021 - 18:34:52: Info (map "plr_hightower") (file "/home/tfds/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211210.log")
+L 12/10/2021 - 18:34:52: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 12/10/2021 - 18:34:52: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2021 - 18:38:20: SourceMod error session started
+L 12/10/2021 - 18:38:20: Info (map "plr_hightower") (file "/home/tfds/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211210.log")
+L 12/10/2021 - 18:38:20: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 12/10/2021 - 18:38:20: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2021 - 18:46:06: SourceMod error session started
+L 12/10/2021 - 18:46:06: Info (map "plr_hightower") (file "/home/tfds/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211210.log")
+L 12/10/2021 - 18:46:06: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 12/10/2021 - 18:46:06: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/10/2021 - 20:46:54: SourceMod error session started
+L 12/10/2021 - 20:46:54: Info (map "plr_hightower") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211210.log")
+L 12/10/2021 - 20:46:54: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 12/10/2021 - 20:46:55: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/11/2021 - 02:44:37: Error log file session closed.

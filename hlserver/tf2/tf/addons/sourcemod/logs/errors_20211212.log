@@ -1,0 +1,10 @@
+L 12/12/2021 - 04:00:40: SourceMod error session started
+L 12/12/2021 - 04:00:40: Info (map "plr_hightower") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211212.log")
+L 12/12/2021 - 04:00:40: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 12/12/2021 - 04:00:40: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/12/2021 - 04:02:03: Error log file session closed.
+L 12/12/2021 - 04:02:17: SourceMod error session started
+L 12/12/2021 - 04:02:17: Info (map "plr_hightower") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20211212.log")
+L 12/12/2021 - 04:02:17: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 12/12/2021 - 04:02:17: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 12/13/2021 - 04:00:27: Error log file session closed.

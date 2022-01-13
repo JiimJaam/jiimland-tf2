@@ -1,0 +1,15 @@
+L 05/15/2021 - 04:01:25: SourceMod error session started
+L 05/15/2021 - 04:01:25: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210515.log")
+L 05/15/2021 - 04:01:25: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 05/15/2021 - 05:22:20: Error log file session closed.
+L 05/15/2021 - 05:22:20: SourceMod error session started
+L 05/15/2021 - 05:22:20: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210515.log")
+L 05/15/2021 - 05:22:20: [SM] Fatal error encountered parsing translation file "sourcesleuth.phrases.txt"
+L 05/15/2021 - 05:22:20: [SM] Error (line 0, column 0): Stream failed to open
+L 05/15/2021 - 05:22:20: [SM] Fatal error encountered parsing translation file "sourcebans.phrases.txt"
+L 05/15/2021 - 05:22:20: [SM] Error (line 0, column 0): Stream failed to open
+L 05/15/2021 - 05:22:20: [SM] Fatal error encountered parsing translation file "sourcereport.phrases.txt"
+L 05/15/2021 - 05:22:20: [SM] Error (line 0, column 0): Stream failed to open
+L 05/15/2021 - 05:22:20: [SM] Fatal error encountered parsing translation file "sourcecomms.phrases.txt"
+L 05/15/2021 - 05:22:20: [SM] Error (line 0, column 0): Stream failed to open
+L 05/16/2021 - 04:00:27: Error log file session closed.

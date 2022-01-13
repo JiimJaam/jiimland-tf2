@@ -1,0 +1,848 @@
+L 07/03/2020 - 04:03:07: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200703.log") (Version "1.10.0.6488")
+L 07/03/2020 - 04:03:07: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 07/03/2020 - 04:03:07: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/03/2020 - 04:03:07: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 04:03:16: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 04:03:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 04:03:17: [UPDATER] Successfully updated gamedata file "sdkhooks.games/engine.ep2v.txt"
+L 07/03/2020 - 04:03:17: [UPDATER] Successfully updated gamedata file "tf2.items.txt"
+L 07/03/2020 - 04:03:17: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 07/03/2020 - 05:12:15: -------- Mapchange to workshop/arena_yanqing_b3a.ugc1364041671 --------
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:12:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:12:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:14:31: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200703.log") (Version "1.10.0.6488")
+L 07/03/2020 - 05:14:31: [TF2ITEMS] "GiveNamedItem" offset = 483
+L 07/03/2020 - 05:14:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/03/2020 - 05:14:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:14:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:14:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:15:11: -------- Mapchange to workshop/cp_alloy_rc3.ugc592805587 --------
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:15:17: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:15:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:16:58: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200703.log") (Version "1.10.0.6488")
+L 07/03/2020 - 05:16:58: [TF2ITEMS] "GiveNamedItem" offset = 483
+L 07/03/2020 - 05:16:58: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/03/2020 - 05:16:58: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:17:07: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:17:20: -------- Mapchange to workshop/cp_conifer_rc2.ugc1419048064 --------
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:17:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:17:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:18:00: -------- Mapchange to workshop/cp_overgrown_rc7b.ugc503939302 --------
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:18:06: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:18:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:18:39: -------- Mapchange to workshop/cp_reckoner_rc6.ugc674719999 --------
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:18:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:18:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:19:24: -------- Mapchange to workshop/trade_snowlodge.ugc1106050491 --------
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:19:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:19:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:21:06: -------- Mapchange to workshop/koth_bagel_rc2a.ugc791213600 --------
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:21:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:21:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:21:43: -------- Mapchange to workshop/koth_chasm_b1.ugc454131968 --------
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:21:49: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:21:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:22:19: -------- Mapchange to workshop/koth_maple_ridge_rc2.ugc454270325 --------
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:22:26: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:22:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:24:06: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200703.log") (Version "1.10.0.6488")
+L 07/03/2020 - 05:24:06: [TF2ITEMS] "GiveNamedItem" offset = 483
+L 07/03/2020 - 05:24:06: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/03/2020 - 05:24:06: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:24:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:24:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:24:25: -------- Mapchange to workshop/koth_product_rcx.ugc454272353 --------
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:24:31: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:24:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:26:03: -------- Mapchange to workshop/koth_rocktop_rc2.ugc454207393 --------
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:26:08: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:26:58: -------- Mapchange to workshop/koth_spillway_rc3a.ugc1962574007 --------
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:27:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:27:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:28:14: -------- Mapchange to workshop/pl_angkor_rc2.ugc454686689 --------
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:28:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:28:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:28:51: -------- Mapchange to workshop/pl_barnblitz_pro7.ugc582280235 --------
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:28:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:28:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:29:29: -------- Mapchange to workshop/pl_boundary_final1.ugc456799153 --------
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:29:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:29:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:30:49: -------- Mapchange to workshop/pl_farmstead_rc1.ugc454263905 --------
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:30:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:30:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:31:40: -------- Mapchange to workshop/pl_fifthcurve_rc1.ugc648227046 --------
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:31:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:31:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:32:18: -------- Mapchange to workshop/pl_millstone_v3.ugc795101929 --------
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:32:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:32:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:32:50: -------- Mapchange to workshop/pl_pier_b23.ugc454117739 --------
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:32:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:32:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:33:58: -------- Mapchange to workshop/pl_rumble_rc1.ugc887223759 --------
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:34:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:34:36: -------- Mapchange to workshop/pl_shoreleave_rc1.ugc1238849347 --------
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:34:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:34:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:35:11: -------- Mapchange to workshop/pl_vigil_rc7.ugc1266210012 --------
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:35:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:35:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:41:28: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" changed map to "pl_upward"
+L 07/03/2020 - 05:41:31: [SM] Changed map to "pl_upward"
+L 07/03/2020 - 05:41:33: -------- Mapchange to pl_upward --------
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 05:41:39: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 05:41:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:48:09: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "exec server.cfg")
+L 07/03/2020 - 05:48:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:49:56: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "hostname GameTrackerClaimServer")
+L 07/03/2020 - 05:50:07: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "hostname")
+L 07/03/2020 - 05:51:19: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "hostname jiimland")
+L 07/03/2020 - 05:51:23: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "hostname")
+L 07/03/2020 - 05:55:44: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 7018 to "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 05:56:34: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 7018 to "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 05:56:34: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 7018 to "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 05:57:09: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "exec server.cfg")
+L 07/03/2020 - 05:57:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 05:57:48: [playercommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" slayed "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 05:58:14: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 14 to "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 05:58:14: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 14 to "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 06:01:31: [funcommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" toggled noclip on "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 06:02:13: [funcommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" toggled noclip on "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 06:03:51: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 28 to "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 06:03:51: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 28 to "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 06:05:19: [playercommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" slayed "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 06:10:20: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 07/03/2020 - 06:10:30: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "exec server.cfg")
+L 07/03/2020 - 06:10:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 06:10:43: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times")
+L 07/03/2020 - 06:16:58: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 15 to "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 06:16:58: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 15 to "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 06:16:58: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 16 to "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 06:16:58: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 16 to "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 06:16:58: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 17 to "Richard N. Bolles<2><[U:1:109549249]><>"
+L 07/03/2020 - 06:16:58: [tf2items_giveweapon.smx] "Richard N. Bolles<2><[U:1:109549249]><>" gave a permanent weapon 17 to "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 06:19:12: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:12: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:13: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:13: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:18: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:18: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:18: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:19: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:19: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:19: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:19: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:19: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:20: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:20: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:20: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:21: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:21: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:21: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:21: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:21: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:22: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:22: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:22: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:22: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:22: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:23: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:23: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:23: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:23: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:23: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:23: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:24: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:24: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:24: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:25: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:25: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:25: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:25: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:25: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:26: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:26: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:26: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:26: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:27: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:27: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:27: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:27: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:28: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:28: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:29: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:29: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:29: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:29: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:30: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:30: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:30: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:30: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:30: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:31: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:31: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:31: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:31: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:31: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:32: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:32: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:33: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:34: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:34: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:34: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:34: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:35: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:35: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:35: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:35: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 06:19:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 06:19:47: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 06:19:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 06:20:13: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:20:18: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:20:19: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:20:20: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:20:33: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'nav_generate'
+L 07/03/2020 - 06:20:40: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "nav_generate")
+L 07/03/2020 - 06:20:40: [admincheats.smx] CONSOLE ran cheat command 'nav_generate'
+L 07/03/2020 - 06:20:40: [admincheats.smx] CONSOLE ran cheat command 'bot_kick'
+L 07/03/2020 - 06:30:51: [SM] Changed map to "plr_bananabay"
+L 07/03/2020 - 06:30:53: -------- Mapchange to plr_bananabay --------
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 06:31:00: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 06:31:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 06:36:37: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:38:16: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:38:17: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:38:20: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 06:39:22: [playercommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" slayed "GardenOfStone<3><[U:1:1109604806]><>"
+L 07/03/2020 - 06:42:35: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "exec server.cfg")
+L 07/03/2020 - 06:42:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 06:45:04: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" console command (cmdline "mp_disable_respawn_times 1")
+L 07/03/2020 - 06:53:22: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" changed map to "pl_upward"
+L 07/03/2020 - 06:53:25: [SM] Changed map to "pl_upward"
+L 07/03/2020 - 06:53:27: -------- Mapchange to pl_upward --------
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 06:53:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 06:53:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 07:50:32: [mapchooser.smx] Voting for next map has started.
+L 07/03/2020 - 09:46:52: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200703.log") (Version "1.10.0.6488")
+L 07/03/2020 - 09:46:52: [TF2ITEMS] "GiveNamedItem" offset = 483
+L 07/03/2020 - 09:46:52: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/03/2020 - 09:46:52: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 09:47:01: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 09:47:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 18:54:26: [mapchooser.smx] Voting for next map has started.
+L 07/03/2020 - 18:59:12: [SM] Changed map to "cp_freight_final1"
+L 07/03/2020 - 18:59:14: -------- Mapchange to cp_freight_final1 --------
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 18:59:19: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 18:59:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 19:56:18: [mapchooser.smx] Voting for next map has started.
+L 07/03/2020 - 20:30:29: [SM] Changed map to "cp_croissant_final"
+L 07/03/2020 - 20:30:31: -------- Mapchange to cp_croissant_final --------
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 20:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 20:30:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 20:31:42: [basecommands.smx] "Aar<4><[U:1:89189905]><>" console command (cmdline "say test")
+L 07/03/2020 - 20:33:23: [basecommands.smx] "Aar<4><[U:1:89189905]><>" console command (cmdline "say cumy")
+L 07/03/2020 - 20:33:38: [basecommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" console command (cmdline "say shitpissfuckcuntcocksuckermotherfuckertitsfartturdandtwat")
+L 07/03/2020 - 20:34:56: [basecommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" refreshed the admin cache.
+L 07/03/2020 - 20:35:08: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "GardenOfStone<5><[U:1:1109604806]><>" (to "StGenfrddGdfe")
+L 07/03/2020 - 20:35:17: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "StGenfrddGdfe<5><[U:1:1109604806]><>" (to "ddefdftdtedfG")
+L 07/03/2020 - 20:35:20: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "ddefdftdtedfG<5><[U:1:1109604806]><>" (to "ddttddtdttdtf")
+L 07/03/2020 - 20:35:21: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "ddttddtdttdtf<5><[U:1:1109604806]><>" (to "tddtdttdttddt")
+L 07/03/2020 - 20:35:21: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "tddtdttdttddt<5><[U:1:1109604806]><>" (to "dtttdddtddtdt")
+L 07/03/2020 - 20:35:22: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "dtttdddtddtdt<5><[U:1:1109604806]><>" (to "dtttdddtttttd")
+L 07/03/2020 - 20:35:22: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "dtttdddtttttd<5><[U:1:1109604806]><>" (to "tdttttttttdtt")
+L 07/03/2020 - 20:35:22: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "tdttttttttdtt<5><[U:1:1109604806]><>" (to "tttttdttttttt")
+L 07/03/2020 - 20:35:23: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "tttttdttttttt<5><[U:1:1109604806]><>" (to "ttttttttttttt")
+L 07/03/2020 - 20:35:23: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "ttttttttttttt<5><[U:1:1109604806]><>" (to "ttttttttttttt")
+L 07/03/2020 - 20:35:23: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" renamed "ttttttttttttt<5><[U:1:1109604806]><>" (to "ttttttttttttt")
+L 07/03/2020 - 20:37:48: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:49: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:49: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:50: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:50: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:51: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:51: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:51: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:51: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:51: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:52: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:52: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:52: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:52: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:53: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:53: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:53: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:53: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:54: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:54: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:55: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:55: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:55: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:56: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:57: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:57: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:57: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:58: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:58: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:59: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:59: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:59: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:37:59: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:00: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:00: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:00: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:00: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:01: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:01: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:01: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:01: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:02: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:02: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:02: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:03: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:03: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:03: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:04: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:04: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:04: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:04: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:05: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:05: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:05: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:05: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:06: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:06: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:06: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:06: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:07: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:07: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:07: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:08: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:08: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:08: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:08: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:09: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:09: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:09: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:09: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:09: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:10: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:10: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:10: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:10: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:10: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:11: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:11: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:11: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:11: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:11: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:12: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:12: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:12: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:12: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:13: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:13: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:13: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:13: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:14: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:14: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:14: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:14: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:14: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:15: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:15: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:15: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:15: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:15: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:16: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:16: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:16: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:16: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:16: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:17: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:17: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:17: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:17: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:17: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:18: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:18: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:18: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:18: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:18: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:19: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:19: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:19: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:19: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:19: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:20: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:20: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:20: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:20: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:20: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:21: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:21: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:21: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:21: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:21: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:22: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:22: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:22: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:22: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:22: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:23: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:23: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:23: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:23: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:24: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:24: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:26: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:26: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:27: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:28: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:29: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:31: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:31: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:32: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:33: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:34: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:34: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:35: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:35: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:35: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:35: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:36: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:37: [playercommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" slapped "ttttttttttttt<5><[U:1:1109604806]><>" (damage "0")
+L 07/03/2020 - 20:38:46: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:49: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:50: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:50: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:51: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:51: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:51: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:51: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:51: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:56: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:57: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:58: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:58: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:58: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:58: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:58: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:38:59: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" ignited "ttttttttttttt<5><[U:1:1109604806]><>" (seconds "20.000000")
+L 07/03/2020 - 20:39:05: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" drugged "ttttttttttttt<5><[U:1:1109604806]><>"
+L 07/03/2020 - 20:40:06: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" undrugged "ttttttttttttt<5><[U:1:1109604806]><>"
+L 07/03/2020 - 20:40:07: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" drugged "ttttttttttttt<5><[U:1:1109604806]><>"
+L 07/03/2020 - 20:40:16: [funcommands.smx] "Richard N. Bolles<6><[U:1:109549249]><>" undrugged "ttttttttttttt<5><[U:1:1109604806]><>"
+L 07/03/2020 - 21:28:31: [mapchooser.smx] Voting for next map has started.
+L 07/03/2020 - 22:51:39: -------- Mapchange to workshop/cp_fulgur_rc2.ugc2068252300 --------
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:51:45: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 22:51:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 22:52:09: Log file closed.
+L 07/03/2020 - 22:53:45: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200703.log") (Version "1.10.0.6488")
+L 07/03/2020 - 22:53:45: [TF2ITEMS] "GiveNamedItem" offset = 483
+L 07/03/2020 - 22:53:45: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/03/2020 - 22:53:45: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:53:54: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 22:53:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 22:54:07: -------- Mapchange to workshop/cp_fulgur_rc2.ugc2068252300 --------
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:54:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 22:54:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 22:58:35: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200703.log") (Version "1.10.0.6488")
+L 07/03/2020 - 22:58:35: [TF2ITEMS] "GiveNamedItem" offset = 483
+L 07/03/2020 - 22:58:35: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/03/2020 - 22:58:35: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:58:44: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 22:58:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 22:59:21: -------- Mapchange to workshop/cp_snowbase_b3.ugc2081770490 --------
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 22:59:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 22:59:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 23:16:37: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:17:47: [basecommands.smx] "Richard N. Bolles<2><[U:1:109549249]><>" changed map to "workshop/pl_barnblitz_pro7.ugc582280235"
+L 07/03/2020 - 23:17:50: [SM] Changed map to "workshop/pl_barnblitz_pro7.ugc582280235"
+L 07/03/2020 - 23:17:57: -------- Mapchange to workshop/pl_barnblitz_pro7.ugc582280235 --------
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/03/2020 - 23:18:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/03/2020 - 23:18:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 07/03/2020 - 23:19:10: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:10: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:10: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:10: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:10: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:10: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:11: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:11: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:11: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:11: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:11: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:11: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:11: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:12: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:12: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:12: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:12: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:13: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/03/2020 - 23:19:13: [admincheats.smx] <Richard N. Bolles><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 07/04/2020 - 01:10:14: Log file closed.

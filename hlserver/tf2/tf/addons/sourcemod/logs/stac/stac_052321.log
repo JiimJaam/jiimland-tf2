@@ -1,0 +1,275 @@
+L 05/23/2021 - 04:01:36: [stac.smx] [StAC] Plugin vers. ---- 4.5.1 ---- loaded
+L 05/23/2021 - 04:01:45: [stac.smx] [Steamtools] Steam connected.
+L 05/24/2021 - 01:18:42: [stac.smx] [StAC] Server framerate stuttered. Expected: 66.666671, got 18.285715.
+Disabling OnPlayerRunCmd checks for 5.00 seconds.
+L 05/24/2021 - 01:25:33: [stac.smx] [StAC] Server framerate stuttered. Expected: 66.666671, got 21.333333.
+Disabling OnPlayerRunCmd checks for 5.00 seconds.
+L 05/24/2021 - 01:45:44: [stac.smx] 
+[StAC] Cmdnum SPIKE of 102 on Decockitator 9000<42><[U:1:1113490919]><>.
+Detections so far: 1. Held weapon: tf_weapon_sword
+L 05/24/2021 - 01:45:44: [stac.smx] 
+Network:
+ 1.06 loss
+ 126.04 ms ping
+ 60.57 inchoke
+ 0.00 outchoke
+ 60.57 totalchoke
+L 05/24/2021 - 01:45:44: [stac.smx] Time since last 10 ticks: 0.031250
+L 05/24/2021 - 01:45:44: [stac.smx] 
+Previous cmdnums:
+0 119995
+1 119893
+2 119893
+3 119893
+4 119893
+5 119893
+L 05/24/2021 - 01:45:44: [stac.smx] 
+Previous tickcounts:
+0 5216028
+1 5216028
+2 5216028
+3 5216028
+4 5216028
+5 5216028
+L 05/24/2021 - 02:00:01: [stac.smx] [StAC] Server framerate stuttered. Expected: 66.666671, got 25.600000.
+Disabling OnPlayerRunCmd checks for 5.00 seconds.
+L 05/24/2021 - 03:13:11: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 10.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:11: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 11.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:11: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 12.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:11: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 13.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:11: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 14.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:11: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 15.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:11: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 16.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:11: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 17.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:12: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 18.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:12: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 19.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:12: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 20.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:18: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 18.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:18: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 19.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:18: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 19.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:18: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 20.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:19: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 20.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:19: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 21.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:19: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 22.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:46: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 10.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:46: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 11.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:46: [stac.smx] 
+[StAC] SilentAim detection of 4.658118° on 
+rodrip04<66><[U:1:1150961109]><>.
+Detections so far: 1.
+fuzzy = 1
+L 05/24/2021 - 03:13:46: [stac.smx] 
+Network:
+ 0.00 loss
+ 74.36 ms ping
+ 9.05 inchoke
+ 0.00 outchoke
+ 9.05 totalchoke
+L 05/24/2021 - 03:13:46: [stac.smx] Time since last 10 ticks: 0.117187
+L 05/24/2021 - 03:13:46: [stac.smx] 
+Angles:
+ angles0: x 6.172026 y -14.831122
+ angles1: x 2.472459 y -12.000703
+ angles2: x 6.172026 y -14.836880
+ angles3: x 2.844335 y -11.529902
+ angles4: x 3.029505 y -11.934179
+L 05/24/2021 - 03:13:46: [stac.smx] 
+Previous cmdnums:
+0 13611
+1 13610
+2 13609
+3 13608
+4 13607
+5 13606
+L 05/24/2021 - 03:13:46: [stac.smx] 
+Previous tickcounts:
+0 5568157
+1 5568156
+2 5568155
+3 5568154
+4 5568153
+5 5568152
+L 05/24/2021 - 03:13:46: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 1.000000
+L 05/24/2021 - 03:13:46: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 12.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:46: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 13.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:47: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 14.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:13:47: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 15.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:00: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 10.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:00: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 11.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:10: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 10.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:10: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 11.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:14: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 10.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:14: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 11.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:17: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 12.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:17: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 13.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:29: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 10.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:30: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 11.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:30: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 12.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:30: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 13.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:30: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 14.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:30: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 15.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:31: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 16.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:31: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 17.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:31: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 18.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:31: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 19.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:32: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 20.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:32: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 21.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:33: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 22.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:33: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 23.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:33: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 24.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:34: [stac.smx] [StAC] rodrip04 is suspected of ping-reducing or masking using a cheat.
+Detections so far: 25.
+Cmdrate: 66
+Updaterate: 66
+L 05/24/2021 - 03:14:34: [stac.smx] [StAC] No STV demo is being recorded, no demo name will be printed to the ban reason!
+L 05/24/2021 - 03:21:35: [stac.smx] [StAC] Server framerate stuttered. Expected: 66.666671, got 16.000000.
+Disabling OnPlayerRunCmd checks for 5.00 seconds.

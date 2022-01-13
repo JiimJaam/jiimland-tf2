@@ -1,0 +1,21 @@
+L 05/13/2021 - 00:50:22: SourceMod error session started
+L 05/13/2021 - 00:50:22: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210513.log")
+L 05/13/2021 - 00:50:22: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 05/13/2021 - 00:50:22: [SM] Blaming: admincheats.smx
+L 05/13/2021 - 00:50:22: [SM] Call stack trace:
+L 05/13/2021 - 00:50:22: [SM]   [0] PrintToConsole
+L 05/13/2021 - 00:50:22: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 05/13/2021 - 04:00:46: Error log file session closed.
+L 05/13/2021 - 04:01:28: SourceMod error session started
+L 05/13/2021 - 04:01:28: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210513.log")
+L 05/13/2021 - 04:01:28: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 05/13/2021 - 22:34:43: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 05/13/2021 - 22:34:43: [SM] Blaming: admincheats.smx
+L 05/13/2021 - 22:34:43: [SM] Call stack trace:
+L 05/13/2021 - 22:34:43: [SM]   [0] PrintToConsole
+L 05/13/2021 - 22:34:43: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand
+L 05/13/2021 - 22:34:43: [SM] Exception reported: String formatted incorrectly - parameter 4 (total 3)
+L 05/13/2021 - 22:34:43: [SM] Blaming: admincheats.smx
+L 05/13/2021 - 22:34:43: [SM] Call stack trace:
+L 05/13/2021 - 22:34:43: [SM]   [0] PrintToConsole
+L 05/13/2021 - 22:34:43: [SM]   [1] Line 75, /home/forums/content/files/7/2/34150.attach::cheatcommand

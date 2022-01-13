@@ -1,0 +1,8 @@
+L 01/12/2022 - 00:45:45: SourceMod error session started
+L 01/12/2022 - 00:45:45: Info (map "workshop/pl_cashworks_final1.ugc1908348311") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20220112.log")
+L 01/12/2022 - 00:45:45: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 01/12/2022 - 02:59:15: Error log file session closed.
+L 01/12/2022 - 02:59:15: SourceMod error session started
+L 01/12/2022 - 02:59:15: Info (map "cp_mossrock") (file "/home/tf2server/hlserver/tf2/tf/addons/sourcemod/logs/errors_20220112.log")
+L 01/12/2022 - 02:59:15: [SM] Failed to load plugin "tf2-comp-fixes.smx": Unable to load plugin (bad header).
+L 01/13/2022 - 00:01:24: Error log file session closed.

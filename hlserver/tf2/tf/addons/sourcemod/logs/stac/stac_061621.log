@@ -1,0 +1,194 @@
+L 06/16/2021 - 04:02:12: [stac.smx] [Steamtools] Steam connected.
+L 06/16/2021 - 15:52:45: [stac.smx] [StAC] SilentAim detection of 20.30° on Only Couches Pull Out.
+Detections so far: 1. fuzzy = yes norecoil = no
+L 06/16/2021 - 15:52:45: [stac.smx] 
+Network:
+ 84.10 ms ping
+ 0.00 loss
+ 2.09 inchoke
+ 0.00 outchoke
+ 2.09 totalchoke
+ 137.31 kbps rate
+ 133.58 pps rate
+L 06/16/2021 - 15:52:45: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/16/2021 - 15:52:45: [stac.smx] 
+Angles:
+ angles0: x 19.052015 y -20.171817
+ angles1: x 0.253995 y -27.858701
+ angles2: x 19.052015 y -20.237815
+ angles3: x 0.889760 y -22.585725
+ angles4: x 19.118013 y -19.907817
+L 06/16/2021 - 15:52:45: [stac.smx] 
+Previous cmdnums:
+0 32301
+1 32300
+2 32299
+3 32298
+4 32297
+5 32296
+L 06/16/2021 - 15:52:45: [stac.smx] 
+Previous tickcounts:
+0 2448013
+1 2448012
+2 2448011
+3 2448010
+4 2448009
+5 2448008
+L 06/16/2021 - 15:52:45: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 1
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: -1
+ y: 0
+Client Sens:
+ 1.000000
+L 06/16/2021 - 15:52:45: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 513
+1 513
+2 513
+3 513
+4 513
+5 513
+L 06/16/2021 - 15:54:45: [stac.smx] [StAC] SilentAim detection of 41.56° on Only Couches Pull Out.
+Detections so far: 2. fuzzy = no norecoil = no
+L 06/16/2021 - 15:54:45: [stac.smx] 
+Network:
+ 86.60 ms ping
+ 0.00 loss
+ 1.89 inchoke
+ 0.00 outchoke
+ 1.89 totalchoke
+ 141.52 kbps rate
+ 132.89 pps rate
+L 06/16/2021 - 15:54:45: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/16/2021 - 15:54:45: [stac.smx] 
+Angles:
+ angles0: x 10.516060 y 49.293510
+ angles1: x -2.261321 y 88.847053
+ angles2: x 10.516060 y 49.293510
+ angles3: x -1.416484 y 84.806053
+ angles4: x 10.450059 y 49.579505
+L 06/16/2021 - 15:54:45: [stac.smx] 
+Previous cmdnums:
+0 40305
+1 40304
+2 40303
+3 40302
+4 40301
+5 40300
+L 06/16/2021 - 15:54:45: [stac.smx] 
+Previous tickcounts:
+0 2456017
+1 2456016
+2 2456015
+3 2456014
+4 2456013
+5 2456012
+L 06/16/2021 - 15:54:45: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 1.000000
+L 06/16/2021 - 15:54:45: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 9
+1 521
+2 521
+3 521
+4 512
+5 512
+L 06/16/2021 - 15:55:05: [stac.smx] [StAC] SilentAim detection of 54.84° on Only Couches Pull Out.
+Detections so far: 3. fuzzy = yes norecoil = no
+L 06/16/2021 - 15:55:05: [stac.smx] 
+Network:
+ 84.61 ms ping
+ 0.00 loss
+ 3.85 inchoke
+ 0.00 outchoke
+ 3.85 totalchoke
+ 143.40 kbps rate
+ 131.94 pps rate
+L 06/16/2021 - 15:55:05: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 06/16/2021 - 15:55:05: [stac.smx] 
+Angles:
+ angles0: x 12.100031 y 63.970279
+ angles1: x 0.029611 y 117.467666
+ angles2: x 12.100031 y 64.014274
+ angles3: x 12.034030 y 63.816276
+ angles4: x 12.034030 y 63.750278
+L 06/16/2021 - 15:55:05: [stac.smx] 
+Previous cmdnums:
+0 41689
+1 41688
+2 41687
+3 41686
+4 41685
+5 41684
+L 06/16/2021 - 15:55:05: [stac.smx] 
+Previous tickcounts:
+0 2457401
+1 2457400
+2 2457399
+3 2457398
+4 2457397
+5 2457396
+L 06/16/2021 - 15:55:05: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 1
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 1
+ y: 0
+Client Sens:
+ 1.000000
+L 06/16/2021 - 15:55:05: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1025
+1 1025
+2 1025
+3 1025
+4 1025
+5 1025
+L 06/16/2021 - 15:59:49: [stac.smx] [StAC] Player Only Couches Pull Out bhopped!
+Consecutive detections so far: 5
+L 06/16/2021 - 15:59:50: [stac.smx] [StAC] Player Only Couches Pull Out bhopped!
+Consecutive detections so far: 6
+L 06/16/2021 - 15:59:50: [stac.smx] [StAC] Player Only Couches Pull Out bhopped!
+Consecutive detections so far: 7
+L 06/16/2021 - 15:59:51: [stac.smx] [StAC] Player Only Couches Pull Out bhopped!
+Consecutive detections so far: 8
+L 06/16/2021 - 15:59:59: [stac.smx] [StAC] Player Only Couches Pull Out bhopped!
+Consecutive detections so far: 5
+L 06/16/2021 - 16:00:00: [stac.smx] [StAC] Player Only Couches Pull Out bhopped!
+Consecutive detections so far: 6
+L 06/16/2021 - 16:02:57: [stac.smx] [StAC] Player Only Couches Pull Out bhopped!
+Consecutive detections so far: 5
+L 06/16/2021 - 20:57:51: [stac.smx] [Steamtools] Steam disconnected.
+L 06/16/2021 - 20:58:22: [stac.smx] [Steamtools] Steam connected.

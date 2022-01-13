@@ -1,0 +1,3 @@
+L 03/09/2021 - 08:36:33: [sbpp_main.smx] Database failure: Could not find Database conf "sourcebans". See Docs: https://sbpp.github.io/docs/
+L 03/09/2021 - 12:50:28: [sbpp_main.smx] plugins/basebans.smx was unloaded and moved to plugins/disabled/basebans.smx
+L 03/09/2021 - 12:50:28: [sbpp_main.smx] Database failure: [3159]: Connections using insecure transport are prohibited while --require_secure_transport=ON.. See Docs: https://sbpp.github.io/docs/

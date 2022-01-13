@@ -1,0 +1,1074 @@
+L 06/02/2020 - 00:10:20: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200602.log") (Version "1.10.0.6488")
+L 06/02/2020 - 00:10:20: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:10:20: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:10:20: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:10:20: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:10:20: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:10:20: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:11:42: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 44 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:11:42: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 4 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:11:42: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 3 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:15:48: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:15:48: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:15:48: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:15:48: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 00:17:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Player<19><[U:1:298643660]><>"
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Player<19><[U:1:298643660]><>"
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:17:59: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Player<19><[U:1:298643660]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:19:10: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:23:15: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:23:15: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:23:15: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:24:35: [basecommands.smx] "ashley<14><[U:1:109549249]><>" console command (cmdline "changelevel pl_upward")
+L 06/02/2020 - 00:24:36: -------- Mapchange to pl_upward --------
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 00:24:42: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 00:24:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:25:38: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:25:50: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:50: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:50: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:51: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:51: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:51: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:51: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:51: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:51: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:52: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:52: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:52: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:52: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:25:52: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "neal.murphree<22><[U:1:246483549]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "neal.murphree<22><[U:1:246483549]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "neal.murphree<22><[U:1:246483549]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "neal.murphree<22><[U:1:246483549]><>"
+L 06/02/2020 - 00:29:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "neal.murphree<22><[U:1:246483549]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "neal.murphree<22><[U:1:246483549]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 5 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "neal.murphree<22><[U:1:246483549]><>"
+L 06/02/2020 - 00:29:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:34:53: [basecommands.smx] "ashley<14><[U:1:109549249]><>" refreshed the admin cache.
+L 06/02/2020 - 00:35:08: [tf2items_giveweapon.smx] "hhhhh<23><[U:1:149476746]><>" gave a permanent weapon 22 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:35:40: [tf2items_giveweapon.smx] "hhhhh<23><[U:1:149476746]><>" gave a permanent weapon 22 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:35:43: [tf2items_giveweapon.smx] "hhhhh<23><[U:1:149476746]><>" gave a permanent weapon 44 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:36:02: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:02: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:02: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:02: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:03: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:03: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:03: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:03: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:03: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:03: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:36:04: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:06: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:06: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:06: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:06: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:06: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:07: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:07: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:07: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:07: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:08: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:08: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:08: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:09: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:09: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:09: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:09: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:10: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:37:32: [tf2items_giveweapon.smx] "hhhhh<23><[U:1:149476746]><>" gave a permanent weapon 4 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:37:33: [tf2items_giveweapon.smx] "hhhhh<23><[U:1:149476746]><>" gave a permanent weapon 3 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:37:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 3 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:37:46: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 4 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:40:54: [tf2items_giveweapon.smx] "hhhhh<23><[U:1:149476746]><>" gave a permanent weapon 1 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:40:58: [tf2items_giveweapon.smx] "hhhhh<23><[U:1:149476746]><>" gave a permanent weapon 3 to "hhhhh<23><[U:1:149476746]><>"
+L 06/02/2020 - 00:44:11: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:44:12: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 00:45:09: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 00:45:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:24: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:24: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:24: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:24: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:24: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:45:24: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:05: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 3 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:46:05: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 4 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:46:05: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 44 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:46:13: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:13: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:15: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:17: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:17: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:17: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:17: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:17: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:17: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:18: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:18: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:18: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:18: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:18: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:18: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:46:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:47:48: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 06/02/2020 - 00:47:52: [basecommands.smx] "ashley<14><[U:1:109549249]><>" console command (cmdline "ent_remove_all")
+L 06/02/2020 - 00:47:52: [admincheats.smx] CONSOLE ran cheat command 'ent_remove_all'
+L 06/02/2020 - 00:48:05: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 06/02/2020 - 00:53:24: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:53:24: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:53:24: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 55 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:53:46: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:55:45: [funcommands.smx] "ashley<14><[U:1:109549249]><>" toggled noclip on "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:56:25: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:26: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:26: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:26: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:26: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:27: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:27: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:27: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:27: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:27: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:28: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 00:56:59: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 06/02/2020 - 00:57:18: [tf2items_giveweapon.smx] "Aar<24><[U:1:89189905]><>" gave weapon 4 to "Aar<24><[U:1:89189905]><>"
+L 06/02/2020 - 00:57:35: [tf2items_giveweapon.smx] "Aar<24><[U:1:89189905]><>" gave weapon 12 to "Aar<24><[U:1:89189905]><>"
+L 06/02/2020 - 00:57:41: [tf2items_giveweapon.smx] "Aar<24><[U:1:89189905]><>" gave weapon 24 to "Aar<24><[U:1:89189905]><>"
+L 06/02/2020 - 00:58:20: [funcommands.smx] "ashley<14><[U:1:109549249]><>" toggled noclip on "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:58:28: [funcommands.smx] "ashley<14><[U:1:109549249]><>" toggled noclip on "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 00:58:46: [tf2items_giveweapon.smx] "Aar<24><[U:1:89189905]><>" gave weapon 423 to "Aar<24><[U:1:89189905]><>"
+L 06/02/2020 - 00:59:13: [tf2items_giveweapon.smx] "Aar<24><[U:1:89189905]><>" gave weapon 423 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 00:59:13: [tf2items_giveweapon.smx] "Aar<24><[U:1:89189905]><>" gave weapon 423 to "Player<21><[U:1:298643660]><>"
+L 06/02/2020 - 00:59:28: [tf2items_giveweapon.smx] "Aar<24><[U:1:89189905]><>" gave weapon 423 to "Aar<24><[U:1:89189905]><>"
+L 06/02/2020 - 01:01:40: [tf2items_giveweapon.smx] "Aar<24><[U:1:89189905]><>" gave weapon 452 to "Aar<24><[U:1:89189905]><>"
+L 06/02/2020 - 01:03:55: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 7018 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:09:19: [basecommands.smx] "ashley<14><[U:1:109549249]><>" console command (cmdline ""sm plugins reload"")
+L 06/02/2020 - 01:09:27: [basecommands.smx] "ashley<14><[U:1:109549249]><>" console command (cmdline "sm plugins reload")
+L 06/02/2020 - 01:09:33: [basecommands.smx] "ashley<14><[U:1:109549249]><>" console command (cmdline "sm plugins refresh")
+L 06/02/2020 - 01:09:56: [funcommands.smx] "ashley<14><[U:1:109549249]><>" set gravity on "ashley<14><[U:1:109549249]><>" (amount "0.100000")
+L 06/02/2020 - 01:10:22: [funcommands.smx] "ashley<14><[U:1:109549249]><>" set gravity on "ashley<14><[U:1:109549249]><>" (amount "1.000000")
+L 06/02/2020 - 01:10:32: [playercommands.smx] "ashley<14><[U:1:109549249]><>" renamed "Player<21><[U:1:298643660]><>" (to "lrePee")
+L 06/02/2020 - 01:10:44: [playercommands.smx] "ashley<14><[U:1:109549249]><>" renamed "lrePee<21><[U:1:298643660]><>" (to "elleee")
+L 06/02/2020 - 01:10:45: [playercommands.smx] "ashley<14><[U:1:109549249]><>" renamed "elleee<21><[U:1:298643660]><>" (to "lellee")
+L 06/02/2020 - 01:10:46: [playercommands.smx] "ashley<14><[U:1:109549249]><>" renamed "lellee<21><[U:1:298643660]><>" (to "eeeeel")
+L 06/02/2020 - 01:10:46: [playercommands.smx] "ashley<14><[U:1:109549249]><>" renamed "eeeeel<21><[U:1:298643660]><>" (to "eeeeee")
+L 06/02/2020 - 01:10:47: [playercommands.smx] "ashley<14><[U:1:109549249]><>" renamed "eeeeee<21><[U:1:298643660]><>" (to "eeeeee")
+L 06/02/2020 - 01:10:47: [playercommands.smx] "ashley<14><[U:1:109549249]><>" renamed "eeeeee<21><[U:1:298643660]><>" (to "eeeeee")
+L 06/02/2020 - 01:10:52: [playercommands.smx] "ashley<14><[U:1:109549249]><>" renamed "ashley<14><[U:1:109549249]><>" (to "ysehah")
+L 06/02/2020 - 01:10:53: [playercommands.smx] "ysehah<14><[U:1:109549249]><>" renamed "ysehah<14><[U:1:109549249]><>" (to "eshhya")
+L 06/02/2020 - 01:10:55: [playercommands.smx] "eshhya<14><[U:1:109549249]><>" renamed "eshhya<14><[U:1:109549249]><>" (to "hsashs")
+L 06/02/2020 - 01:10:57: [playercommands.smx] "hsashs<14><[U:1:109549249]><>" renamed "hsashs<14><[U:1:109549249]><>" (to "shshas")
+L 06/02/2020 - 01:10:58: [playercommands.smx] "shshas<14><[U:1:109549249]><>" renamed "shshas<14><[U:1:109549249]><>" (to "assshh")
+L 06/02/2020 - 01:11:00: [playercommands.smx] "assshh<14><[U:1:109549249]><>" renamed "assshh<14><[U:1:109549249]><>" (to "hhhaas")
+L 06/02/2020 - 01:14:22: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:22: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:22: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:22: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:22: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:23: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:23: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:23: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:23: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:24: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:24: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:14:27: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:27: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:27: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:27: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:28: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:28: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:28: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:28: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:29: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:29: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:29: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:29: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:29: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:30: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:30: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:30: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:30: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:30: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:30: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:31: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:31: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:31: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:31: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:31: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:32: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:32: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:32: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:33: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:33: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:33: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:33: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:33: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:33: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:36: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:37: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:37: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:37: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:37: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:38: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:38: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:38: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:39: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:39: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:41: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:41: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:42: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:42: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:43: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:44: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:44: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:45: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:46: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:46: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:47: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:47: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:47: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:47: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:47: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:47: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:48: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:48: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:48: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:48: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:48: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:49: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:49: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:49: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:49: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:49: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:49: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:50: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:50: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:50: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:50: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:50: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:51: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:51: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:51: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:51: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:51: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:53: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:53: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:55: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:56: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:58: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:19:59: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:20:00: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:20:04: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:22:22: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 55 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:22:22: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 55 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:22:35: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:22:35: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:22:35: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:22:37: [mapchooser.smx] Voting for next map has started.
+L 06/02/2020 - 01:22:57: [mapchooser.smx] Voting for next map has finished. Nextmap: cp_egypt_final.
+L 06/02/2020 - 01:23:04: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 7018 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 55 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 55 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 55 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 2 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:23:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 2 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:24:07: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 7018 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:26:36: [admincheats.smx] <hhhaas><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:26:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:26:50: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:27:27: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:27:32: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:27:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:27:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:27:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:27:59: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:29:43: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:29:47: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:29:47: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:29:47: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:30:37: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:30:46: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:30:46: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:30:46: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:32:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:32:43: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:32:43: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:32:43: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:33:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:33:56: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:33:56: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:33:56: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:34:34: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:34:40: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "hhhaas<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:34:40: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:34:40: [tf2items_giveweapon.smx] "hhhaas<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:36:19: [SM] Changed map to "cp_egypt_final"
+L 06/02/2020 - 01:36:22: -------- Mapchange to cp_egypt_final --------
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:36:28: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:36:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:38:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:38:23: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:38:23: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:38:23: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:38:23: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:38:23: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:38:23: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:39:22: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:39:28: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:39:28: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:39:28: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:39:28: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:39:28: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:39:28: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:40:41: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:40:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:40:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:40:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:40:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "ashley<14><[U:1:109549249]><>"
+L 06/02/2020 - 01:40:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "Paytawn<18><[U:1:22641145]><>"
+L 06/02/2020 - 01:40:43: [tf2items_giveweapon.smx] "ashley<14><[U:1:109549249]><>" gave a permanent weapon 66 to "jade skylar<25><[U:1:192591589]><>"
+L 06/02/2020 - 01:43:25: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20200602.log") (Version "1.10.0.6488")
+L 06/02/2020 - 01:43:25: [TF2ITEMS] "GiveNamedItem" offset = 482
+L 06/02/2020 - 01:43:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 06/02/2020 - 01:43:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:43:38: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:43:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 06/02/2020 - 01:44:49: [basecommands.smx] "ashley<4><[U:1:109549249]><>" console command (cmdline "changelevel koth_lakeside_final")
+L 06/02/2020 - 01:44:51: -------- Mapchange to koth_lakeside_final --------
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:44:57: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:44:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 06/02/2020 - 01:45:33: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:45:34: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:45:34: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:45:34: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:45:34: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:45:34: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 01:48:20: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 01:48:25: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:48:26: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:48:26: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:48:26: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:48:26: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:48:26: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:48:31: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:48:41: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:53:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 3 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 3 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 3 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:54:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 3 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 01:55:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 55 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:55:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 55 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 01:55:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 55 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 01:55:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 55 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 01:56:15: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 01:56:15: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:00:56: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "jade skylar<3><[U:1:192591589]><>"
+L 06/02/2020 - 02:00:56: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:00:56: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:00:56: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:06:21: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:06:24: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:06:24: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:06:24: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:07:18: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:07:26: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:07:26: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:07:26: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:08:15: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:08:19: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:08:19: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:08:19: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 02:08:21: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:08:37: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:09:52: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:10:36: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:10:43: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:10:54: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:10:54: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 02:13:20: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:13:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:13:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:13:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:13:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:13:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:13:25: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:13:26: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:14:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:14:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:14:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "sketty<6><[U:1:321506972]><>"
+L 06/02/2020 - 02:14:30: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:16:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 02:16:45: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_remove_all'
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:21:04: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:21:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:21:41: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:21:41: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:23:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:23:19: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:23:19: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:24:25: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:24:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:24:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:25:05: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:25:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:25:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:25:30: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:25:33: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:25:33: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:27:46: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:27:48: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:27:48: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:27:50: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:28:14: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:28:16: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:28:16: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:28:16: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:28:30: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:28:30: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:28:30: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:29:29: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:29:30: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:29:30: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:29:30: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:29:36: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:29:36: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:29:37: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:29:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:29:42: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:29:42: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:29:42: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:31:55: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "sketty<8><[U:1:321506972]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "sketty<8><[U:1:321506972]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:32:22: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "sketty<8><[U:1:321506972]><>"
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:40:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "sketty<8><[U:1:321506972]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 6 to "sketty<8><[U:1:321506972]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "jade skylar<7><[U:1:192591589]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:41:31: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "sketty<8><[U:1:321506972]><>"
+L 06/02/2020 - 02:42:35: [basechat.smx] "ashley<4><[U:1:109549249]><>" triggered sm_say (text all)
+L 06/02/2020 - 02:43:02: [mapchooser.smx] Voting for next map has started.
+L 06/02/2020 - 02:43:23: [mapchooser.smx] Voting for next map has finished. Nextmap: koth_sawmill.
+L 06/02/2020 - 02:48:25: [SM] Changed map to "koth_sawmill"
+L 06/02/2020 - 02:48:27: -------- Mapchange to koth_sawmill --------
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:48:33: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:48:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0")
+L 06/02/2020 - 02:49:55: [tf2items_giveweapon.smx] "sketty<9><[U:1:321506972]><>" gave a permanent weapon 22 to "sketty<9><[U:1:321506972]><>"
+L 06/02/2020 - 02:50:02: [tf2items_giveweapon.smx] "sketty<9><[U:1:321506972]><>" gave a permanent weapon 33 to "sketty<9><[U:1:321506972]><>"
+L 06/02/2020 - 02:50:10: [tf2items_giveweapon.smx] "sketty<9><[U:1:321506972]><>" gave a permanent weapon 44 to "sketty<9><[U:1:321506972]><>"
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:52:12: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:52:16: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:53:21: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:53:31: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:55:35: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:56:02: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:56:10: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 02:56:10: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:56:10: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:56:10: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "sketty<9><[U:1:321506972]><>"
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:56:53: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 02:56:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 02:57:02: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 02:57:02: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 02:57:02: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 02:57:02: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "sketty<9><[U:1:321506972]><>"
+L 06/02/2020 - 03:00:20: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:00:20: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:00:20: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:00:20: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:01:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:19: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:20: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:20: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:20: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:20: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:21: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:22: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:23: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:23: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:23: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:24: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:01:24: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.109.75> ran cheat command 'ent_create'
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 03:05:40: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 03:05:48: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:05:48: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:05:48: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:05:48: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 03:05:55: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 03:05:57: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:05:57: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:05:57: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:05:57: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:05:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:05:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:05:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:05:59: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 77 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 111 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:10:27: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:13:13: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 3 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:13:15: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 4 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:13:28: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 44 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:14:03: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:16:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:16:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:16:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:16:23: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:16:39: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:16:42: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:16:42: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:16:42: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:16:42: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 2 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:16:58: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 7018 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:19:08: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:19:08: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:19:08: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:19:08: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:19:08: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:19:08: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:19:08: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:19:08: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 66 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 06/02/2020 - 03:22:10: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 06/02/2020 - 03:22:14: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:22:14: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:22:14: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:22:14: [playercommands.smx] "ashley<4><[U:1:109549249]><>" slayed "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:22:42: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:23:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:23:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:23:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:23:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 222 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:23:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:23:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:23:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:23:06: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 333 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:23:46: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave weapon 1 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:24:04: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 1 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:25:00: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:25:00: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:25:00: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:25:00: [tf2items_giveweapon.smx] "ashley<4><[U:1:109549249]><>" gave a permanent weapon 5 to "Mung Daal<11><[U:1:307537022]><>"
+L 06/02/2020 - 03:25:05: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:25:11: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:29:31: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "jade skylar<10><[U:1:192591589]><>"
+L 06/02/2020 - 03:29:31: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "ashley<4><[U:1:109549249]><>"
+L 06/02/2020 - 03:29:31: [funcommands.smx] "ashley<4><[U:1:109549249]><>" toggled noclip on "Paytawn<5><[U:1:22641145]><>"
+L 06/02/2020 - 03:32:48: [admincheats.smx] <jade skylar><STEAM_0:1:96295794><172.88.166.3> was prevented from running cheat command 'noclip'
+L 06/02/2020 - 03:46:29: [mapchooser.smx] Voting for next map has started.
+L 06/02/2020 - 03:46:46: [mapchooser.smx] Voting for next map has finished. Nextmap: cp_freight_final1.

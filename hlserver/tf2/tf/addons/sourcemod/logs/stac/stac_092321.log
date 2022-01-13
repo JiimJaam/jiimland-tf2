@@ -1,0 +1,68 @@
+L 09/23/2021 - 04:01:05: [stac.smx] [Steamtools] Steam connected.
+L 09/23/2021 - 04:01:06: [stac.smx] [SteamWorks] Steam connected.
+L 09/24/2021 - 00:45:59: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 25.10° on Loona.!.
+Detections so far: 1. fuzzy = yes norecoil = no
+L 09/24/2021 - 00:45:59: [stac.smx] 
+ Player: Loona.!<12><[U:1:1240027814]><>
+ StAC cached SteamID: STEAM_0:0:620013907
+L 09/24/2021 - 00:45:59: [stac.smx] 
+Network:
+ 58.23 ms ping
+ 0.00 loss
+ 0.08 inchoke
+ 0.00 outchoke
+ 0.08 totalchoke
+ 172.15 kbps rate
+ 135.03 pps rate
+L 09/24/2021 - 00:45:59: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? no
+L 09/24/2021 - 00:45:59: [stac.smx] 
+Angles:
+ angles0: x 5.483340 y 150.643310
+ angles1: x 0.000000 y 175.145126
+ angles2: x 5.483340 y 150.602386
+ angles3: x 5.483340 y 150.561462
+ angles4: x 5.483340 y 150.131790
+L 09/24/2021 - 00:45:59: [stac.smx] 
+Previous cmdnums:
+0 104604
+1 104603
+2 104602
+3 104601
+4 104600
+5 104599
+L 09/24/2021 - 00:45:59: [stac.smx] 
+Previous tickcounts:
+0 4979642
+1 4979642
+2 4979641
+3 4979640
+4 4979639
+5 4979638
+L 09/24/2021 - 00:45:59: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 1.860000
+L 09/24/2021 - 00:45:59: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1025
+1 1025
+2 1024
+3 1024
+4 1024
+5 1024

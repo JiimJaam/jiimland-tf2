@@ -1,0 +1,53 @@
+L 07/29/2021 - 03:58:00: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20210729.log") (Version "1.10.0.6490")
+L 07/29/2021 - 03:58:00: [funcommands.smx] "ashley<60><[U:1:109549249]><>" toggled noclip on "ashley<60><[U:1:109549249]><>"
+L 07/29/2021 - 03:58:15: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 07/29/2021 - 03:58:15: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_remove_all'
+L 07/29/2021 - 03:58:30: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 07/29/2021 - 03:58:30: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_remove_all'
+L 07/29/2021 - 03:58:50: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 07/29/2021 - 03:58:50: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_remove_all'
+L 07/29/2021 - 04:00:17: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_create'
+L 07/29/2021 - 04:00:17: [admincheats.smx] <ashley><STEAM_0:1:54774624><71.60.110.145> ran cheat command 'ent_remove_all'
+L 07/29/2021 - 04:00:55: [ScheduledShutdown.smx] Server shutdown warning.
+L 07/29/2021 - 04:01:05: [ScheduledShutdown.smx] Server shutdown.
+L 07/29/2021 - 04:01:05: [stac.smx] [StAC] File handle invalid!
+L 07/29/2021 - 04:01:05: [stac.smx] [StAC] Plugin vers. ---- 5.1.0b ---- unloaded
+L 07/29/2021 - 04:01:06: Log file closed.
+L 07/29/2021 - 04:01:43: SourceMod log file session started (file "/hlserver/tf2/tf/addons/sourcemod/logs/L20210729.log") (Version "1.10.0.6490")
+L 07/29/2021 - 04:01:43: [TF2ITEMS] "GiveNamedItem" offset = 485
+L 07/29/2021 - 04:01:43: [auto_steam_update.smx] HUD text is supported on this mod. The persistant timer will display.
+L 07/29/2021 - 04:01:43: [simple-chatprocessor.smx] [SCP] Recognized mod [Team Fortress 2].
+L 07/29/2021 - 04:01:43: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.tf.phrases].
+L 07/29/2021 - 04:01:43: [stac.smx] [StAC] File handle invalid!
+L 07/29/2021 - 04:01:43: [stac.smx] [StAC] Plugin vers. ---- 5.1.0b ---- loaded
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2041_viewmodel: Preparing models/weapons/c_models/c_v_ludmila/c_v_ludmila.mdl
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_model: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2058_viewmodel: cannot find valid model models/custom/weapons/antehgen/urinejar.mdl, skipping
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_model: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2171_viewmodel: cannot find valid model models/advancedweaponiser/w_sickle_sniper.mdl, skipping
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_model: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2197_viewmodel: cannot find valid model models/custom/weapons/rebelscurse/c_wrench_v2.mdl, skipping
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_model: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]2228_viewmodel: cannot find valid model models/advancedweaponiser/fbomb/c_fbomb.mdl, skipping
+L 07/29/2021 - 04:01:51: [tf2items_giveweapon.smx] [TF2Items GiveWeapon]5142_viewmodel: cannot find valid model models/custom/weapons/goldslinger/c_engineer_gunslinger.mdl, skipping
+L 07/29/2021 - 04:01:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "nb_update_frequency") (value "0.03")
+L 07/29/2021 - 04:01:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "0")
+L 07/29/2021 - 21:44:56: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:45:17: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:45:21: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:45:31: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:45:35: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:46:10: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:46:14: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:46:54: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:47:42: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:48:21: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:49:02: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:49:54: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:50:22: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:50:24: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:53:01: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 21:53:07: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 22:15:07: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/29/2021 - 22:15:11: [admincheats.smx] <Wojo><STEAM_0:0:61540295><173.62.119.29> was prevented from running cheat command 'noclip'
+L 07/30/2021 - 04:00:52: Log file closed.

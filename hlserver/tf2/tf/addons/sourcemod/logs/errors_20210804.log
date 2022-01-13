@@ -1,0 +1,14 @@
+L 08/04/2021 - 03:01:34: SourceMod error session started
+L 08/04/2021 - 03:01:34: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210804.log")
+L 08/04/2021 - 03:01:34: [SM] Exception reported: [StAC] sv_cheats set to 1! Aborting!
+L 08/04/2021 - 03:01:34: [SM] Blaming: stac.smx
+L 08/04/2021 - 03:01:34: [SM] Call stack trace:
+L 08/04/2021 - 03:01:34: [SM]   [0] SetFailState
+L 08/04/2021 - 03:01:34: [SM]   [1] Line 512, /home/steph/stac/scripting/stac/stac_cvars.sp::GenericCvarChanged
+L 08/04/2021 - 03:01:34: [SM]   [3] ServerCommandEx
+L 08/04/2021 - 03:01:34: [SM]   [4] Line 402, D:\builds\build-sourcemod-msvc12\windows-1.10\build\plugins\basecommands.sp::Command_Rcon
+L 08/04/2021 - 03:02:58: Error log file session closed.
+L 08/04/2021 - 04:00:57: SourceMod error session started
+L 08/04/2021 - 04:00:57: Info (map "plr_hightower") (file "/hlserver/tf2/tf/addons/sourcemod/logs/errors_20210804.log")
+L 08/04/2021 - 04:00:57: [tf2attributes.smx] Could not initialize call to CEconItem::SetCustomName
+L 08/05/2021 - 04:00:06: Error log file session closed.

@@ -1,0 +1,12 @@
+L 07/22/2021 - 04:01:14: [stac.smx] [Steamtools] Steam connected.
+L 07/22/2021 - 04:01:14: [stac.smx] [SteamWorks] Steam connected.
+L 07/22/2021 - 04:49:50: [stac.smx] [StAC] GetEngineTime() - steamLastOnlineTime = 2915.282958 >? 300.0
+L 07/22/2021 - 04:49:50: [stac.smx] steam stable!
+L 07/22/2021 - 04:49:50: [stac.smx] [StAC] Kicking FoxLacy for not being authorized with Steam.
+L 07/22/2021 - 19:27:27: [stac.smx] [StAC] GetEngineTime() - steamLastOnlineTime = 55572.179687 >? 300.0
+L 07/22/2021 - 19:27:27: [stac.smx] steam stable!
+L 07/22/2021 - 19:27:27: [stac.smx] [StAC] Kicking Toad for not being authorized with Steam.
+L 07/22/2021 - 19:39:27: [stac.smx] [Steamtools] Steam disconnected.
+L 07/22/2021 - 19:39:27: [stac.smx] [SteamWorks] Steam disconnected.
+L 07/22/2021 - 19:39:32: [stac.smx] [Steamtools] Steam connected.
+L 07/22/2021 - 19:39:32: [stac.smx] [SteamWorks] Steam connected.

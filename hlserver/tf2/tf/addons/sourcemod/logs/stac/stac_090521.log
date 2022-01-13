@@ -1,0 +1,1536 @@
+L 09/05/2021 - 04:01:26: [stac.smx] [Steamtools] Steam connected.
+L 09/05/2021 - 04:01:26: [stac.smx] [SteamWorks] Steam connected.
+L 09/05/2021 - 08:54:28: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 08:54:28: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 08:58:13: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 08:58:13: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 08:58:14: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 6
+L 09/05/2021 - 08:58:14: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:02:22: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 3.66° on Katify.
+Detections so far: 1. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:02:22: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:02:22: [stac.smx] 
+Network:
+ 71.80 ms ping
+ 0.00 loss
+ 1.79 inchoke
+ 0.00 outchoke
+ 1.79 totalchoke
+ 95.96 kbps rate
+ 133.72 pps rate
+L 09/05/2021 - 09:02:22: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:02:22: [stac.smx] 
+Angles:
+ angles0: x -5.628798 y 99.513397
+ angles1: x -5.879864 y 103.168281
+ angles2: x -5.628798 y 99.514549
+ angles3: x -5.628798 y 99.514549
+ angles4: x -5.628798 y 99.514549
+L 09/05/2021 - 09:02:22: [stac.smx] 
+Previous cmdnums:
+0 33886
+1 33885
+2 33884
+3 33883
+4 33882
+5 33881
+L 09/05/2021 - 09:02:22: [stac.smx] 
+Previous tickcounts:
+0 1203820
+1 1203819
+2 1203818
+3 1203817
+4 1203816
+5 1203815
+L 09/05/2021 - 09:02:22: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:02:22: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1025
+1 1025
+2 1024
+3 0
+4 512
+5 512
+L 09/05/2021 - 09:02:25: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 1.27° on Katify.
+Detections so far: 2. fuzzy = yes norecoil = yes
+L 09/05/2021 - 09:02:25: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:02:25: [stac.smx] 
+Network:
+ 70.71 ms ping
+ 0.00 loss
+ 1.70 inchoke
+ 0.00 outchoke
+ 1.70 totalchoke
+ 102.45 kbps rate
+ 134.03 pps rate
+L 09/05/2021 - 09:02:25: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:02:25: [stac.smx] 
+Angles:
+ angles0: x -6.622100 y 100.612792
+ angles1: x -5.926356 y 101.686050
+ angles2: x -6.622100 y 100.602478
+ angles3: x -6.456550 y 100.555175
+ angles4: x -6.338299 y 100.531524
+L 09/05/2021 - 09:02:25: [stac.smx] 
+Previous cmdnums:
+0 34036
+1 34035
+2 34034
+3 34033
+4 34032
+5 34031
+L 09/05/2021 - 09:02:25: [stac.smx] 
+Previous tickcounts:
+0 1203970
+1 1203969
+2 1203968
+3 1203967
+4 1203966
+5 1203965
+L 09/05/2021 - 09:02:25: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:02:25: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1025
+1 1025
+2 1024
+3 1024
+4 1024
+5 1024
+L 09/05/2021 - 09:02:51: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 725 on Katify.
+Detections so far: 1.
+L 09/05/2021 - 09:02:51: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:02:51: [stac.smx] 
+Network:
+ 71.85 ms ping
+ 0.00 loss
+ 2.01 inchoke
+ 0.00 outchoke
+ 2.01 totalchoke
+ 108.36 kbps rate
+ 133.77 pps rate
+L 09/05/2021 - 09:02:51: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:02:51: [stac.smx] 
+Previous cmdnums:
+0 36495
+1 35770
+2 35769
+3 35768
+4 35767
+5 35766
+L 09/05/2021 - 09:02:51: [stac.smx] 
+Previous tickcounts:
+0 1205705
+1 1205704
+2 1205703
+3 1205702
+4 1205701
+5 1205700
+L 09/05/2021 - 09:05:59: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:05:59: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:06:00: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 6
+L 09/05/2021 - 09:06:00: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:06:00: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 7
+L 09/05/2021 - 09:06:00: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:06:00: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 8
+L 09/05/2021 - 09:06:00: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:06:12: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 365 on Katify.
+Detections so far: 2.
+L 09/05/2021 - 09:06:12: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:06:12: [stac.smx] 
+Network:
+ 71.52 ms ping
+ 0.00 loss
+ 1.39 inchoke
+ 0.01 outchoke
+ 1.41 totalchoke
+ 114.14 kbps rate
+ 133.98 pps rate
+L 09/05/2021 - 09:06:12: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:06:12: [stac.smx] 
+Previous cmdnums:
+0 66963
+1 66598
+2 66597
+3 66596
+4 66595
+5 66594
+L 09/05/2021 - 09:06:12: [stac.smx] 
+Previous tickcounts:
+0 1219128
+1 1219127
+2 1219126
+3 1219125
+4 1219124
+5 1219123
+L 09/05/2021 - 09:06:39: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 204 on Katify.
+Detections so far: 3.
+L 09/05/2021 - 09:06:39: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:06:39: [stac.smx] 
+Network:
+ 72.35 ms ping
+ 0.00 loss
+ 1.66 inchoke
+ 0.00 outchoke
+ 1.66 totalchoke
+ 139.77 kbps rate
+ 133.56 pps rate
+L 09/05/2021 - 09:06:39: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:06:39: [stac.smx] 
+Previous cmdnums:
+0 74406
+1 74202
+2 74201
+3 74200
+4 74199
+5 74198
+L 09/05/2021 - 09:06:39: [stac.smx] 
+Previous tickcounts:
+0 1220923
+1 1220922
+2 1220921
+3 1220920
+4 1220919
+5 1220918
+L 09/05/2021 - 09:07:19: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 189 on Katify.
+Detections so far: 4.
+L 09/05/2021 - 09:07:19: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:07:19: [stac.smx] 
+Network:
+ 69.55 ms ping
+ 0.00 loss
+ 1.13 inchoke
+ 0.00 outchoke
+ 1.13 totalchoke
+ 129.73 kbps rate
+ 134.50 pps rate
+L 09/05/2021 - 09:07:19: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:07:19: [stac.smx] 
+Previous cmdnums:
+0 77743
+1 77554
+2 77553
+3 77552
+4 77551
+5 77550
+L 09/05/2021 - 09:07:19: [stac.smx] 
+Previous tickcounts:
+0 1223592
+1 1223591
+2 1223590
+3 1223589
+4 1223588
+5 1223587
+L 09/05/2021 - 09:07:21: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 212 on Katify.
+Detections so far: 5.
+L 09/05/2021 - 09:07:21: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:07:21: [stac.smx] 
+Network:
+ 72.14 ms ping
+ 0.00 loss
+ 4.96 inchoke
+ 0.00 outchoke
+ 4.96 totalchoke
+ 138.34 kbps rate
+ 131.94 pps rate
+L 09/05/2021 - 09:07:21: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:07:21: [stac.smx] 
+Previous cmdnums:
+0 82536
+1 82324
+2 82323
+3 82322
+4 82321
+5 82320
+L 09/05/2021 - 09:07:21: [stac.smx] 
+Previous tickcounts:
+0 1223729
+1 1223728
+2 1223727
+3 1223726
+4 1223725
+5 1223724
+L 09/05/2021 - 09:07:36: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 121 on Katify.
+Detections so far: 6.
+L 09/05/2021 - 09:07:36: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:07:36: [stac.smx] 
+Network:
+ 70.57 ms ping
+ 0.00 loss
+ 1.13 inchoke
+ 0.00 outchoke
+ 1.13 totalchoke
+ 113.41 kbps rate
+ 134.50 pps rate
+L 09/05/2021 - 09:07:36: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:07:36: [stac.smx] 
+Previous cmdnums:
+0 83757
+1 83636
+2 83635
+3 83634
+4 83633
+5 83632
+L 09/05/2021 - 09:07:36: [stac.smx] 
+Previous tickcounts:
+0 1224756
+1 1224755
+2 1224754
+3 1224753
+4 1224752
+5 1224751
+L 09/05/2021 - 09:07:38: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 116 on Katify.
+Detections so far: 7.
+L 09/05/2021 - 09:07:38: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:07:38: [stac.smx] 
+Network:
+ 71.73 ms ping
+ 0.00 loss
+ 3.52 inchoke
+ 0.00 outchoke
+ 3.52 totalchoke
+ 132.53 kbps rate
+ 132.41 pps rate
+L 09/05/2021 - 09:07:38: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:07:38: [stac.smx] 
+Previous cmdnums:
+0 87940
+1 87824
+2 87823
+3 87822
+4 87821
+5 87820
+L 09/05/2021 - 09:07:38: [stac.smx] 
+Previous tickcounts:
+0 1224826
+1 1224825
+2 1224824
+3 1224823
+4 1224822
+5 1224821
+L 09/05/2021 - 09:08:06: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:08:06: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:08:24: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:08:24: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:08:25: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 6
+L 09/05/2021 - 09:08:25: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:08:25: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 7
+L 09/05/2021 - 09:08:25: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:08:26: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 8
+L 09/05/2021 - 09:08:26: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:08:27: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 9
+L 09/05/2021 - 09:08:27: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:08:28: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 10
+L 09/05/2021 - 09:08:28: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:08:28: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 11
+L 09/05/2021 - 09:08:28: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:09:12: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:09:12: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:09:13: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 6
+L 09/05/2021 - 09:09:13: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:09:14: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 7
+L 09/05/2021 - 09:09:14: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:09:14: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 8
+L 09/05/2021 - 09:09:14: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:09:15: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 9
+L 09/05/2021 - 09:09:15: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:09:35: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 1.69° on Katify.
+Detections so far: 3. fuzzy = yes norecoil = yes
+L 09/05/2021 - 09:09:35: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:09:35: [stac.smx] 
+Network:
+ 71.91 ms ping
+ 0.00 loss
+ 1.24 inchoke
+ 0.00 outchoke
+ 1.24 totalchoke
+ 112.75 kbps rate
+ 134.16 pps rate
+L 09/05/2021 - 09:09:35: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:09:35: [stac.smx] 
+Angles:
+ angles0: x -0.189147 y 121.929130
+ angles1: x 0.861231 y 123.254524
+ angles2: x -0.189147 y 121.914276
+ angles3: x -0.189147 y 121.914276
+ angles4: x -0.189147 y 121.914276
+L 09/05/2021 - 09:09:35: [stac.smx] 
+Previous cmdnums:
+0 95821
+1 95820
+2 95819
+3 95818
+4 95817
+5 95816
+L 09/05/2021 - 09:09:35: [stac.smx] 
+Previous tickcounts:
+0 1232629
+1 1232628
+2 1232627
+3 1232626
+4 1232625
+5 1232624
+L 09/05/2021 - 09:09:35: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:09:35: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 0
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:09:46: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:09:46: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:11:12: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 2.17° on Katify.
+Detections so far: 4. fuzzy = yes norecoil = yes
+L 09/05/2021 - 09:11:12: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:11:12: [stac.smx] 
+Network:
+ 75.51 ms ping
+ 0.00 loss
+ 2.23 inchoke
+ 0.00 outchoke
+ 2.23 totalchoke
+ 108.36 kbps rate
+ 133.42 pps rate
+L 09/05/2021 - 09:11:12: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:11:12: [stac.smx] 
+Angles:
+ angles0: x 32.495048 y -14.056861
+ angles1: x 34.044689 y -12.526838
+ angles2: x 32.495048 y -14.072650
+ angles3: x 32.495048 y -14.072650
+ angles4: x 32.495048 y -14.072650
+L 09/05/2021 - 09:11:12: [stac.smx] 
+Previous cmdnums:
+0 102287
+1 102286
+2 102285
+3 102284
+4 102283
+5 102282
+L 09/05/2021 - 09:11:12: [stac.smx] 
+Previous tickcounts:
+0 1239095
+1 1239094
+2 1239093
+3 1239092
+4 1239091
+5 1239090
+L 09/05/2021 - 09:11:12: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:11:12: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 1
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:11:59: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 1.22° on Katify.
+Detections so far: 5. fuzzy = yes norecoil = yes
+L 09/05/2021 - 09:11:59: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:11:59: [stac.smx] 
+Network:
+ 70.83 ms ping
+ 0.00 loss
+ 1.72 inchoke
+ 0.00 outchoke
+ 1.72 totalchoke
+ 114.61 kbps rate
+ 133.75 pps rate
+L 09/05/2021 - 09:11:59: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:11:59: [stac.smx] 
+Angles:
+ angles0: x 5.132066 y 98.808120
+ angles1: x 6.215462 y 99.379257
+ angles2: x 5.132066 y 98.789154
+ angles3: x 5.132066 y 98.789154
+ angles4: x 5.132066 y 98.789154
+L 09/05/2021 - 09:11:59: [stac.smx] 
+Previous cmdnums:
+0 105428
+1 105427
+2 105426
+3 105425
+4 105424
+5 105423
+L 09/05/2021 - 09:11:59: [stac.smx] 
+Previous tickcounts:
+0 1242236
+1 1242235
+2 1242234
+3 1242233
+4 1242232
+5 1242231
+L 09/05/2021 - 09:11:59: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:11:59: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 0
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:13:25: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 127 on Katify.
+Detections so far: 8.
+L 09/05/2021 - 09:13:25: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:13:25: [stac.smx] 
+Network:
+ 67.47 ms ping
+ 0.00 loss
+ 2.57 inchoke
+ 0.00 outchoke
+ 2.57 totalchoke
+ 122.08 kbps rate
+ 133.61 pps rate
+L 09/05/2021 - 09:13:25: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:13:25: [stac.smx] 
+Previous cmdnums:
+0 111297
+1 111170
+2 111169
+3 111168
+4 111167
+5 111166
+L 09/05/2021 - 09:13:25: [stac.smx] 
+Previous tickcounts:
+0 1247990
+1 1247989
+2 1247988
+3 1247987
+4 1247986
+5 1247985
+L 09/05/2021 - 09:13:27: [stac.smx] 
+
+----------
+
+[StAC] Cmdnum SPIKE of 237 on Katify.
+Detections so far: 9.
+L 09/05/2021 - 09:13:27: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:13:27: [stac.smx] 
+Network:
+ 70.53 ms ping
+ 0.00 loss
+ 7.07 inchoke
+ 0.00 outchoke
+ 7.07 totalchoke
+ 123.00 kbps rate
+ 130.27 pps rate
+L 09/05/2021 - 09:13:27: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? yes
+ HasValidAngles? yes
+ SequentialCmdnum? no
+ OrderedTickcount? yes
+L 09/05/2021 - 09:13:27: [stac.smx] 
+Previous cmdnums:
+0 124600
+1 124363
+2 123824
+3 123262
+4 122468
+5 122465
+L 09/05/2021 - 09:13:27: [stac.smx] 
+Previous tickcounts:
+0 1248124
+1 1248123
+2 1248122
+3 1248121
+4 1248120
+5 1248119
+L 09/05/2021 - 09:15:02: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:15:02: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:15:25: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:15:25: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:15:26: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 6
+L 09/05/2021 - 09:15:26: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:15:26: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 7
+L 09/05/2021 - 09:15:26: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:15:27: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 8
+L 09/05/2021 - 09:15:27: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:15:28: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 9
+L 09/05/2021 - 09:15:28: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:18:41: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:18:41: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:22:40: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 09:22:40: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:22:40: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 6
+L 09/05/2021 - 09:22:40: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:22:41: [stac.smx] 
+
+----------
+
+[StAC] Player Katify bhopped!
+Consecutive detections so far: 7
+L 09/05/2021 - 09:22:41: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:30:24: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 19.03° on Katify.
+Detections so far: 5. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:30:24: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:30:24: [stac.smx] 
+Network:
+ 73.97 ms ping
+ 0.00 loss
+ 1.90 inchoke
+ 0.00 outchoke
+ 1.90 totalchoke
+ 122.50 kbps rate
+ 133.32 pps rate
+L 09/05/2021 - 09:30:24: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:30:24: [stac.smx] 
+Angles:
+ angles0: x 6.698036 y 102.642097
+ angles1: x 12.800409 y 84.614700
+ angles2: x 6.698036 y 102.644515
+ angles3: x 6.698036 y 102.478958
+ angles4: x 6.698036 y 102.431655
+L 09/05/2021 - 09:30:24: [stac.smx] 
+Previous cmdnums:
+0 198555
+1 198554
+2 198553
+3 198552
+4 198551
+5 198550
+L 09/05/2021 - 09:30:24: [stac.smx] 
+Previous tickcounts:
+0 1315936
+1 1315935
+2 1315934
+3 1315933
+4 1315932
+5 1315931
+L 09/05/2021 - 09:30:24: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:30:24: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 513
+1 513
+2 512
+3 0
+4 1024
+5 1024
+L 09/05/2021 - 09:38:50: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 20.00° on Katify.
+Detections so far: 4. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:38:50: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:38:50: [stac.smx] 
+Network:
+ 878.10 ms ping
+ 0.00 loss
+ 1.68 inchoke
+ 0.00 outchoke
+ 1.68 totalchoke
+ 116.25 kbps rate
+ 133.57 pps rate
+L 09/05/2021 - 09:38:50: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:38:50: [stac.smx] 
+Angles:
+ angles0: x 9.081646 y 4.678800
+ angles1: x -10.892028 y 3.503829
+ angles2: x 9.081646 y 4.697461
+ angles3: x 9.081646 y 4.697461
+ angles4: x 9.081646 y 4.697461
+L 09/05/2021 - 09:38:50: [stac.smx] 
+Previous cmdnums:
+0 232292
+1 232291
+2 232290
+3 232289
+4 232288
+5 232287
+L 09/05/2021 - 09:38:50: [stac.smx] 
+Previous tickcounts:
+0 1349673
+1 1349672
+2 1349671
+3 1349670
+4 1349669
+5 1349668
+L 09/05/2021 - 09:38:50: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:38:50: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 9
+1 9
+2 8
+3 8
+4 8
+5 8
+L 09/05/2021 - 09:38:53: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 10.89° on Katify.
+Detections so far: 5. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:38:53: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:38:53: [stac.smx] 
+Network:
+ 878.93 ms ping
+ 0.00 loss
+ 1.58 inchoke
+ 0.00 outchoke
+ 1.58 totalchoke
+ 116.60 kbps rate
+ 133.79 pps rate
+L 09/05/2021 - 09:38:53: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:38:53: [stac.smx] 
+Angles:
+ angles0: x 7.851845 y 3.046212
+ angles1: x -3.047241 y 3.146379
+ angles2: x 7.851845 y 3.041963
+ angles3: x 7.851845 y 3.041963
+ angles4: x 7.946444 y 3.136563
+L 09/05/2021 - 09:38:53: [stac.smx] 
+Previous cmdnums:
+0 232509
+1 232508
+2 232507
+3 232506
+4 232505
+5 232504
+L 09/05/2021 - 09:38:53: [stac.smx] 
+Previous tickcounts:
+0 1349890
+1 1349889
+2 1349888
+3 1349887
+4 1349886
+5 1349885
+L 09/05/2021 - 09:38:53: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:38:53: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 0
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:38:57: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 13.55° on Katify.
+Detections so far: 6. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:38:57: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:38:57: [stac.smx] 
+Network:
+ 887.46 ms ping
+ 0.00 loss
+ 1.41 inchoke
+ 0.00 outchoke
+ 1.41 totalchoke
+ 96.39 kbps rate
+ 133.88 pps rate
+L 09/05/2021 - 09:38:57: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:38:57: [stac.smx] 
+Angles:
+ angles0: x 10.358746 y 2.796213
+ angles1: x -3.192749 y 2.890830
+ angles2: x 10.358746 y 2.805462
+ angles3: x 10.358746 y 2.805462
+ angles4: x 10.358746 y 2.805462
+L 09/05/2021 - 09:38:57: [stac.smx] 
+Previous cmdnums:
+0 232767
+1 232766
+2 232765
+3 232764
+4 232763
+5 232762
+L 09/05/2021 - 09:38:57: [stac.smx] 
+Previous tickcounts:
+0 1350148
+1 1350147
+2 1350146
+3 1350145
+4 1350144
+5 1350143
+L 09/05/2021 - 09:38:57: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:38:57: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 0
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:38:59: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 12.84° on Katify.
+Detections so far: 7. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:38:59: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:38:59: [stac.smx] 
+Network:
+ 881.91 ms ping
+ 0.00 loss
+ 1.83 inchoke
+ 0.00 outchoke
+ 1.83 totalchoke
+ 95.03 kbps rate
+ 133.63 pps rate
+L 09/05/2021 - 09:38:59: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:38:59: [stac.smx] 
+Angles:
+ angles0: x 10.358746 y 2.808199
+ angles1: x -2.485534 y 3.039979
+ angles2: x 10.358746 y 2.805462
+ angles3: x 10.358746 y 2.805462
+ angles4: x 10.358746 y 2.805462
+L 09/05/2021 - 09:38:59: [stac.smx] 
+Previous cmdnums:
+0 232896
+1 232895
+2 232894
+3 232893
+4 232892
+5 232891
+L 09/05/2021 - 09:38:59: [stac.smx] 
+Previous tickcounts:
+0 1350277
+1 1350276
+2 1350275
+3 1350274
+4 1350273
+5 1350272
+L 09/05/2021 - 09:38:59: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:38:59: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 0
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:39:07: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 8.00° on Katify.
+Detections so far: 8. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:39:07: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:39:07: [stac.smx] 
+Network:
+ 879.24 ms ping
+ 0.00 loss
+ 1.70 inchoke
+ 0.00 outchoke
+ 1.70 totalchoke
+ 86.47 kbps rate
+ 133.43 pps rate
+L 09/05/2021 - 09:39:07: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:39:07: [stac.smx] 
+Angles:
+ angles0: x 7.284248 y 5.173090
+ angles1: x -0.450164 y 3.102750
+ angles2: x 7.284248 y 5.170464
+ angles3: x 7.284248 y 5.170464
+ angles4: x 7.284248 y 5.170464
+L 09/05/2021 - 09:39:07: [stac.smx] 
+Previous cmdnums:
+0 233405
+1 233404
+2 233403
+3 233402
+4 233401
+5 233400
+L 09/05/2021 - 09:39:07: [stac.smx] 
+Previous tickcounts:
+0 1350786
+1 1350785
+2 1350784
+3 1350783
+4 1350782
+5 1350781
+L 09/05/2021 - 09:39:07: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:39:07: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 0
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:39:11: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 8.34° on Katify.
+Detections so far: 9. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:39:11: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:39:11: [stac.smx] 
+Network:
+ 884.96 ms ping
+ 0.00 loss
+ 2.13 inchoke
+ 0.00 outchoke
+ 2.13 totalchoke
+ 95.88 kbps rate
+ 133.54 pps rate
+L 09/05/2021 - 09:39:11: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈68 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:39:11: [stac.smx] 
+Angles:
+ angles0: x 7.284248 y 5.179426
+ angles1: x -0.793945 y 3.089806
+ angles2: x 7.284248 y 5.170464
+ angles3: x 7.284248 y 5.170464
+ angles4: x 7.284248 y 5.170464
+L 09/05/2021 - 09:39:11: [stac.smx] 
+Previous cmdnums:
+0 233647
+1 233646
+2 233645
+3 233644
+4 233643
+5 233642
+L 09/05/2021 - 09:39:11: [stac.smx] 
+Previous tickcounts:
+0 1351028
+1 1351027
+2 1351026
+3 1351025
+4 1351024
+5 1351023
+L 09/05/2021 - 09:39:11: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:39:11: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 0
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:39:12: [stac.smx] 
+
+----------
+
+[StAC] SilentAim detection of 7.65° on Katify.
+Detections so far: 10. fuzzy = yes norecoil = no
+L 09/05/2021 - 09:39:12: [stac.smx] 
+ Player: Katify<3><[U:1:42314417]><>
+ StAC cached SteamID: STEAM_0:1:21157208
+L 09/05/2021 - 09:39:12: [stac.smx] 
+Network:
+ 885.42 ms ping
+ 0.00 loss
+ 2.31 inchoke
+ 0.00 outchoke
+ 2.31 totalchoke
+ 94.22 kbps rate
+ 133.16 pps rate
+L 09/05/2021 - 09:39:12: [stac.smx] 
+More network:
+ Approx client cmdrate: ≈67 cmd/sec
+ Approx server tickrate: ≈67 tick/sec
+ Failing lag check? no
+ HasValidAngles? yes
+ SequentialCmdnum? yes
+ OrderedTickcount? yes
+L 09/05/2021 - 09:39:12: [stac.smx] 
+Angles:
+ angles0: x 7.284248 y 5.189561
+ angles1: x -0.159149 y 3.396289
+ angles2: x 7.284248 y 5.170464
+ angles3: x 7.284248 y 5.170464
+ angles4: x 7.284248 y 5.170464
+L 09/05/2021 - 09:39:12: [stac.smx] 
+Previous cmdnums:
+0 233775
+1 233774
+2 233773
+3 233772
+4 233771
+5 233770
+L 09/05/2021 - 09:39:12: [stac.smx] 
+Previous tickcounts:
+0 1351156
+1 1351155
+2 1351154
+3 1351153
+4 1351152
+5 1351151
+L 09/05/2021 - 09:39:12: [stac.smx] 
+Mouse Movement (sens weighted):
+ abs(x): 0
+ abs(y): 0
+Mouse Movement (unweighted):
+ x: 0
+ y: 0
+Client Sens:
+ 2.150000
+L 09/05/2021 - 09:39:12: [stac.smx] 
+Previous buttons - use https://sapphonie.github.io/flags.html to convert to readable input
+0 1
+1 1
+2 0
+3 0
+4 0
+5 0
+L 09/05/2021 - 09:39:12: [stac.smx] [StAC] No STV demo is being recorded, no demo name will be printed to the ban reason!
+L 09/05/2021 - 15:35:19: [stac.smx] 
+
+----------
+
+[StAC] Player Fug a Pug bhopped!
+Consecutive detections so far: 5
+L 09/05/2021 - 15:35:19: [stac.smx] 
+ Player: Fug a Pug<9><[U:1:187331180]><>
+ StAC cached SteamID: STEAM_0:0:93665590
+L 09/05/2021 - 15:35:19: [stac.smx] 
+
+----------
+
+[StAC] Player Fug a Pug bhopped!
+Consecutive detections so far: 6
+L 09/05/2021 - 15:35:19: [stac.smx] 
+ Player: Fug a Pug<9><[U:1:187331180]><>
+ StAC cached SteamID: STEAM_0:0:93665590
