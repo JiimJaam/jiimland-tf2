@@ -63,7 +63,6 @@ plr_bananabay
 plr_hightower
 plr_nightfall_final
 plr_pipeline
-sd_doomsday
 
 // Custom Maps //
 cp_cardinal_rc1a
