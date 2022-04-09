@@ -45,6 +45,11 @@ typedef ItemFilterCriteria = function bool(int itemdef, any data);
 native bool TF2Econ_IsValidItemDefinition(int itemdef);
 
 /**
+ * Returns true if item is in base set (corresponds to the "baseitem" key).
+ */
+native bool TF2Econ_IsItemInBaseSet(int itemdef);
+
+/**
  * Returns the item's name (corresponds to the "name" key).
  */
 native bool TF2Econ_GetItemName(int itemdef, char[] name, int maxlen);
@@ -291,6 +296,14 @@ native ArrayList TF2Econ_GetParticleAttributeList(
  * Handle is owned by the calling plugin.
  */
 native ArrayList TF2Econ_GetPaintKitDefinitionList();
+
+/**
+ * Returns the definition index of a given map name, or 0 if not valid.
+ * 
+ * Note that the name "Missing" also points to a valid map definition, and will also return 0;
+ * the zero-on-invalid case is intended to match the behavior of the game.
+ */
+native int TF2Econ_GetMapDefinitionIndexByName(const char[] name);
 
 /**
  * Returns the address of the singleton CTFItemSchema (subclass of CEconItemSchema).
