@@ -60,6 +60,12 @@
 	}
 	"7"
 	{
+		"classname"	"tf_wearable"
+		"index"		"608"
+		"slot"		"0"
+		"quality"	"13"
+		"level"		"999"
+		"attribs"	"26 ; 1 ; 246 ; 1000 ; 788 ; 1.1 ; 778 ; 0.25"
 	}
 	"8"
 	{
