@@ -107,12 +107,15 @@
 	"14"
 	{
 		"classname"	"tf_weapon_pipebomblauncher"
-		"index"		"18"
+		"index"		"20"
 		"slot"		"0"
 		"quality"	"5"
 		"level"		"1"
 		"attribs"	"1 ; 0 ; 4 ; 1000 ; 6 ; 0.1 ; 97 ; 0.1 ; 102 ; 0 ; 120 ; 999999 ; 181 ; 1 ; 88 ; 999999 ; 670 ; 0"
 		"ammo"		"2000"
+		"model"		"models/weapons/c_models/c_rocketlauncher/c_rocketlauncher.mdl"
+		"viewmodel"	"models/weapons/c_models/c_rocketlauncher/c_rocketlauncher.mdl"
+		
 	}
 	"15"
 	{
