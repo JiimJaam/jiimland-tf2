@@ -96,16 +96,6 @@
 	}
 	"13"
 	{
-		"classname"	"tf_weapon_pipebomblauncher"
-		"index"		"18"
-		"slot"		"1"
-		"quality"	"5"
-		"level"		"1"
-		"attribs"	"1 ; 0 ; 4 ; 10000 ; 6 ; 0.1 ; 97 ; 0.1 ; 102 ; 0 ; 120 ; 999999 ; 181 ; 1 ; 88 ; 999999 ; 670 ; 0"
-		"ammo"		"2000"
-	}
-	"14"
-	{
 		"classname"	"tf_weapon_flamethrower"
 		"index"		"40"
 		"slot"		"0"
@@ -113,6 +103,16 @@
 		"level"		"999"
 		"attribs"	"1 ; 0 ; 72 ; 0 ; 74 ; 0 ; 171 ; 0 ; 255 ; 25"
 		"ammo"		"9999"
+	}
+	"14"
+	{
+		"classname"	"tf_weapon_pipebomblauncher"
+		"index"		"18"
+		"slot"		"0"
+		"quality"	"5"
+		"level"		"1"
+		"attribs"	"1 ; 0 ; 4 ; 1000 ; 6 ; 0.1 ; 97 ; 0.1 ; 102 ; 0 ; 120 ; 999999 ; 181 ; 1 ; 88 ; 999999 ; 670 ; 0"
+		"ammo"		"2000"
 	}
 	"15"
 	{
