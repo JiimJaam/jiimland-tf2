@@ -8,8 +8,9 @@ Servers automatically restart when there is a Steam, TF2, or Linux update.
 4. Don't ask for Admin or VIP.
 5. Don't target specific players to annoy them.
 6. Friendlies are allowed, but so is killing them. Friendlies can also fight back if they care to. Basically, kill who you want but don't get mad if they retaliate.
+7. The Big Chief, Bunsen Brave, and Chieftain's Challenge hats are NOT allowed on this server. If a moderator sees you wearing one of them, you'll be asked to remove it. Refusal to comply may result in a kick/ban.
 
-Breaking any of these rules will result in a kick/ban as admins see fit.
+Breaking any of these rules will result in a warning/kick/ban as admins see fit.
 
 ==== STEAM GROUP ====
 You can join our Steam group at:
