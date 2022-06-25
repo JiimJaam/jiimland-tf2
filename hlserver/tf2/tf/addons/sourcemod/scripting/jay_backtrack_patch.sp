@@ -1,9 +1,6 @@
-#pragma semicolon 1
-#pragma newdecls required
-
 /*
 	Jay's Backtrack Patch
-	Copyright (C) 2021 J_Tanzanite
+	Copyright (C) 2020-2021 J_Tanzanite
 
 	This program is free software: you can redistribute it and/or modify
 	it under the terms of the GNU General Public License as published by
@@ -19,13 +16,14 @@
 	along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
+
 #include <sourcemod>
 #include <sdktools_entoutput>
 
 
 #define CVAR_ENABLE 	0
 #define CVAR_TOLERANCE 	1
-#define CVAR_MAX 		2
+#define CVAR_MAX 	2
 
 
 int backtrack_ticks = 0;
@@ -34,12 +32,20 @@ int diff_tickcount[MAXPLAYERS + 1];
 float time_timeout[MAXPLAYERS + 1];
 float time_teleport[MAXPLAYERS + 1];
 
-Handle hcvar[CVAR_MAX];
+Handle cvar[CVAR_MAX];
 int icvar[CVAR_MAX];
 
 
+public Plugin myinfo = {
+	name = "Jay's Backtrack Patch",
+	author = "J_Tanzanite",
+	description = "Patches backtracking cheats (from Lilac).",
+	version = "1.1.0",
+	url = ""
+};
 
-void OnPluginStart_jaypatch()
+
+public void OnPluginStart()
 {
 	char gamefolder[16];
 
@@ -52,25 +58,25 @@ void OnPluginStart_jaypatch()
 
 	HookEntityOutput("trigger_teleport", "OnEndTouch", map_teleport);
 
-	hcvar[CVAR_ENABLE] = CreateConVar("jay_backtrack_enable", "1",
+	cvar[CVAR_ENABLE] = CreateConVar("jay_backtrack_enable", "1",
 		"Enable Jay's Backtracking patch.",
 		FCVAR_PROTECTED, true, 0.0, true, 1.0);
-	hcvar[CVAR_TOLERANCE] = CreateConVar("jay_backtrack_tolerance", "0",
+	cvar[CVAR_TOLERANCE] = CreateConVar("jay_backtrack_tolerance", "0",
 		"Tolerance for tickcount changes.\n0 = Tickcount must increment.\nN+ = Tickcount can be off by N ticks (Don't go higher than 2).",
 		FCVAR_PROTECTED, true, 0.0, true, 3.0);
 
 	for (int i = 0; i < CVAR_MAX; i++) {
-		icvar[i] = GetConVarInt(hcvar[i]);
+		icvar[i] = GetConVarInt(cvar[i]);
 
-		HookConVarChange(hcvar[i], cvar_change);
+		HookConVarChange(cvar[i], cvar_change);
 	}
 
 	backtrack_ticks = time_to_ticks(0.2);
 }
 
-void cvar_change(ConVar convar, const char[] oldValue, const char[] newValue)
+public void cvar_change(ConVar convar, const char[] oldValue, const char[] newValue)
 {
-	if (view_as<Handle>(convar) == hcvar[CVAR_ENABLE]) {
+	if (view_as<Handle>(convar) == cvar[CVAR_ENABLE]) {
 		icvar[CVAR_ENABLE] = StringToInt(newValue, 10);
 	}
 	else {
@@ -78,7 +84,7 @@ void cvar_change(ConVar convar, const char[] oldValue, const char[] newValue)
 	}
 }
 
-Action event_teleported(Event event, const char[] name, bool dontBroadcast)
+public Action event_teleported(Event event, const char[] name, bool dontBroadcast)
 {
 	int client;
 
@@ -86,11 +92,9 @@ Action event_teleported(Event event, const char[] name, bool dontBroadcast)
 
 	if (is_player_valid(client))
 		time_teleport[client] = GetGameTime();
-
-	return Plugin_Continue;
 }
 
-void map_teleport(const char[] output, int caller, int activator, float delay)
+public void map_teleport(const char[] output, int caller, int activator, float delay)
 {
 	if (!is_player_valid(activator) || IsFakeClient(activator))
 		return;
@@ -98,7 +102,7 @@ void map_teleport(const char[] output, int caller, int activator, float delay)
 	time_teleport[activator] = GetGameTime();
 }
 
-void OnClientPutInServer_jaypatch(int client)
+public void OnClientPutInServer(int client)
 {
 	prev_tickcount[client] = 0;
 	diff_tickcount[client] = 0;
@@ -106,7 +110,7 @@ void OnClientPutInServer_jaypatch(int client)
 	time_teleport[client] = 0.0;
 }
 
-stock Action OnPlayerRunCmd_jaypatch(int client, int& buttons, int& impulse,
+public Action OnPlayerRunCmd(int client, int& buttons, int& impulse,
 				float vel[3], float angles[3], int& weapon,
 				int& subtype, int& cmdnum, int& tickcount,
 				int& seed, int mouse[2])
@@ -138,7 +142,7 @@ void store_tickcount(int client, int tickcount)
 	static int tmp[MAXPLAYERS + 1];
 
 	prev_tickcount[client] = tmp[client];
-	tmp[client] = tickcount;
+	tmp[client] = tickcount;	
 }
 
 int correct_tickcount(int client, int tickcount)
@@ -158,7 +162,7 @@ int correct_tickcount(int client, int tickcount)
 	return tickcount;
 }
 
-void set_in_timeout(int client)
+bool set_in_timeout(int client)
 {
 	int ping;
 	int tick;
@@ -187,7 +191,6 @@ void set_in_timeout(int client)
 		diff_tickcount[client] = backtrack_ticks - 3;
 	else if (diff_tickcount[client] < ((backtrack_ticks * -1) + 3))
 		diff_tickcount[client] = (backtrack_ticks * -1) + 3;
-
 }
 
 // Simulate the players tickcount as if it incremented normally
